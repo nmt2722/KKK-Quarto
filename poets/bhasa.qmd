@@ -1,0 +1,37 @@
+---
+title: Bhāsa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-bhasa-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-bhasa-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhasa-life-tab" data-bs-toggle="tab" data-bs-target="#nav-bhasa-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhasa-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-bhasa-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhasa-works-tab" data-bs-toggle="tab" data-bs-target="#nav-bhasa-works" type="button" role="tab">Works (11)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-bhasa-overview" role="tabpanel">
+  <p class="lead">Bhāsa is believed to be the contemporary of Kālidāsa because of the opening line in Kālidāsa’s Mālavikāgnimitram prathitayaśasāṃ bhāsasaumillakaviputrādīnāṃ prabandhān atikramya vartamānakaveḥ kālidāsasya kriyāyāṃ kathaṃ pariṣado bahumānaḥ? The meaning is – “How will the work of a modern poet named Kālidāsa will impress this learned assembly which is used to the compositions of well-established poets such as Bhāsa, Kaviputra and Saumallika?” Bhāsa’s date of birth is uncertain. However as he was already known as a famous dramatist in 1st century BCE (1st century is believed to be the period in which Kālidāsa lived), he is believed to have lived in the 1st century.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bhasa-life" role="tabpanel">
+  Vedavyāsa is a legendary figure in Hinduism and is believed to be the author of the Mahābhārata, one of the two major epics in Hinduism. According to traditional beliefs, Vedavyāsa was born as the son of the sage Parāśara and Satyavatī a fisherwoman. Vedavyāsa is also credited with compiling and classifying the four Vedas, which are the foundational texts of Hinduism. He is considered one of the seven Cirañjīvins or immortal beings in Hinduism. The life of Vedavyāsa is described in various Hindu texts and legends. According to one story, after the completion of the Mahābhārata, Vedavyāsa was troubled by the fact that his work had not achieved the desired effect of enlightening people. He approached Brahma, the creator, and expressed his sadness. Brahma advised Vedavyāsa to write the Bhāgavata Purāṇa, which would be more accessible to the common people and easier to understand. Vedavyāsa then wrote the Bhāgavata Purāṇa, which is a devotional text that tells the story of the god Viṣṇu and his various incarnations. The text is considered one of the most important works in Hinduism and is often recited in Hindu temples. Vedavyāsa is also said to have composed the Brahmasūtra, which are a series of aphorisms that summarize the philosophical teachings of the Upaniṣads.
+  </div>
+  <div class="tab-pane fade" id="nav-bhasa-contribution" role="tabpanel">
+  Bhāsa is considered one of the earliest and most influential playwrights in the history of Sanskrit drama. He was known for his innovative use of language, themes, and characters, which set the foundation for later playwrights. Bhāsa's plays were known for their vivid portrayal of human nature and emotions. His characters were multi-dimensional, and his stories were engaging and thought-provoking. Bhāsa's works were so influential that they inspired many other Sanskrit playwrights who came after him. His plays were also translated into other Indian languages, which further popularized his work. Even today, Bhāsa's plays continue to be performed and studied by scholars and enthusiasts of Indian literature. Some of Bhāsa's most famous plays include &quot;Ūrubhaṅgam,&quot; &quot;Madhyamavyāyogaḥ,&quot; and &quot;Svapnavāsavadattam.&quot; These plays deal with themes such as love, revenge, sacrifice, and loyalty. They offer insight into the social, political, and cultural milieu of ancient India and provide valuable information about the customs, traditions, and beliefs of the time. In conclusion, Bhāsa's contribution to Sanskrit literature is significant and enduring. His plays continue to be appreciated and studied by scholars and enthusiasts of Indian literature, and his influence can be seen in the works of many later playwrights. Bhāsa's legacy in Sanskrit drama remains an integral part of India's cultural heritage.
+  </div>
+  <div class="tab-pane fade" id="nav-bhasa-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/svapnavasavadattam.html">Svapnavāsavadattam</a></li>
+  <li class="list-group-item px-0"><a href="../works/pratijnayaugandharayanam.html">Pratijñāyaugandharāyaṇam</a></li>
+  <li class="list-group-item px-0"><a href="../works/yajnaphalam.html">Yajñaphalam</a></li>
+  <li class="list-group-item px-0"><a href="../works/pratimanatakam.html">Pratimānāṭakam</a></li>
+  <li class="list-group-item px-0"><a href="../works/abhisekanatakam.html">Abhiṣekanāṭakam</a></li>
+  <li class="list-group-item px-0"><a href="../works/madhyamavyayogah.html">Madhyamavyāyogaḥ</a></li>
+  <li class="list-group-item px-0"><a href="../works/pancaratram.html">Pañcarātram</a></li>
+  <li class="list-group-item px-0"><a href="../works/dutavakyam.html">Dūtavākyam</a></li>
+  <li class="list-group-item px-0"><a href="../works/urubhangam.html">Ūrubhaṅgam</a></li>
+  <li class="list-group-item px-0"><a href="../works/avimarakam.html">Avimārakam</a></li>
+  <li class="list-group-item px-0"><a href="../works/carudattam.html">Cārudattam</a></li>
+  </ul>
+  </div>
+</div>

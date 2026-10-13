@@ -1,0 +1,27 @@
+---
+title: Murāri
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-murari-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-murari-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-murari-life-tab" data-bs-toggle="tab" data-bs-target="#nav-murari-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-murari-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-murari-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-murari-works-tab" data-bs-toggle="tab" data-bs-target="#nav-murari-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-murari-overview" role="tabpanel">
+  <p class="lead">800 AD (speculation)</p>
+  </div>
+  <div class="tab-pane fade" id="nav-murari-life" role="tabpanel">
+  Not much is known about the poet Murāri. However, few scholars have known that he was a Brāhmaṇa court poet who lived sometime between the 8th and 10th centuries AD, possibly in Orissa or neighbouring South India. The earliest reference of the post Murāri is made in the second chapter of Daśarūpaka of Dhanañjaya in 10th century. This definitely proves that Murāri lived not later than 10th century.
+  </div>
+  <div class="tab-pane fade" id="nav-murari-contribution" role="tabpanel">
+  Murāri may have purposefully reduced stage action in order to concentrate, and make the audience concentrate, on diction and other elements of dramatic representation. Also, his work brings out the in-depth knowledge of the poet towards Darśanaśāstra and Dharmaśāstra. His usage of the theories in the play, shows his brilliance in the subject.
+  </div>
+  <div class="tab-pane fade" id="nav-murari-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/anargharaghava-1.html">Anargharāghava</a></li>
+  </ul>
+  </div>
+</div>

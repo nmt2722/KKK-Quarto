@@ -1,0 +1,27 @@
+---
+title: Somadevabhaṭṭa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-somadevabhatta-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-somadevabhatta-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-somadevabhatta-life-tab" data-bs-toggle="tab" data-bs-target="#nav-somadevabhatta-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-somadevabhatta-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-somadevabhatta-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-somadevabhatta-works-tab" data-bs-toggle="tab" data-bs-target="#nav-somadevabhatta-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-somadevabhatta-overview" role="tabpanel">
+  <p class="lead">Approximately around 1070 AD (11th century)</p>
+  </div>
+  <div class="tab-pane fade" id="nav-somadevabhatta-life" role="tabpanel">
+  The life of the poet Somadeva needs to be well aware by scholars. However, it can be traced that he was the son of Rāma, a Śaiva Brāhman of Kashmir.
+  </div>
+  <div class="tab-pane fade" id="nav-somadevabhatta-contribution" role="tabpanel">
+  Somadeva's prodigy is prized in intertwining the separate, often unrelated, stories within the main level to create a work that engrosses and enchants from the start. This is proved in Kathāsaritsāgara, which takes the reader's cognisance and attracts them to the literature to understand life and its expeditions. Such contribution of Somadeva towards Sanskrit literature is phenomenal.
+  </div>
+  <div class="tab-pane fade" id="nav-somadevabhatta-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/kathasaritsagara.html">Kathāsaritsāgara</a></li>
+  </ul>
+  </div>
+</div>

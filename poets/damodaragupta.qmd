@@ -1,0 +1,27 @@
+---
+title: Dāmodaragupta
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-damodaragupta-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-damodaragupta-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-damodaragupta-life-tab" data-bs-toggle="tab" data-bs-target="#nav-damodaragupta-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-damodaragupta-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-damodaragupta-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-damodaragupta-works-tab" data-bs-toggle="tab" data-bs-target="#nav-damodaragupta-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-damodaragupta-overview" role="tabpanel">
+  <p class="lead">779-823 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-damodaragupta-life" role="tabpanel">
+  Dāmodaragupta was a Brahman, who was a well-acclaimed Nyāya-śāstrajña. He was the Minister in the court of the King of Kashmir- Jayapīḍika. Since it is known that Jayapīḍika’s reign was 755- 787 AD, it is clear that Dāmodaragupta lived in 8th century AD. Apart from the name of the author in various works like Rajataraṅgiṇi, his life is nowhere disclosed.
+  </div>
+  <div class="tab-pane fade" id="nav-damodaragupta-contribution" role="tabpanel">
+  Dāmodaragupta was a prominent poet and playwright in classical Sanskrit literature, and his works have contributed significantly to the development and evolution of Sanskrit literature as a whole.<br><br>One of his most famous works, &quot;Kuṭṭanī-Mata,&quot; is a masterpiece of Sanskrit poetry that explores complex philosophical ideas and critiques social norms of the time. The poem's use of allegory, metaphor, and complex meter made it a major influence on later Sanskrit poets and writers.<br>In addition to his contributions to literature, Dāmodaragupta was also a scholar of Sanskrit grammar and poetics, and his works in these fields have had a lasting impact on the study of Sanskrit language and literature. Overall, his contributions to classical Sanskrit literature have helped to shape and define the literary traditions of India and continue to be studied and appreciated by scholars and readers around the world.
+  </div>
+  <div class="tab-pane fade" id="nav-damodaragupta-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/kuttani-mata.html">Kuṭṭanī-Mata</a></li>
+  </ul>
+  </div>
+</div>

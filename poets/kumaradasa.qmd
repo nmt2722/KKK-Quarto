@@ -1,0 +1,27 @@
+---
+title: Kūmāradāsa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-kumaradasa-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-kumaradasa-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-kumaradasa-life-tab" data-bs-toggle="tab" data-bs-target="#nav-kumaradasa-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-kumaradasa-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-kumaradasa-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-kumaradasa-works-tab" data-bs-toggle="tab" data-bs-target="#nav-kumaradasa-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-kumaradasa-overview" role="tabpanel">
+  <p class="lead">The dates of Kūmāradāsa have numerous notions projected across by several scholars. However, after vigilant assessment, we can conclude that Kūmāradāsa flourished during the period of 650 A.D. to 750 A.D.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-kumaradasa-life" role="tabpanel">
+  Kūmāradāsa is known by several names like Nātha Kuralarā and Kumāradattaḥ. In Jalhana’s Sūktimuktāvalī, the name Nātha Kuralarā is used. According to jī. ār. Nandarāgīkara, Kumāradāsa was also called by the names Bhaṭṭakumāra, Kumārabhaṭṭa and Śrīkumara. Kūmāradāsa was a poet and an abled King who reigned Ceylon, the island country, for nine years. A colophon of Jānakīhāraṇa sanne, viz. “iti siṃhalasya kumāradāsasya kṛtau jānakīharaṇam &quot; that refers to Kūmāradāsa as of Sinhalese origin. This phrase can also be seen at the end of cantos VIII and XX of the manuscript of Jānakīhāraṇa discovered by Rāmakṛṣṇakavi. His father was Mogalanā I. Several stories and scholars point out his friendship with the great Kālidāsa. A tale of their bonding shows the depth of their friendship, to which Kūmāradāsa gave away his life.
+  </div>
+  <div class="tab-pane fade" id="nav-kumaradasa-contribution" role="tabpanel">
+  Kūmāradāsa has introduced a considerable number of metres in Jānakīhāraṇa. Rhetoricians like Dandin and Viśvanātha say that in a Mahākāvya the cantos should possess various types of metres and at the end of a canto sometimes a new metre is seen. Sometimes different types of metres appear in a canto, Dandin speaks of a variety of metres to be employed throughout the Mahākāvya. Kūmāradāsa maintains this convention and at the end of each canto we find a new metre different from the rest of the canto. Kūmāradāsa has employed twenty-three metres. This work, thus, stands out a major contribution to whole Sanskrit literature from Kūmāradāsa.
+  </div>
+  <div class="tab-pane fade" id="nav-kumaradasa-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/janakiharanam.html">Jānakīharaṇam</a></li>
+  </ul>
+  </div>
+</div>

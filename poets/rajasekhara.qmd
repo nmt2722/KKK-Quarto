@@ -1,0 +1,21 @@
+---
+title: Rājaśekhara
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-rajasekhara-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-rajasekhara-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-rajasekhara-life-tab" data-bs-toggle="tab" data-bs-target="#nav-rajasekhara-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-rajasekhara-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-rajasekhara-contribution" type="button" role="tab">Contribution</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-rajasekhara-overview" role="tabpanel">
+  <p class="lead">10th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-rajasekhara-life" role="tabpanel">
+  The life of Rājaśekhara is not well documented, and many details about his life are not known for certain. However, based on his writings and historical records, scholars have been able to piece together some information about his life.<br><br>Rājaśekhara is believed to have lived in the first quarter of the 10th century CE. He was born in a Brahmin family and was raised in the city of Kannauja in present-day Uttar Pradesh. He was a highly educated person and was well-versed in Sanskrit literature, philosophy, and various branches of knowledge.<br><br>Rājaśekhara is said to have travelled extensively throughout India, visiting many important centres of learning, including the states of Karnataka, Maharashtra and the cities like Varanasi, Prayag, and Ujjain. He was known to be a patron of the arts and is believed to have been associated with the court of King Mahendrapāla of Kannauj.<br><br>Rājaśekhara is credited with writing several important works, including Kāvyamīmāmsā, Bāla-rāmāyaṇa, Bāla-bhārata, Viddhaśālabhan̄jikā, Haravilāsa, and Karpūramañjarī. His works are highly regarded for their literary and poetic qualities, as well as their philosophical and cultural significance.<br><br>Rājaśekhara is considered to be one of the most important literary figures of his time and is regarded as a master of Sanskrit literature. His works have had a lasting impact on Indian literature and continue to be studied and admired by scholars and readers alike.
+  </div>
+  <div class="tab-pane fade" id="nav-rajasekhara-contribution" role="tabpanel">
+  One of his significant contributions was his portrayal of women in his works. In a time when women were often marginalized in literature, Rājaśekhara presented strong, independent female characters in his plays, such as the character of Vāsavadattā in his play, Karpūramañjarī. His portrayal of women as powerful and capable figures challenged the societal norms of his time and had a significant impact on the portrayal of women in later works of Sanskrit literature.<br><br>Another important contribution of Rājaśekhara was his role in the development of the genre of drama in Sanskrit literature. His plays are considered some of the earliest examples of the Sanskrit drama, and his works served as a model for later writers. His plays were known for their complex plots, intricate language, and the use of various theatrical devices that were later adopted by other playwrights.<br><br>Overall, Rājaśekhara's contributions to classical Sanskrit literature were diverse and significant. His advancements in poetic theory, innovative use of language, portrayal of strong female characters, and contributions to the development of the Sanskrit drama have had a lasting impact on the literary tradition of Sanskrit. His works continue to be studied and admired by scholars and literature enthusiasts alike.
+  </div>
+</div>

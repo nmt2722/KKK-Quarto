@@ -1,0 +1,27 @@
+---
+title: Śubhacandra
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-subhacandra-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-subhacandra-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-subhacandra-life-tab" data-bs-toggle="tab" data-bs-target="#nav-subhacandra-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-subhacandra-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-subhacandra-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-subhacandra-works-tab" data-bs-toggle="tab" data-bs-target="#nav-subhacandra-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-subhacandra-overview" role="tabpanel">
+  <p class="lead">1003-1068 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-subhacandra-life" role="tabpanel">
+  Apart from the fact that Śubhacandra was a brilliant poet, well-versed in Jain doctrine, well-informed, and intelligent, no much information is available on the life of Śubhacandra.
+  </div>
+  <div class="tab-pane fade" id="nav-subhacandra-contribution" role="tabpanel">
+  As the centuries passed, from the first millennium to the second, Sanskrit became more entrenched within Jain circles as the preferred language for intellectual and philosophical discourse. During that time, the nature of the text, its subject matter, and its intended audience were relevant considerations in deciding to use Sanskrit. Śubhacandra's work was clearly intended to be a śāstra, a religious 193 treatise that provides detailed instruction on its subject matter. As a result, just as Prabhācandra felt compelled to use Sanskrit, Śubhacandra would have felt compelled to write in Sanskrit to endow his work with the necessary authority and gravitas required of a composition of this kind.
+  </div>
+  <div class="tab-pane fade" id="nav-subhacandra-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/jnanarnava.html">Jñānārṇava</a></li>
+  </ul>
+  </div>
+</div>

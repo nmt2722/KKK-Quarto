@@ -1,0 +1,27 @@
+---
+title: Śūdraka
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-sudraka-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-sudraka-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sudraka-life-tab" data-bs-toggle="tab" data-bs-target="#nav-sudraka-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sudraka-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-sudraka-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sudraka-works-tab" data-bs-toggle="tab" data-bs-target="#nav-sudraka-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-sudraka-overview" role="tabpanel">
+  <p class="lead">4th or 5th Century</p>
+  </div>
+  <div class="tab-pane fade" id="nav-sudraka-life" role="tabpanel">
+  It is believed that he lived in the kingdom of Magadha, which was located in present-day Bihar and parts of Uttar Pradesh in India. Some scholars also suggest that he may have been associated with the Gupta dynasty, which ruled over a large part of India during the 4th-5th centuries CE. However, very little is known about his life. His works are the only source of information about him. Śūdraka was born in the Aśmāka area, according to ‘Avantisundarikathāsāra’. According to the ‘Vividhatīrthakalpa’, he was born at Pratiṣṭhāna, which is in the same region. Śūdraka was one of the first dramatists to employ the local language, Maharashtrian Prakrit, in a play. According to the Skandapurāṇa, Śūdraka lived in the Kali year 3290, which corresponds to 188 CE, near to the Abhīrā era. Śūdraka invokes Śiva in his play, and the Abhīrā names (as revealed by their inscriptions) indicate that they were Śaivites. Based on the language and style of his plays, some scholars have suggested that Śūdraka may have been born into a family of Brāhmaṇa (a Hindu priestly class) and received a formal education in Sanskrit literature and drama. It is also possible that he may have had some connections to the royal courts of his time, given the themes of power and politics that are present in his works. Kumārikaṇḍa is a play attributed to the ancient Indian playwright Bhavabhūti, who lived in the 8th century CE. The play tells the story of a young prince named Naravāhanadatta, who falls in love with a princess named Kumāri. The play has several similarities with Śūdraka’s play &quot;Mṛicchakaṭika&quot; (The Little Clay Cart). Śūdraka’s writing style is characterized by his use of vivid imagery, intricate wordplay, and complex characters with conflicting motivations and desires. His plays are known for their deep insights into human nature and the complexities of relationships between individuals and society. His writing is filled with vivid and imaginative comparisons that help to bring his characters and their world to life. His use of metaphor adds depth and complexity to his plays, and helps to make them enduring works of literature.
+  </div>
+  <div class="tab-pane fade" id="nav-sudraka-contribution" role="tabpanel">
+  <p class="text-muted">No information available.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-sudraka-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/mricchakatika-the-little-clay-cart.html">Mṛicchakaṭika (The Little Clay Cart)</a></li>
+  </ul>
+  </div>
+</div>

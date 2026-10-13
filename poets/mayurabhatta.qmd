@@ -1,0 +1,27 @@
+---
+title: Mayūrabhaṭṭa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-mayurabhatta-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-mayurabhatta-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-mayurabhatta-life-tab" data-bs-toggle="tab" data-bs-target="#nav-mayurabhatta-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-mayurabhatta-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-mayurabhatta-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-mayurabhatta-works-tab" data-bs-toggle="tab" data-bs-target="#nav-mayurabhatta-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-mayurabhatta-overview" role="tabpanel">
+  <p class="lead">Usually, rhetoricians have taken the name of Mayūrabhaṭṭa immediately after Bāṇabhaṭṭa. Since Bāṇabhaṭṭa's date is certain, as he was the court poet of King Harṣa (606-648 A.D.), Mayūrabhaṭṭa must have lived in the latter half of 7th C A.D. According to Madhusūdana the poet Mayūrabhaṭṭa recited some verses in front of the people of Kanauj, leaving them impressed. Later, on hearing these accounts, King Harṣa invited Mayūrabhaṭṭa to his royal court. <br>Jalhaṇa in his Sūktimuktāvali has referred to Bāṇabhaṭṭa, Mayūrabhaṭṭa and Matangadivākara as the court poets of King Harṣa.<br>Ānandhavardhana (850 A.D.) in his Dhvanyāloka has quoted two verses from the work of Mayūrabhaṭṭa, viz. verse no. 9 and 23.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-mayurabhatta-life" role="tabpanel">
+  Life history of Mayūrabhaṭṭa is shrouded in mystery. Traditions differ regarding his relationship with Bāṇabhaṭṭa. Some say that he is the father-in-law of Bāṇabhaṭṭa. On the other hand, Bāṇabhaṭṭa, who has referred to a respectable number of noteworthy scholars in his ‘Harṣacharitam’, significantly enough, he has not mentioned the name of Mayūrabhaṭṭa. According to another tradition, Mayūrabhaṭṭa is the son-in-law of Bāṇabhaṭṭa. Some other traditions claim that Mayūrabhaṭṭa is the brother-in-law of Bāṇabhaṭṭa. <br>According to Ācārya Upādhyāya, Mayūrabhaṭṭa was a man of Kāśi. Even today some Brahmin families tend to declare that their Mayūrabhaṭṭa was one of their predecessors.<br>Descriptions of suffering from leprosy may prove that Mayūrabhaṭṭa suffered from leprosy physically and mentally pained for a long time and prayed to Lord Sūrya to be cured. <br>T.K.R. Iyer opines that Mayūrabhaṭṭa was born blind; the poet got back his eyesight after composing this poem in praise of the Sun-God.
+  </div>
+  <div class="tab-pane fade" id="nav-mayurabhatta-contribution" role="tabpanel">
+  Just as Aśvaghoṣa taught the religion of Buddhism to the world through his Kāvya’s, the Saundarānanda and the Buddha-carita, one can say that Mayūrabhaṭṭa has tried to teach the philosophy of Vedānta through his Sūryaśatakam to the people of this world. Though the poet's power of imagination is much less as compared to Kāḷidāsa, Bhāravi and Māgha, Mayūrabhaṭṭa still shines as a bright luminary in the firmament of Sanskrit literature.
+  </div>
+  <div class="tab-pane fade" id="nav-mayurabhatta-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/suryasatakam.html">Sūryaśatakam</a></li>
+  </ul>
+  </div>
+</div>

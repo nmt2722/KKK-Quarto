@@ -1,0 +1,36 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "poets/*.qmd"
+    - "works/*.qmd"
+  post-render: "python -c \"import os; p='_site/search.json'; os.path.exists(p) and os.remove(p)\""
+
+website:
+  title: "Kavi Kaavya Kadambakam"
+  description: "Explore classical Sanskrit poets and their works"
+  search: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: poets/index.qmd
+        text: Poets
+      - href: works/index.qmd
+        text: Works
+      - href: genre.qmd
+        text: Genres
+  page-footer:
+    left: "**Kavi Kaavya Kadambakam**"
+    center: "[Add footer content here. This footer can be populated later.]"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    css: styles.css
+    include-in-header: navbar-search.html

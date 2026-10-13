@@ -1,0 +1,27 @@
+---
+title: Gaṅgādevī
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-gangadevi-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-gangadevi-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-gangadevi-life-tab" data-bs-toggle="tab" data-bs-target="#nav-gangadevi-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-gangadevi-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-gangadevi-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-gangadevi-works-tab" data-bs-toggle="tab" data-bs-target="#nav-gangadevi-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-gangadevi-overview" role="tabpanel">
+  <p class="lead">It is believed that Gaṅgādevī the poetess lived in 14th century AD.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-gangadevi-life" role="tabpanel">
+  Gaṅgādevī was the wise and beautiful queen of Vijayanagara empire. She was the wife of  Kumara Kampaṇṇa son of Bukka who conquered Shambuvarya and the Sultan of Madurai in 1361 CE. Her work Madhura Vijayam also known as Vīrakamparāyacaritram is believed to be the only available chronicle of the happenings of that period and hence is considered to be of historical importance. Gaṅgādevī was an extremely well educated and talented woman who accompanied her husband to the south during his expeditions.
+  </div>
+  <div class="tab-pane fade" id="nav-gangadevi-contribution" role="tabpanel">
+  The work of Gaṅgādevī is significant as it is one of the earliest medieval poetry found so far from a female poet. This work is considered to be fine poetry on footsteps of Kālidāsa’s style as declared by the poet herself in her preface.
+  </div>
+  <div class="tab-pane fade" id="nav-gangadevi-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/madhura-vijayam-also-known-as-virakamparayacaritram.html">Madhura Vijayam also known as Vīrakamparāyacaritram</a></li>
+  </ul>
+  </div>
+</div>

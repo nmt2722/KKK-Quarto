@@ -1,0 +1,28 @@
+---
+title: Śambhukavi
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-sambhukavi-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-sambhukavi-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sambhukavi-life-tab" data-bs-toggle="tab" data-bs-target="#nav-sambhukavi-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sambhukavi-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-sambhukavi-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sambhukavi-works-tab" data-bs-toggle="tab" data-bs-target="#nav-sambhukavi-works" type="button" role="tab">Works (2)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-sambhukavi-overview" role="tabpanel">
+  <p class="lead">1086-1101 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-sambhukavi-life" role="tabpanel">
+  Śambhukavi lived in the 11th century AD, during the reign of King Rājendra Cōḷa I. According to some sources, he was born in the town of Rājēndrapuram in Tamil Nadu, India, which was the capital city of the Cōḷa dynasty during the time of King Rājēndra Cōḷa I.<br>It is believed that Śambhukavi was a court poet of King Rājēndra Cōḷa I, and he composed several literary works during his lifetime. His two most famous works, Rājendrakarṇapūra and Anyoktimuktalatā, are considered among the finest examples of Sanskrit literature and poetics.<br>Despite his contributions to Sanskrit literature, very little is known about his personal life, including his family background, education, and other biographical details. His legacy, however, lives on through his works, which continue to be studied and appreciated by scholars and enthusiasts of Sanskrit literature.
+  </div>
+  <div class="tab-pane fade" id="nav-sambhukavi-contribution" role="tabpanel">
+  Śambhukavi was a prolific Sanskrit poet who made significant contributions to the development of Sanskrit literature during the 11th and 12th centuries. One of the key contributions of Śambhukavi to Sanskrit literature was his use of the Kaviyōga tradition. This tradition emphasizes the use of language for aesthetic purposes, rather than for religious or philosophical ones, and on the exploration of human emotions and experiences, particularly in the realm of love and desire. Śambhukavi's works are also significant for the insights they provide into the cultural and social milieu of medieval India. His poems are replete with references to the customs, beliefs, and attitudes of his time, providing valuable historical and sociological information. In addition, Śambhukavi's works were influential in the development of the Indian literary tradition. Overall, Śambhukavi's contributions to Sanskrit literature were significant and far-reaching, and his works remain an important part of the Indian literary tradition to this day.
+  </div>
+  <div class="tab-pane fade" id="nav-sambhukavi-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/rajendrakarnapura.html">Rājendrakarṇapūra</a></li>
+  <li class="list-group-item px-0"><a href="../works/anyoktimuktalata.html">Anyoktimuktalatā</a></li>
+  </ul>
+  </div>
+</div>

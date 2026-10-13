@@ -1,0 +1,27 @@
+---
+title: Subandhu
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-subandhu-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-subandhu-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-subandhu-life-tab" data-bs-toggle="tab" data-bs-target="#nav-subandhu-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-subandhu-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-subandhu-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-subandhu-works-tab" data-bs-toggle="tab" data-bs-target="#nav-subandhu-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-subandhu-overview" role="tabpanel">
+  <p class="lead">The exact timeline of poet Subandhu is not known. However, the most important reference is found in the eleventh stanza of poet Bāṇa’s introduction to his work “Harśacharita”. kavīnāmagaladdarpo nūnaṃ vāsavadattayā ।<br>śaktyeva pāṇḍuputrāṇāṃ gatayā karṇagocaram ॥<br><br>In this verse, Poet Bāṇa is alluding to one of the special incidents in Mahābhārata where <br>Karṇa gets a special weapon called Śakti from Vasava, another name for the Deva King Indra. Śakti had special powers that it could be used to kill anyone but can be used only against one person and so Karṇa was forced to use that weapon with discretion. The Pāndavas were agitated when they came to know that Karṇa was given Śakti  by Vasava. In the same way Bāṇa says the pride of poets melted away through “Vāsavadattā” coming to their ears just as Pāndavas pride/strength melted when Indirā gave the Śakti  weapon to Karṇa.In this verse the words Karṇa and Vāsavadattā have been used to give two meanings which confirms the fact that Bāṇa indeed knew Subandhu’s Vāsavadattā and that Subandhu lived before Bāṇa which would assign the timeline of Subandhu to 5th or 6th century.<br>However, this conclusion is also not considered correct by few as Subandhu’s work has got references to Udyotkara, another poet who is famous for his work in Nyāyaśāstra. Subandhu also refers to a work called “Baudhasangati” written by Dharmakriti. The timeline of these two poets has been fixed as 7th century AD by Historians then it is not possible that Subandhu lived in 5th or 6th century AD and probably Bāṇa’s mention of Vāsavadattā was the one mentioned by Patanjali in his Mahābhāṣya.<br>Hence, the timeline of this poet is inconclusive.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-subandhu-life" role="tabpanel">
+  The life history of Poet Subandhu is not widely known. However, this poet has been quoted extensively by poets of later century. In the following Subhāṣita,<br>subandhau bhaktirnaḥ ka iha laghukārī na ramate<br>dhṛtirdākṣīputre harati haricandro'pi hṛdayam ।<br>viśuddhoktiśśūraḥ prakṛtimadhurā bhāravigiraḥ<br>tathāpyantarmodaṃ kamapi bhavabhūtirvitanute ॥<br><br>The breif meaning is – “Subandhu is our delight; who will not rejoice in the author of Raghu; satisfactaction filled is the work of son of Daksi; Haricandra gives joy to the heart; so does the faultless diction of Sura; the words of Bhāravi are delightsome in theme and Bhavabhūti infuses an inward pleasure. <br><br>In another Subhāṣita,<br><br>subandhurBāṇabhaṭṭaśca kavirāja iti trayaḥ ।<br>vakroktimārganipuṇāḥ caturtho vidyate  na vā ॥<br><br>It is declared here that Subandhu, Bāṇabhatta and Kavirāja were the most skillful in the path of ambiguity and a fourth one cannot be found.
+  </div>
+  <div class="tab-pane fade" id="nav-subandhu-contribution" role="tabpanel">
+  <p class="text-muted">No information available.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-subandhu-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/vasavadatta.html">Vāsavadattā</a></li>
+  </ul>
+  </div>
+</div>

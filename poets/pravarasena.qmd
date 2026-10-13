@@ -1,0 +1,27 @@
+---
+title: Pravarasēna
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-pravarasena-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-pravarasena-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-pravarasena-life-tab" data-bs-toggle="tab" data-bs-target="#nav-pravarasena-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-pravarasena-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-pravarasena-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-pravarasena-works-tab" data-bs-toggle="tab" data-bs-target="#nav-pravarasena-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-pravarasena-overview" role="tabpanel">
+  <p class="lead">All of Pravarasēna's existing records are dated in terms of regnal years (rather than any calendar era) and the precise era of Pravarasēna's reign remains disputed. The only record that provides a firm chronological basis for Vākāṭaka dynastic history is the Hisse-Borala stone inscription of Devasena, a ruler of the Vāṭsāgulma branch, which contains a precise calendar date of year 380 of the Śakaera (corresponding to 457/58 CE). Due to the absence of any earlier records that can be precisely dated, different historians have proposed differing dates for Pravarasēna's reign, though it is widely agreed that he had a fairly long reign of over three decades and that he ruled mainly in the first half of the fifth century.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-pravarasena-life" role="tabpanel">
+  Unlike his parents who were Vaishnava’s, the King Pravarasēna was an ardent Śaiva who was known throughout his long reign as Paramamaheśvara, meaning a devout worshipper of Maheśvara or Śiva. His return to the older religious tradition of the Vākāṭaka likely indicates that Pravarasēna was no longer under the heavy influence of the Vaiśṇava Gupta-s. Pravarasēna boasted that he had established the conditions of the Kṛtayuga (Golden Age) on earth by the grace of Śiva. The names of places provided in Pravarasēna's numerous charters indicate that, at the very least, his Kingdom extended over the modern districts of Wardha, Nagpur, Amarāvati and Bhaṇḍāra (including the more recently-created Gondia district) in Maharashtra, and the districts of Betul, Chhindwara and Balaghat in Madhya Pradesh. <br> Pravarasēna's reign appears to have been quite peaceful on the whole, as neither his own records nor those of his successors refer to any military exploits of the King. Pravarasēna appears to have had quite a good relationship with his Vaiśṇava mother and Vaiśṇava sites continued to flourish during his reign, suggesting that Pravarasēna may have had a more ecumenical approach to religion despite his own marked preference for worshipping Śiva. At the time, there was perhaps not much bigotry associated with the divisions Śaiva and Vaiśṇava.
+  </div>
+  <div class="tab-pane fade" id="nav-pravarasena-contribution" role="tabpanel">
+  Pravarasena's contribution to classical Sanskrit literature through &quot;Setubandha&quot; is significant because of its technical excellence and poetic beauty. The poem is regarded as one of the finest examples of Sanskrit epic poetry, and has been praised for its sophisticated use of language, intricate wordplay, and masterful storytelling. In addition to &quot;Setubandha,&quot; Pravarasena also wrote a treatise on poetics called &quot;Kāvya-prakāśa,&quot; which is still widely studied by Sanskrit scholars today. The treatise provides a detailed analysis of the principles of Sanskrit poetics, including the use of meter, language, and imagery, and is characterized by its clarity, rigor, and precision.<br>Overall, Pravarasena's contribution to classical Sanskrit literature through his work on epic poetry and poetics is significant and enduring. His mastery of language, form, and content has had a profound impact on the development of Sanskrit literary traditions, and continues to inspire and challenge scholars and readers today.
+  </div>
+  <div class="tab-pane fade" id="nav-pravarasena-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/setubandham-ravanavaho-dahamuhavaho.html">‘Sētubandham’ /‘Ravaṇavaho’/ ‘Dahamuhavaho’</a></li>
+  </ul>
+  </div>
+</div>

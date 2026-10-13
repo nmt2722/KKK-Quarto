@@ -1,0 +1,33 @@
+---
+title: Bhoja
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-bhoja-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-bhoja-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhoja-life-tab" data-bs-toggle="tab" data-bs-target="#nav-bhoja-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhoja-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-bhoja-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhoja-works-tab" data-bs-toggle="tab" data-bs-target="#nav-bhoja-works" type="button" role="tab">Works (7)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-bhoja-overview" role="tabpanel">
+  <p class="lead">11th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bhoja-life" role="tabpanel">
+  Rāja Bhoja, also known as Bhoja deva, was a famous Sanskrit poet, scholar, and ruler who lived in the city of Dhara Nagar in present-day Madhya Pradesh, India, during the 11th century CE. He was born in a Brāhmaṇa family, and his father, Sindhurāja, was a king who ruled over the region of Mālava.<br><br>Bhoja was a patron of art, literature, and science, and he was a prolific writer himself. He wrote extensively on a variety of subjects, including poetry, drama, philosophy, history, and astronomy. He was also known for his patronage of scholars and intellectuals, and he provided them with the necessary resources to pursue their studies and research.<br><br>Bhoja was a follower of the Śaiva tradition of Hinduism, and he was deeply devoted to Lord Śiva. He built numerous temples and performed several religious ceremonies to honour the deity.<br><br>In addition to his scholarly pursuits, Bhoja was also a skilled warrior and an able ruler. He expanded his Kingdom through conquests and alliances and was respected and feared by his contemporaries.<br><br>However, towards the end of his reign, his kingdom faced several challenges, including invasions from neighbouring states and internal strife. Bhoja’s health also deteriorated, and he eventually passed away in the year 1055 CE.<br><br>Despite the challenges he faced in his later years, Rāja Bhoja’s legacy as a scholar and patron of art and literature has endured over the centuries. His writings and patronage have influenced subsequent generations of writers and scholars, and he is remembered as one of the most prominent figures of the Paramara dynasty.
+  </div>
+  <div class="tab-pane fade" id="nav-bhoja-contribution" role="tabpanel">
+  Bhoja made significant contributions to classical Sanskrit literature by promoting and preserving the intellectual and cultural traditions of ancient India. His works spanned a wide range of fields, including poetry, philosophy, history, science, and law. Bhoja's poetry is considered to be among the finest examples of Sanskrit literature and his treatises on aesthetics, language, and philosophy provided critical insights into the nature and purpose of literature and language. Additionally, his work on science and technology provided insights into the technological advancements of medieval India and the practical applications of scientific knowledge. In a nutshell, Bhoja's contribution to Classical Sanskrit literature reflects his deep interest in exploring the connections between different fields of knowledge and his efforts to synthesize their insights into a coherent whole.
+  </div>
+  <div class="tab-pane fade" id="nav-bhoja-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/sarasvatikanthabharana.html">Sarasvatīkaṇṭhābharaṇa</a></li>
+  <li class="list-group-item px-0"><a href="../works/srngara-prakasa.html">Śṛṅgāra Prakāśa</a></li>
+  <li class="list-group-item px-0"><a href="../works/kavya-mimamsa.html">Kāvya mīmāṃsā</a></li>
+  <li class="list-group-item px-0"><a href="../works/raja-martanda.html">Rāja Mārtāṇḍa</a></li>
+  <li class="list-group-item px-0"><a href="../works/samarangana-sutradhara.html">Samāraṅgaṇa Sūtradhāra</a></li>
+  <li class="list-group-item px-0"><a href="../works/vyavahara-bhasa.html">Vyavahāra- Bhāṣā</a></li>
+  <li class="list-group-item px-0"><a href="../works/jaiminiya-nyayamala.html">Jaiminīya Nyāyamālā</a></li>
+  </ul>
+  </div>
+</div>

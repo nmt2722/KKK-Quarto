@@ -1,0 +1,27 @@
+---
+title: Kuntaka
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-kuntaka-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-kuntaka-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-kuntaka-life-tab" data-bs-toggle="tab" data-bs-target="#nav-kuntaka-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-kuntaka-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-kuntaka-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-kuntaka-works-tab" data-bs-toggle="tab" data-bs-target="#nav-kuntaka-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-kuntaka-overview" role="tabpanel">
+  <p class="lead">Kuntaka was a Sanskrit poet and literary theorist who is believed to have lived in the 9th century AD in the region of Kashmir, India. He is best known for his work, the &quot;Vakroktijīvita,&quot; a treatise on poetics and aesthetics that discusses the concept of vakrokti, or oblique expression, in poetry. Kuntaka is considered one of the most important figures in the development of Indian poetics and his work has had a significant influence on later literary theory and practice.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-kuntaka-life" role="tabpanel">
+  Kuntaka was born in Kashmir, which was then a centre of Sanskrit learning and culture. He is believed to have lived during the reign of the Karkota dynasty, which ruled Kashmir from the 8th to the 10th century AD. It is also said that he may have been a court poet or a teacher of poetics in Kashmir.<br>Kuntaka is known primarily for his work, the &quot;Vakroktijīvita,&quot; which is a treatise on poetics and aesthetics. In this work, he discusses the concept of vakrokti, which refers to oblique or indirect expression in poetry. According to Kuntaka, vakrokti is a way of expressing deeper meanings and emotions through subtle and indirect language. He also discusses other aspects of poetry, such as figures of speech, emotions, and the role of the poet in society.<br>Kuntaka's work has had a significant influence on Indian poetics and aesthetics. His ideas about vakrokti have been widely discussed and debated by later scholars and poets, and his work continues to be studied and appreciated by students of Indian literature and culture.<br>Kuntaka's audience was primarily other scholars and poets who were interested in Indian poetics and aesthetics. His work, the &quot;Vakroktijīvita,&quot; is a treatise on poetics and aesthetics that discusses the concept of vakrokti, or oblique expression, in poetry.<br>Kuntaka wrote in Sanskrit, which was the language of scholars and intellectuals in medieval India. His ideas about poetry and aesthetics were influential in his own time and have continued to be studied and debated by later scholars and poets.<br>The &quot;Vakroktijīvita&quot; is a complex and sophisticated work that requires a good understanding of Sanskrit and Indian poetics to fully appreciate it. It is likely that Kuntaka's intended audience consisted of other scholars and poets who were already familiar with these subjects.
+  </div>
+  <div class="tab-pane fade" id="nav-kuntaka-contribution" role="tabpanel">
+  Kuntaka's &quot;Vakroktijīvita&quot; is considered a seminal work in Classical Sanskrit literature. Here are some of its contributions:<br>1. Systematization of Vakrokti: Kuntaka systematized the concept of vakrokti, which was already in use in Sanskrit literature, by providing a comprehensive analysis of its various aspects. This work helped to establish vakrokti as a major literary device in Sanskrit poetry.<br>2. Definition of poetic beauty: Kuntaka's &quot;Vakroktijīvita&quot; provided a new definition of poetic beauty, emphasizing the importance of figurative language and the power of suggestion. Kuntaka's emphasis on the beauty of suggestion, rather than the literal meaning of words, helped to create a new genre of Sanskrit literature that focused on indirect expression and oblique reference.<br>3. Influence on poets: Kuntaka's &quot;Vakroktijīvita&quot; had a significant influence on poets of his time and subsequent generations. Many poets who followed Kuntaka's ideas adopted his emphasis on figurative language and indirect expression in their own works.<br>4. Impact on aesthetics: Kuntaka's &quot;Vakroktijīvita&quot; had a significant impact on the development of Sanskrit literary aesthetics. His work helped to establish vakrokti as a major component of Sanskrit poetry and contributed to the emergence of a new aesthetic tradition that emphasized the beauty of suggestion and indirect expression.<br>Overall, Kuntaka's &quot;Vakroktijīvita&quot; is a significant contribution to Classical Sanskrit literature and had a lasting impact on the development of Sanskrit literary aesthetics.
+  </div>
+  <div class="tab-pane fade" id="nav-kuntaka-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/vakroktijivita.html">Vakroktijīvita</a></li>
+  </ul>
+  </div>
+</div>

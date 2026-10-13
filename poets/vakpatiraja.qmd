@@ -1,0 +1,27 @@
+---
+title: Vākpatirāja
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-vakpatiraja-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-vakpatiraja-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vakpatiraja-life-tab" data-bs-toggle="tab" data-bs-target="#nav-vakpatiraja-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vakpatiraja-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-vakpatiraja-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vakpatiraja-works-tab" data-bs-toggle="tab" data-bs-target="#nav-vakpatiraja-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-vakpatiraja-overview" role="tabpanel">
+  <p class="lead">7th or 8th century.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-vakpatiraja-life" role="tabpanel">
+  Vākpati, or Vākpatirāja, is an exceptional poet in the court of King Yaśovarman of Kanauj. A knowledgeable bard who belonged to the royal family was given the title of Kavirāja, who typically enjoyed the King's patronage. Vākpati was not only an alluded poet but a prince. He was the son of Harṣadeva. There are several references to his existence, which can be seen in the works of Vallabhadēva, where he mentions śrīharṣadevātmaja vākpateḥ (Of Vākpati, the son of Harṣadeva) in his Subhāṣitāvalī, a passage in Rājataraṅgiṇī and also in Halāyudha's commentary on the Piṅgalasūtras- &quot; sa jayati vākpatirājaḥ sakalārthimanorathakalpataruḥ &quot; \[Long live king Vākpatirāja, who is the bountiful source of those who desire anything.\]. Vākpatirāja's literary life shone from the beginning of the 8th century A. D. He has been praised for his two poems written in the Prākrit language. Mahumahavijaya was the first one, followed by Gauḍavaho. Vākpati stands matchless in his Utprekṣās, where he has stood apart from the traditional parameters of literature and included several compositions highlighting the emotions of vegetation, landscape, folklore, etc. He was erudite in scriptures, grammar, prosody, Nāṭyaśāstra, Nyāya, and legendary narratives like the Mahābhārata and Purāṇa’s. Also, he had an exceptional understanding of the works of various poets, including Bhāsa, Kāḷidāsa, and Subandhu. He was alongside many learned friends and admirers who appreciated his poetic intonations with laud and were acquainted with Bhavabhūti. He is well acclaimed by Yogeśvara, who appears to be a Pala court poet, for his interest in country scenes rather than conventional verse. Vākpati, thus, is a talented poet worthy of being ranked with Māgha and Bhāravi, as indicated by several other scholars.
+  </div>
+  <div class="tab-pane fade" id="nav-vakpatiraja-contribution" role="tabpanel">
+  <p class="text-muted">No information available.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-vakpatiraja-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/gaudavaho.html">Gauḍavaho</a></li>
+  </ul>
+  </div>
+</div>

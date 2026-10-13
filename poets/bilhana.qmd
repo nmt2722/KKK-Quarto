@@ -1,0 +1,29 @@
+---
+title: Bilhaṇa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-bilhana-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-bilhana-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bilhana-life-tab" data-bs-toggle="tab" data-bs-target="#nav-bilhana-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bilhana-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-bilhana-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bilhana-works-tab" data-bs-toggle="tab" data-bs-target="#nav-bilhana-works" type="button" role="tab">Works (3)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-bilhana-overview" role="tabpanel">
+  <p class="lead">11th century AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bilhana-life" role="tabpanel">
+  Bilhaṇa is a renowned Sanskrit poet who lived in India during the 11th century AD. He was born in the town of Warangal, which is located in present-day Telangana state in South India. Bilhaṇa was a Kshatriya caste member, traditionally associated with the warrior class in Hindu society.<br>Bilhaṇa is most famous for his three significant works of poetry: Vikramāṇkadevacaritam, Karṇasundarī, and Caurapañcāśikā. Vikramāṇkadevacaritam is a long narrative poem that tells the story of the legendary king Vikramāditya, while Karṇasundarī is a romantic tale of a young woman named Karṇasundarī and her lover Candrāpīḍa. Caurapañcāśikā is a collection of fifty stanzas that explore the nature of love and desire.<br>In addition to his poetry, Bilhaṇa was known for his warrior and military commander skills. He served as a general in the army of the Kalyāṇī Chālukya dynasty, which ruled over parts of South India during the 11th century. Bilhaṇa's military exploits are celebrated in the Vikramāṇkadevacaritam, which includes vivid descriptions of battles and warfare.<br>Despite his success as a poet and warrior, Bilhaṇa faced significant challenges in his personal life. According to some accounts, he was forced to flee Warangal after his father was killed in a political dispute. Bilhaṇa eventually found refuge at the court of the Kalyāṇī Chālukya king Vikramāditya VI, where he could pursue his poetic and military ambitions.<br>Bilhaṇa's life and works are essential for their insights into the culture and society of medieval India. His poetry reflects the values and beliefs of his time, including the importance of love, honour, and courage in both personal and political life. Today, Bilhaṇa is remembered as one of the greatest Sanskrit poets of the medieval period, and his works continue to be studied and admired by scholars and readers worldwide.
+  </div>
+  <div class="tab-pane fade" id="nav-bilhana-contribution" role="tabpanel">
+  Bilhaṇa made several significant contributions to Sanskrit literature during his lifetime. His most notable works, Vikramāṇkadevacaritam, Karṇasundarī, and Caurapañcāśikā, are all highly regarded for their literary merit, unique style, and thematic depth.<br>Vikramāṇkadevacaritam, for example, is a masterpiece of courtly poetry and is widely considered one of the greatest works of Sanskrit literature. Its use of the narrative framework is unique, allowing for a complex interweaving of multiple storylines and characters. Bilhaṇa's lyrical and poetic language, combined with his vivid descriptions of landscapes and textures, makes the work an enduring masterpiece of Indian literature.<br>Karṇasundarī is also a significant work in Sanskrit literature and is notable for its use of the Śṛṅgāra rasa, or the sentiment of love, as its central theme. The poem explores the protagonist's emotional journey, Karṇasundarī, as she falls in love with a young warrior. <br>Finally, Caurapañcāśikā is an essential contribution to the genre of romantic poetry and is notable for its use of the thief as its narrator and protagonist. Bilhaṇa's portrayal of the thief as a charming and witty character, who uses his skills to win the heart of his beloved, is a unique and refreshing take on the theme of love and desire.<br>In summary, Bilhaṇa's contributions to Sanskrit literature have had a lasting impact on Indian culture and continue to be celebrated and studied.
+  </div>
+  <div class="tab-pane fade" id="nav-bilhana-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/vikramankadevacaritam.html">Vikramāṇkadevacaritam</a></li>
+  <li class="list-group-item px-0"><a href="../works/karnasundari.html">Karṇasundarī</a></li>
+  <li class="list-group-item px-0"><a href="../works/caurapancasika.html">Caurapañcāśikā</a></li>
+  </ul>
+  </div>
+</div>

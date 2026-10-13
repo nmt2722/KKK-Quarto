@@ -1,0 +1,27 @@
+---
+title: Abhinanda (2)
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-abhinanda-2-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-abhinanda-2-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-abhinanda-2-life-tab" data-bs-toggle="tab" data-bs-target="#nav-abhinanda-2-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-abhinanda-2-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-abhinanda-2-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-abhinanda-2-works-tab" data-bs-toggle="tab" data-bs-target="#nav-abhinanda-2-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-abhinanda-2-overview" role="tabpanel">
+  <p class="lead">10th century AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-abhinanda-2-life" role="tabpanel">
+  Abhinanda was a Sanskrit poet who lived in India during the 10th century AD. He was believed to be patronized by Hāravarṣa, the son of Dvijavara Śatānanda. Abhinanda is best known for his work &quot;Rāmacarita,&quot; which is a poetic retelling of the story of Rāmāyaṇa. The work is written in an ornate and elegant poetic style, and is considered an important contribution to Sanskrit literature. While not much is known about Abhinanda's life, his contribution to literature through &quot;Rāmacarita&quot; continues to be celebrated in Indian cultural heritage.
+  </div>
+  <div class="tab-pane fade" id="nav-abhinanda-2-contribution" role="tabpanel">
+  Abhinanda (2) is considered one of the major poets of Classical Sanskrit literature and his contribution to the genre is significant. He was a master of poetic expression and his works reflect a deep understanding of the language, culture, and philosophy of ancient India.<br>Abhinanda's &quot;Rāma carita&quot; is an important contribution to the genre of Kāvya, which refers to the highly ornate and stylized poetry that emerged in ancient India. His use of intricate metaphors, similes, and allusions, along with his skilful handling of Sanskrit grammar and syntax, make his poetry a master class in the art of Kāvya.<br>In addition to his contribution to Kāvya, Abhinanda is also known for his scholarship in the fields of philosophy and religion. His works reflect a deep understanding of the Vedas, the Upaniṣad, and other religious texts of ancient India, and he was a major proponent of the Advaita Vedānta School of philosophy.
+  </div>
+  <div class="tab-pane fade" id="nav-abhinanda-2-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/ramacarita.html">Rāmacarita</a></li>
+  </ul>
+  </div>
+</div>

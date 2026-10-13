@@ -1,0 +1,33 @@
+---
+title: Kāḷidāsa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-kalidasa-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-kalidasa-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-kalidasa-life-tab" data-bs-toggle="tab" data-bs-target="#nav-kalidasa-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-kalidasa-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-kalidasa-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-kalidasa-works-tab" data-bs-toggle="tab" data-bs-target="#nav-kalidasa-works" type="button" role="tab">Works (7)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-kalidasa-overview" role="tabpanel">
+  <p class="lead">Around 4th or 5th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-kalidasa-life" role="tabpanel">
+  No authentic sources are available on the time and place of Kāḷidāsa.  Amongst apocryphal evidence, the possibility of Kāḷidāsa being the court poet of Candragupta II of the Gupta Empire is accepted by most scholars. However, the mention of Vikramāditya in his drama Mālavikāgnimitram also alludes towards Candragupta who is believed to have taken that title during his reign. And thus Kāḷidāsa is believed to have lived between 4th -5th century AD.
+  </div>
+  <div class="tab-pane fade" id="nav-kalidasa-contribution" role="tabpanel">
+  Kāḷidāsa contribution to Sanskrit literature is so immense that Jayadēva of Gītagovinda calls him “Kavikula – Guru”, the master of all poets. Mallināthasūri who wrote a detailed commentary of Kāḷidāsa Raghuvamśaṁ, Kumārasambhavam and Meghadūtam says, <br>kālidāsagirāṃ sāraṃ<br>kālidāsaḥ sarasvatī ।<br>caturmukho’thavā sākṣād-<br>vidurnānye tu mādṛśāḥ ॥<br>The greatness of Kāḷidāsa and the depth of his work can be understood and appreciated only by Kāḷidāsa himself and goddess Sarasvati or Lord Brahma. <br>Kāḷidāsa writings influenced both the eastern and the Western world’s alike. It became an inspiration for many literary works and Yogi Ārōbindo says, “Vālmīki, Vyāsa and Kāḷidāsa are the essences of the history of ancient India’’. <br>Sir William Jones was the first one to translate Abhijñānaśākuntalaṁ into English in the year 1879. Then it was translated into German by Goethe and he writes, “Dear friend, if you wish to enjoy the unprecedented union of the Earth and the heaven, and their enrichment, get acquainted with Śākuntalā.’’ <br>Thus one can realize that Kāḷidāsa has been the greatest exponent of all the values that our land is known for. He upheld the values of Indian tradition at all levels and moral values with the inbuilt dharma in our system are intrinsic in all his works.
+  </div>
+  <div class="tab-pane fade" id="nav-kalidasa-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/rtusamharah.html">Ṛtusaṃhāraḥ,</a></li>
+  <li class="list-group-item px-0"><a href="../works/meghadutam.html">Meghadūtam,</a></li>
+  <li class="list-group-item px-0"><a href="../works/kumarasambhavam.html">Kumārasambhavam</a></li>
+  <li class="list-group-item px-0"><a href="../works/raghuvamsam.html">Raghuvamśaṁ.</a></li>
+  <li class="list-group-item px-0"><a href="../works/malavikagnimitram.html">Mālavikāgnimitram</a></li>
+  <li class="list-group-item px-0"><a href="../works/vikramorvasiyam.html">Vikramōrvaśīyaṁ</a></li>
+  <li class="list-group-item px-0"><a href="../works/abhijnanasakuntalam.html">Abhijñānaśākuntalaṁ</a></li>
+  </ul>
+  </div>
+</div>

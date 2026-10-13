@@ -1,0 +1,27 @@
+---
+title: Hanumakavi
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-hanumakavi-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-hanumakavi-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-hanumakavi-life-tab" data-bs-toggle="tab" data-bs-target="#nav-hanumakavi-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-hanumakavi-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-hanumakavi-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-hanumakavi-works-tab" data-bs-toggle="tab" data-bs-target="#nav-hanumakavi-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-hanumakavi-overview" role="tabpanel">
+  <p class="lead">11th or 12th Century</p>
+  </div>
+  <div class="tab-pane fade" id="nav-hanumakavi-life" role="tabpanel">
+  The attribution of the Hanumānāṭaka or Mahānāṭaka to a single author is ambiguous due to conflicting information from various sources. Poets such as Damodaramiśra and Madhusūdanamiśra mention different kings in the text, which adds to the confusion. According to Damodaramiśra, Bhoja Rāja, who lived in the 11th century, is referred to in the play, while Madhusūdanamiśra mentions a king named Vikrama who lived in the 12th century.<br>It is worth noting that Lakṣmaṇasena was also known by the name Vikramāditya. This speculation is supported by certain verses in Dyōyi’s Pavanadūta:<br>         khyāto yaśca śrutidhāratayā vikramādityaghoṣṭhi |<br>vidyābhartuḥ khalu vararucirasasada pratiṣṭhām ||<br>It is likely that the poets who mentioned these kings in the text lived during the same timeline. Despite efforts to uncover the identity and origin of Hanumānkavi, there remains a significant lack of information on the subject. Similarly, the origins and authorship of these plays are still shrouded in mystery, leaving a significant gap in our understanding of their history.
+  </div>
+  <div class="tab-pane fade" id="nav-hanumakavi-contribution" role="tabpanel">
+  <p class="text-muted">No information available.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-hanumakavi-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/hanumanataka-or-mahanataka.html">Hanumānāṭaka or Mahānāṭaka</a></li>
+  </ul>
+  </div>
+</div>

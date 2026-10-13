@@ -1,0 +1,27 @@
+---
+title: Sātavāhana
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-satavahana-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-satavahana-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-satavahana-life-tab" data-bs-toggle="tab" data-bs-target="#nav-satavahana-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-satavahana-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-satavahana-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-satavahana-works-tab" data-bs-toggle="tab" data-bs-target="#nav-satavahana-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-satavahana-overview" role="tabpanel">
+  <p class="lead">1st century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-satavahana-life" role="tabpanel">
+  Sātavāhana, also known as Hāla, was a Sanskrit poet who lived during the 1st century CE in the region of Pratiṣṭhānagara, which is located in modern-day Maharashtra, India. He is known for his work Gāthāsaptaśatī, a collection of 700 verses in the gāthā (song) form, which covers a range of topics, including love, nature, social satire, and morality. Sātavāhana was likely a court poet and was patronized by the Sātavāhana dynasty, which ruled over parts of South India during his time. He was a contemporary of the poet Guṇāḍhya, who is known for his work Bṛhatkathā. While very little is known about Sātavāhana's life, it is believed that he may have been a Buddhist monk or a follower of the Buddhist tradition, as some of his poems contain Buddhist themes and ideas.
+  </div>
+  <div class="tab-pane fade" id="nav-satavahana-contribution" role="tabpanel">
+  Sātavāhana's contribution to classical Sanskrit literature is significant, as he is one of the earliest known poets to have written in Sanskrit. His work, the Gāthāsaptaśatī, is a collection of seven hundred gāthās or short verses that showcase his literary prowess and mastery of the language. The collection is notable for its lyrical quality, evocative imagery, and universal themes, which continue to resonate with readers today. Sātavāhana's use of the gāthā form also helped to expand the scope and versatility of Sanskrit poetry, paving the way for other poets to experiment with new forms and styles. Overall, Sātavāhana's contribution to classical Sanskrit literature highlights the richness and diversity of the language and its enduring relevance to contemporary readers.
+  </div>
+  <div class="tab-pane fade" id="nav-satavahana-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/gathasaptasati.html">Gāthāsaptaśatī</a></li>
+  </ul>
+  </div>
+</div>

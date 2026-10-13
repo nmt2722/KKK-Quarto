@@ -1,0 +1,27 @@
+---
+title: Muñja (Vākpati)
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-munja-vakpati-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-munja-vakpati-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-munja-vakpati-life-tab" data-bs-toggle="tab" data-bs-target="#nav-munja-vakpati-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-munja-vakpati-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-munja-vakpati-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-munja-vakpati-works-tab" data-bs-toggle="tab" data-bs-target="#nav-munja-vakpati-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-munja-vakpati-overview" role="tabpanel">
+  <p class="lead">10th Century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-munja-vakpati-life" role="tabpanel">
+  Muñja, also known as Vākpati, was a Sanskrit poet who lived in the 10th century CE in the Māḻava region of present-day Madhya Pradesh, India. He belonged to the Paramāra dynasty, which ruled over Māḻava during that time.<br><br>According to the traditional accounts, Muñja was a king who ruled over a small kingdom called Dhara in Māḻava. He was a patron of the arts and is said to have encouraged the development of literature and the arts in his kingdom. Muñja himself was a scholar and a poet of great repute. He is known to have composed several works, including Ratnamālikā and Subhāṣita-ratna-mālā.<br><br>Ratnamālikā, which is considered Muñja's magnum opus, is a collection of 103 verses on various topics, including love, nature, and religion. The work is admired for its beauty and lyrical quality and is considered a masterpiece of Sanskrit literature.<br><br>Muñja was also known for his military prowess, and he is said to have defeated several neighbouring kingdoms. However, he was ultimately defeated and killed by the Caṇḍālaa, who were another powerful dynasty in the region.<br><br>While the traditional accounts of Muñja's life are somewhat romanticized and should be taken with a grain of salt, there is no doubt that he was an important figure in Sanskrit literature. His works continue to be studied and admired to this day.
+  </div>
+  <div class="tab-pane fade" id="nav-munja-vakpati-contribution" role="tabpanel">
+  Muñja (Vākpati), a 10th century Sanskrit poet, made significant contributions to Sanskrit literature, particularly in the field of poetry and poetics. His most famous work, Ratnamālikā, is admired for its lyrical quality, versatile themes, and vivid imagery, and has had a lasting impact on later Sanskrit poets. Muñja is also known for his commentary on the poetic work Dhvanyāloka and other works, including the Vākpati-vijaya. His contributions to Sanskrit literature continue to be studied and admired for their literary quality and impact on later writers.
+  </div>
+  <div class="tab-pane fade" id="nav-munja-vakpati-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/ratnamalika.html">Ratnamālikā</a></li>
+  </ul>
+  </div>
+</div>

@@ -1,0 +1,28 @@
+---
+title: Buddhaghoṣa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-buddhaghosa-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-buddhaghosa-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-buddhaghosa-life-tab" data-bs-toggle="tab" data-bs-target="#nav-buddhaghosa-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-buddhaghosa-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-buddhaghosa-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-buddhaghosa-works-tab" data-bs-toggle="tab" data-bs-target="#nav-buddhaghosa-works" type="button" role="tab">Works (2)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-buddhaghosa-overview" role="tabpanel">
+  <p class="lead">5th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-buddhaghosa-life" role="tabpanel">
+  Buddhaghoṣa was a Buddhist monk who lived in India in the 5th century CE. He is believed to have been born in Bodh Gaya, the site of the Buddha's enlightenment, and was the son of keśi and keśinī. Buddhaghoṣa spent much of his life travelling throughout India, studying and teaching Buddhism. He eventually settled in Laṅkā, where he is believed to have spent many years writing and compiling his works.<br>Buddhaghoṣa's most famous work is the Viśuddhimagga, or &quot;Path of Purification,&quot; which is a comprehensive guide to the practice of Buddhism. The text covers a wide range of topics, including ethics, meditation, and enlightenment, and has been an influential guide for Buddhist practitioners for centuries.<br>In addition to the Viśuddhimagga, Buddhaghoṣa is also known for his commentaries on Buddhist scriptures, including the Diggha Nikāya and the Majjhima Nikāya. These commentaries have been important tools for scholars and practitioners seeking to deepen their understanding of the Buddhist teachings.<br>Buddhaghoṣa is regarded as a key figure in the development of the Theravada Buddhist tradition and his works continue to be studied and revered by Buddhists around the world.
+  </div>
+  <div class="tab-pane fade" id="nav-buddhaghosa-contribution" role="tabpanel">
+  Buddhaghoṣa's contribution to Classical Sanskrit literature is significant. Although he wrote primarily in Pali, his works had a profound influence on the development of Sanskrit literature, particularly in the field of philosophy and Buddhist studies. Buddhaghoṣa's magnum opus, the Viśuddhimagga, which is considered one of the most important works on Buddhist meditation, was translated into Sanskrit in the 11th century by the Kashmiri scholar Ratnāmatī. This translation helped to spread the ideas and techniques of Buddhist meditation throughout India and beyond.<br>In addition, Buddhaghoṣa's commentary on the Abhidhamma, the Paramatthamañjūsā, was also translated into Sanskrit, and his works on Pali grammar and literature had a lasting impact on the study of Sanskrit and other Indic languages.<br>Overall, Buddhaghoṣa's writings played a crucial role in the transmission and development of Buddhist thought and practice in India and beyond, and helped to shape the course of Sanskrit literature in the centuries that followed.
+  </div>
+  <div class="tab-pane fade" id="nav-buddhaghosa-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/visuddhimagga.html">Viśuddhimagga</a></li>
+  <li class="list-group-item px-0"><a href="../works/milindapanha.html">Milindāpanha</a></li>
+  </ul>
+  </div>
+</div>

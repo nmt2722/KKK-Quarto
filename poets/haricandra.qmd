@@ -1,0 +1,27 @@
+---
+title: Haricandra
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-haricandra-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-haricandra-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-haricandra-life-tab" data-bs-toggle="tab" data-bs-target="#nav-haricandra-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-haricandra-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-haricandra-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-haricandra-works-tab" data-bs-toggle="tab" data-bs-target="#nav-haricandra-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-haricandra-overview" role="tabpanel">
+  <p class="lead">9th or 10th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-haricandra-life" role="tabpanel">
+  Based on the style and content of his work, scholars believe that Haricandra lived in India in the 9th or 10th century CE. He was a prolific writer and is known for his contributions to the Sanskrit language and literature.<br><br>Haricandra's most famous work is &quot;Dharmaśarmābyudhāya,&quot; which is a section of the larger work &quot;Campūmahākāvya.&quot; The work is dedicated to the 15th Jain Tīrthaṅkara named Dharmanātha and is written in the form of a kāvya or poem.<br><br>Through his work, Haricandra provides insights into the Jain philosophy and its teachings on the principles of Dharma and Adharma. He also explores the conflict between good and evil, and the ways in which one can lead a righteous and fulfilling life.<br><br>Despite the lack of information about his personal life, Haricandra's legacy lives on through his contributions to Sanskrit literature and philosophy. His work continues to be studied and admired by scholars around the world.
+  </div>
+  <div class="tab-pane fade" id="nav-haricandra-contribution" role="tabpanel">
+  Haricandra was a notable poet and scholar of Classical Sanskrit literature who lived in the 9th or 10th century. He is known for his significant contributions to the kāvya genre, which is a form of epic poetry in Sanskrit literature.<br><br>Haricandra's works are characterized by their intricate and ornate style, making use of various poetic techniques such as alliteration, metaphor, and repetition. His poetry often explores philosophical themes and religious concepts, particularly those related to Jainism.<br><br>In addition to &quot;Dharmaśarmābhyudhāya,&quot; Haricandra's other notable works include &quot;Chāritrasaṅgraha,&quot; a collection of moral tales, and &quot;Kādambarīvivaraṇa,&quot; a commentary on the well-known kāvya, &quot;Kādambarī.&quot;<br><br>Haricandra's contributions to Classical Sanskrit literature have been widely recognized and appreciated by scholars and readers alike. His poetry continues to be studied and admired for its beauty, insight, and philosophical depth, making him an important figure in the literary and cultural history of India.
+  </div>
+  <div class="tab-pane fade" id="nav-haricandra-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/dharmasarmabhyudhaya.html">Dharmaśarmābhyudhāya</a></li>
+  </ul>
+  </div>
+</div>

@@ -1,0 +1,28 @@
+---
+title: Umāpatidhara
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-umapatidhara-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-umapatidhara-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-umapatidhara-life-tab" data-bs-toggle="tab" data-bs-target="#nav-umapatidhara-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-umapatidhara-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-umapatidhara-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-umapatidhara-works-tab" data-bs-toggle="tab" data-bs-target="#nav-umapatidhara-works" type="button" role="tab">Works (2)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-umapatidhara-overview" role="tabpanel">
+  <p class="lead">12th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-umapatidhara-life" role="tabpanel">
+  Umāpatidhara lived in the 12th century CE under the patronage of King Lakṣmaṇasena of Bengal. There are no surviving biographical accounts or records that provide information about his family, upbringing, or personal life.<br><br>What we do know about Umāpatidhara comes mainly from his own works, particularly the Candracūḍa and the Pārijātāharaṇa. These poems reveal his exceptional talent as a writer and his deep knowledge of Sanskrit literature, mythology, and culture.<br><br>Despite the lack of information about his life, Umāpatidhara's poetry continues to be admired and studied for its beauty, complexity, and insight into the human condition.
+  </div>
+  <div class="tab-pane fade" id="nav-umapatidhara-contribution" role="tabpanel">
+  Umāpatidhara is a significant figure in classical Sanskrit literature due to his contributions to the fields of poetry and drama. His works, including Pārijātāharaṇa and Candracūḍa, are renowned for their innovative storytelling, complex characters, and use of poetic language. Umāpatidhara's plays are notable for their exploration of timeless themes such as love, loyalty, and justice, while also reflecting the social and cultural milieu of 12th-century India. His mastery of Sanskrit language and literature, as well as his unique perspective and style, have had a lasting impact on the development of Indian literary tradition. Overall, Umāpatidhara's contributions to classical Sanskrit literature have helped shape and define the genre of Sanskrit drama, inspiring generations of readers and writers and continuing to influence Indian literature to this day.
+  </div>
+  <div class="tab-pane fade" id="nav-umapatidhara-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/parijataharana.html">Pārijātāharaṇa</a></li>
+  <li class="list-group-item px-0"><a href="../works/candracuda.html">Candracūḍa</a></li>
+  </ul>
+  </div>
+</div>

@@ -1,0 +1,27 @@
+---
+title: Trivikrama Bhaṭṭa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-trivikrama-bhatta-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-trivikrama-bhatta-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-trivikrama-bhatta-life-tab" data-bs-toggle="tab" data-bs-target="#nav-trivikrama-bhatta-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-trivikrama-bhatta-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-trivikrama-bhatta-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-trivikrama-bhatta-works-tab" data-bs-toggle="tab" data-bs-target="#nav-trivikrama-bhatta-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-trivikrama-bhatta-overview" role="tabpanel">
+  <p class="lead">10th century</p>
+  </div>
+  <div class="tab-pane fade" id="nav-trivikrama-bhatta-life" role="tabpanel">
+  Trivikrama Bhaṭṭa was a well-known scholar in the Rāṣṭrakūṭa King Indra III's court. He was born in south India. His father was Dēvādityabhaṭṭa and belongs to Shandilya gotra. His Naḷacampū (915), the first in Sanskrit Campū style, also known by the name Damayantī Kathā is a masterwork. Trivikrama Bhaṭṭa was patronaged under the reign of Rāṣṭrakūṭas. He is credited with writing the first epic in Campū style. Campū is an epic poem that combines prose and verse. In Karnataka, this style became popular in both Sanskrit and Kannada. Damayantī Kathā, also known as Naḷacampū penned by Trivikrama, sheds light on the social scene of those times.
+  </div>
+  <div class="tab-pane fade" id="nav-trivikrama-bhatta-contribution" role="tabpanel">
+  Trivikrama Bhaṭṭa's contribution to Classical Sanskrit literature extends beyond his famous work Naḷacampū. He was a prolific poet and scholar who wrote several other works that are considered important in the Sanskrit literary canon. He is also known for his mastery of different poetic styles and his ability to innovate within these forms. Trivikrama Bhaṭṭa's contributions to Sanskrit literature include his expertise in Alaṅkāra  Śāstra (the study of rhetorical figures and devices) and his use of these devices in his poetry. In addition, he is credited with introducing new themes and characters into Sanskrit literature, such as the character of Kali in Naḷacampū.<br>Trivikrama Bhaṭṭa's contributions to Classical Sanskrit literature are significant, both in terms of his literary output and his innovations within poetic forms and themes. His works continue to be studied and appreciated by scholars and readers alike for their beauty, depth, and creativity.
+  </div>
+  <div class="tab-pane fade" id="nav-trivikrama-bhatta-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/nalacampu.html">Naḷacampū</a></li>
+  </ul>
+  </div>
+</div>

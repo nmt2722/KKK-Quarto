@@ -1,0 +1,27 @@
+---
+title: Vedavyāsa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-vedavyasa-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-vedavyasa-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vedavyasa-life-tab" data-bs-toggle="tab" data-bs-target="#nav-vedavyasa-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vedavyasa-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-vedavyasa-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vedavyasa-works-tab" data-bs-toggle="tab" data-bs-target="#nav-vedavyasa-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-vedavyasa-overview" role="tabpanel">
+  <p class="lead">Scholars have debated the exact time period in which Vedavyāsa, the legendary sage, lived. Traditional beliefs suggest that he existed during the Dvāparayuga, an era believed to have occurred prior to the current Kaliyuga. According to traditional accounts, the Dvāparayuga was characterized by longer human lifespans and the presence of numerous revered sages and scholars. Vedavyāsa is considered one of these esteemed sages and is believed to have lived during the time of the Mahābhārata, which is set in the Dvāparayuga. However, the historical authenticity of both Vedavyāsa and the events described in the Mahābhārata remains a subject of debate among scholars. Some argue that the epic is purely mythical, while others suggest that it may contain elements rooted in historical events. Due to the uncertain nature of the historical evidence, the precise timeframe of Vedavyāsa's existence remains elusive. Much of our understanding about him is derived from traditional beliefs and legendary accounts.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-vedavyasa-life" role="tabpanel">
+  Vedavyāsa is a legendary figure in Hinduism and is believed to be the author of the Mahābhārata, one of the two major epics in Hinduism. According to traditional beliefs, Vedavyāsa was born as the son of the sage Parāśara and Satyavatī a fisherwoman. Vedavyāsa is also credited with compiling and classifying the four Vedas, which are the foundational texts of Hinduism. He is considered one of the seven Cirañjīvins or immortal beings in Hinduism. The life of Vedavyāsa is described in various Hindu texts and legends. According to one story, after the completion of the Mahābhārata, Vedavyāsa was troubled by the fact that his work had not achieved the desired effect of enlightening people. He approached Brahma, the creator, and expressed his sadness. Brahma advised Vedavyāsa to write the Bhāgavata Purāṇa, which would be more accessible to the common people and easier to understand. Vedavyāsa then wrote the Bhāgavata Purāṇa, which is a devotional text that tells the story of the god Viṣṇu and his various incarnations. The text is considered one of the most important works in Hinduism and is often recited in Hindu temples. Vedavyāsa is also said to have composed the Brahmasūtra, which are a series of aphorisms that summarize the philosophical teachings of the Upaniṣads.
+  </div>
+  <div class="tab-pane fade" id="nav-vedavyasa-contribution" role="tabpanel">
+  Vedavyāsa, the poet and author of the Mahābhārata, is considered one of the most important figures in classical Sanskrit literature. His contribution to the language and literature of ancient India is significant and far-reaching. Firstly, Vedavyāsa is credited with organizing and compiling the Vedas, the oldest sacred texts of Hinduism. He is believed to have classified the Vedas into four categories and also written the Mahābhārata, which is considered one of the greatest works of Indian literature. Secondly, the Mahābhārata, as mentioned earlier, has had a profound impact on Indian culture and has influenced the way that people think about morality, spirituality, and the human condition. Its themes and characters have inspired countless other works of literature, art, and philosophy throughout history. Finally, Vedavyāsa's contributions to Sanskrit language are also significant. He is credited with standardizing the language and creating a system of grammar that is still used today. Additionally, he is known for his use of metaphors, similes, and other literary devices that are characteristic of classical Sanskrit literature.
+  </div>
+  <div class="tab-pane fade" id="nav-vedavyasa-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/mahabharata.html">Mahābhārata</a></li>
+  </ul>
+  </div>
+</div>

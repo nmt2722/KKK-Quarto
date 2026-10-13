@@ -1,0 +1,27 @@
+---
+title: Bhaṭṭabhīma / Bhaṭṭabhaumaka.
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-bhattabhima-bhattabhaumaka-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattabhima-bhattabhaumaka-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhattabhima-bhattabhaumaka-life-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattabhima-bhattabhaumaka-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhattabhima-bhattabhaumaka-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattabhima-bhattabhaumaka-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhattabhima-bhattabhaumaka-works-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattabhima-bhattabhaumaka-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-bhattabhima-bhattabhaumaka-overview" role="tabpanel">
+  <p class="lead">The rhetorician Kṣemendra who lived during the reign of the King Anantarāja of Kāśmīr between 1028 A.D. and 1080 A.D. quotes Bhaṭṭabhaumaka in his work ‘Suvṛttatilaka’. This proves Bhaṭṭabhaumaka was a predecessor of Kṣemendra. It can be surmised that Bhaṭṭabhaumaka belongs to 10th century.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bhattabhima-bhattabhaumaka-life" role="tabpanel">
+  At the end of the poem, it is stated that Bhaṭṭabhaumaka lived in the village named ‘udū’ near varāhamūla of ‘valabhisthāna’ region of Kāśmīr. The word ‘Bhaṭṭa’ indicates that he belonged to a Brāhmaṇa family. His date of birth and death cannot be proved for lack of any definite information.
+  </div>
+  <div class="tab-pane fade" id="nav-bhattabhima-bhattabhaumaka-contribution" role="tabpanel">
+  Bhaṭṭabhaumaka has given a literary work which can be considered as a text book for the learners of sanskrit literature. He teaches classical grammer through a lengthy poem containing all the features of an epic poem. He has created an archetype of Kāvyaśāstra which is a highly respected work in Sanskrit literature.
+  </div>
+  <div class="tab-pane fade" id="nav-bhattabhima-bhattabhaumaka-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/ravanarjuniyam-arjunaravaniyam.html">Rāvaṇārjunīyam / Arjunarāvaṇīyam</a></li>
+  </ul>
+  </div>
+</div>

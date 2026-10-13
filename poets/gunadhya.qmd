@@ -1,0 +1,27 @@
+---
+title: Guṇāḍhya
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-gunadhya-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-gunadhya-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-gunadhya-life-tab" data-bs-toggle="tab" data-bs-target="#nav-gunadhya-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-gunadhya-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-gunadhya-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-gunadhya-works-tab" data-bs-toggle="tab" data-bs-target="#nav-gunadhya-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-gunadhya-overview" role="tabpanel">
+  <p class="lead">1st or 6th century</p>
+  </div>
+  <div class="tab-pane fade" id="nav-gunadhya-life" role="tabpanel">
+  The time period of the poet is disputable. Somadevabhaṭṭa in the introductory note of his work Kathāsaritsāgara has mentioned that Guṇāḍhya was in  court of Sātavāhana who lived during first century. However multiple sources validate the poet’s time period as 6th century. The poet’s work Bṛhatkathā itself can be considered as the important source of his birth details. The other important source according to Bṛhatkathāmañjarī,  written by Kshmendra mentions that Guṇāḍhya was born at Pratiṣṭhāna in the Deccan on the river Godāvarī. According to another version mentioned in the Nepala Māhātmya of the Skanda Purāṇa, Guṇāḍhya was born in Mathura and served as a court poet for King Madana of Ujjain. However, Sircar regards this account as less reliable. Also poet Soḍḍhala has mentioned Guṇāḍhya's name in his Kavipraśasti, a eulogy of poets. Unfortunately, there isn't much information available about Guṇāḍhya's early life as a poet.
+  </div>
+  <div class="tab-pane fade" id="nav-gunadhya-contribution" role="tabpanel">
+  From the reference of style of writing one can surmise that the poet was not able to gain popularity as a court poet. However, the poet's work elaborates on the adventurous life of ordinary people, including traders and women of low social standing and highlights their importance in society as well as the wealth spent on them by wealthy traders. The writer deviated from the popular themes of kings, queens, and their courts and instead focused on narrating the lives of common men and women, shedding light on the religious, social, and political aspects of the country. From these stray references other Sanskrit writers were able to glean insights into the history of the period. Scholars compare Guṇāḍhya with Vyāsa and Vālmīki even though he did not write the now long-lost Bṛhatkathā in Sanskrit; the loss of this text is one of the greatest losses of Indian literature.
+  </div>
+  <div class="tab-pane fade" id="nav-gunadhya-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/brhatkatha.html">Bṛhatkathā</a></li>
+  </ul>
+  </div>
+</div>

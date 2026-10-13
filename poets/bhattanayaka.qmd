@@ -1,0 +1,27 @@
+---
+title: Bhaṭṭanāyaka
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-bhattanayaka-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattanayaka-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhattanayaka-life-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattanayaka-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhattanayaka-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattanayaka-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhattanayaka-works-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattanayaka-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-bhattanayaka-overview" role="tabpanel">
+  <p class="lead">994-1011 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bhattanayaka-life" role="tabpanel">
+  Bhaṭṭanāyaka was a Sanskrit poet who lived during the 10th century. Some scholars believe that he lived in India during the medieval period, although the exact dates of his birth and death are uncertain. What is known about Bhaṭṭanāyaka comes primarily from the introduction to Hṛdayadarpaṇa, where he is described as a learned scholar and an accomplished poet. He is also said to have studied under a number of prominent literary figures of his time, including the poet Ruyyaka.<br>Despite the lack of biographical information about Bhaṭṭanāyaka, his enduring contribution to Sanskrit literature through his masterpiece, Hṛdayadarpaṇa, remains an important and celebrated achievement.
+  </div>
+  <div class="tab-pane fade" id="nav-bhattanayaka-contribution" role="tabpanel">
+  Bhaṭṭanāyaka's contribution to Sanskrit literature lies primarily in his authorship of Hṛdayadarpaṇa, which is widely regarded as one of the greatest works of Indian poetry. The poem is a masterpiece of Sanskrit literature, renowned for its exquisite language, rich imagery, and evocative expressions of love and desire.<br>Bhaṭṭanāyaka's use of various poetic devices such as similes, metaphors, alliterations, and personifications are remarkable, making Hṛdayadarpaṇa a shining example of the alaṅkāra or ornamental style of Sanskrit poetry.<br>In addition to Hṛdayadarpaṇa, Bhaṭṭanāyaka is also believed to have written several other works on poetry and literary theory, although these have not survived to the present day. His influence on later Sanskrit poets and writers is evident in their emulation of his style and themes, and in their use of his work as a model for their own creative endeavors.
+  </div>
+  <div class="tab-pane fade" id="nav-bhattanayaka-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/hrdayadarpana.html">Hṛdayadarpaṇa</a></li>
+  </ul>
+  </div>
+</div>

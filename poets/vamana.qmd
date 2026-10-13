@@ -1,0 +1,28 @@
+---
+title: Vāmana
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-vamana-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-vamana-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vamana-life-tab" data-bs-toggle="tab" data-bs-target="#nav-vamana-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vamana-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-vamana-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vamana-works-tab" data-bs-toggle="tab" data-bs-target="#nav-vamana-works" type="button" role="tab">Works (2)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-vamana-overview" role="tabpanel">
+  <p class="lead">8th century CE.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-vamana-life" role="tabpanel">
+  Many scholars believe that Vāmana was associated with Jayāpīḍa, a Kashmiri king who ruled during 755 Ad to 786 AD. However, this is not certain, and little else is known about his life or career. Vāmana is primarily known for his contributions to Sanskrit poetics, particularly his treatise Kāvyālaṅkārasūtrasāra and Rasavilāsa. These works discuss the principles of Sanskrit poetry, including the use of figures of speech and other literary devices. Despite his significant contributions to Sanskrit literature, little else is known about Vāmana's life or personal background. He remains an enigmatic figure in the history of Indian literature.
+  </div>
+  <div class="tab-pane fade" id="nav-vamana-contribution" role="tabpanel">
+  Vāmana has made several important contributions to Sanskrit literature, particularly in the field of poetics. Here are a few examples:<br>1. Kāvyālaṅkārasūtrasāra: Vāmana’s most significant contribution to Sanskrit literature is the Kāvyālaṅkārasūtrasāra, a text on poetics that has had a profound impact on the development of literary theory and criticism in India.<br>2. Elaboration of Rasa Theory: Vāmana’s commentary on Bhārata’s Nāṭya Śāstra, called the Rasavilāsa, and elaborates on the concept of rasa, which refers to the emotional or aesthetic experience that a work of art evokes in the audience. Vāmana’s analysis of rasa has had a lasting influence on Indian aesthetics.<br>3. Contribution to Alaṅkāra Śāstra: Vāmana’s work on poetics has contributed to the development of Alaṅkāra Śāstra, the study of literary figures of speech and ornamentation.<br>4. Literary Criticism: Vāmana’s critical writings on various poets and their works, such as his commentary on Kāḷidāsa’s Meghadūta, have provided valuable insights into the literary techniques and themes of classical Sanskrit poetry.
+  </div>
+  <div class="tab-pane fade" id="nav-vamana-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/kavyalankarasutrasara.html">Kāvyālaṅkārasūtrasāra</a></li>
+  <li class="list-group-item px-0"><a href="../works/rasavilasa.html">Rasavilāsa</a></li>
+  </ul>
+  </div>
+</div>

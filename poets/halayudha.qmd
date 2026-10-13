@@ -1,0 +1,29 @@
+---
+title: Halāyudha
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-halayudha-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-halayudha-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-halayudha-life-tab" data-bs-toggle="tab" data-bs-target="#nav-halayudha-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-halayudha-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-halayudha-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-halayudha-works-tab" data-bs-toggle="tab" data-bs-target="#nav-halayudha-works" type="button" role="tab">Works (3)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-halayudha-overview" role="tabpanel">
+  <p class="lead">10th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-halayudha-life" role="tabpanel">
+  Halāyudha was a poet and a grammarian who lived in the town of Kāncīpuram in present-day Tamil Nadu during the 10th century CE. He was a court poet of the Pallava king, who ruled the region at the time.<br><br>Halāyudha is believed to have written several works, including &quot;Kavirahasya,&quot; &quot;Saptavimśatikā,&quot; and &quot;Abhidhānaratnamālā.&quot; &quot;Kavirahasya&quot; is considered to be one of the most important works on Sanskrit poetics, and it covers a wide range of topics, including meter, rhyme, simile, metaphor, and the use of figures of speech.<br><br>Halāyudha was known for his literary style, which was characterized by wit and humour, as well as his mastery of wordplay and puns. He was also knowledgeable about music and dance, which he incorporated into his plays.
+  </div>
+  <div class="tab-pane fade" id="nav-halayudha-contribution" role="tabpanel">
+  Halāyudha made a significant contribution to Classical Sanskrit literature through his compositions, which are characterized by their poetic excellence and spiritual depth. His works cover a wide range of subjects, including grammar, lexicography, poetics, and devotional poetry. His &quot;Abhidhānaratnamālā&quot; is an important lexicographical work, which provides valuable insights into Sanskrit vocabulary and grammar. His &quot;Kavirahasya&quot; is a noteworthy work in the field of poetics, and his &quot;Saptaviṃśatikā&quot; is a collection of devotional hymns that showcases his mastery of Sanskrit verse. Halāyudha’s works are marked by their elegance, precision, and erudition, and have been widely studied and appreciated by scholars and readers of Sanskrit literature. His contributions have helped to enrich and expand the literary heritage of Classical Sanskrit, making him one of the notable poets of the medieval period.
+  </div>
+  <div class="tab-pane fade" id="nav-halayudha-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/kavirahasya.html">Kavirahasya</a></li>
+  <li class="list-group-item px-0"><a href="../works/abhidhanaratnamala.html">Abhidhānaratnamālā</a></li>
+  <li class="list-group-item px-0"><a href="../works/saptavimsatika.html">Saptaviṃśatikā</a></li>
+  </ul>
+  </div>
+</div>

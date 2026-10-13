@@ -1,0 +1,28 @@
+---
+title: Śrīharṣa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-sriharsa-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-sriharsa-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sriharsa-life-tab" data-bs-toggle="tab" data-bs-target="#nav-sriharsa-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sriharsa-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-sriharsa-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sriharsa-works-tab" data-bs-toggle="tab" data-bs-target="#nav-sriharsa-works" type="button" role="tab">Works (2)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-sriharsa-overview" role="tabpanel">
+  <p class="lead">12th century</p>
+  </div>
+  <div class="tab-pane fade" id="nav-sriharsa-life" role="tabpanel">
+  Śrīharṣa was a renowned poet who lived in the 12th century CE. He was born in Jhajjar, in present-day Haryana, India. Śrīharṣa was a prolific writer, and his works included poetry, plays, and essays. His most famous work is the Naiṣadhacarita, a poem that tells the story of King Nala and his queen Damayantī, taken from the Mahabharata. The Naiṣadhacarita is considered one of the greatest works of Sanskrit literature, and is admired for its beauty of language, its vivid descriptions, and its profound insights into human nature.<br><br>Apart from the Naiṣadhacarita, Śrīharṣa also wrote several other works, including the plays Ratnāvalī and Priyadarśikā. Ratnāvalī is a romantic comedy, while Priyadarśikā is a drama about a prince who falls in love with a courtesan. Both plays are notable for their wit, their use of irony, and their portrayal of human emotions.<br><br>Śrīharṣa was a patron of the arts, and his court was known for its intellectual and cultural vibrancy. He was a devout Hindu, and his works often contain references to Hindu mythology and philosophy. Some scholars believe that his poetry reflects the influence of the Bhakti movement, which emphasized the importance of devotion and personal experience in religion.<br><br>Despite his literary achievements, very little is known about Śrīharṣa's personal life. It is not clear whether he was married or had children, or what his occupation was. He is believed to have lived during the reign of King Lakṣmaṇa Sena of Bengal, but the exact dates of his birth and death are not known.<br><br>Nevertheless, Śrīharṣa's works continue to be celebrated and studied today. His poetry is considered some of the finest in the Sanskrit language, and his plays are admired for their wit, their complexity, and their portrayal of human emotions
+  </div>
+  <div class="tab-pane fade" id="nav-sriharsa-contribution" role="tabpanel">
+  Śrīharṣa is considered one of the most important poets in Classical Sanskrit literature, and his contributions to the genre are many. His works, including the plays Naiṣadhacarita and Ratnāvalī, are celebrated for their vivid characterization, intricate plotting, and poetic language.<br>One of the key ways in which Śrīharṣa contributed to Sanskrit literature was by creating complex and realistic characters who are flawed and often torn between conflicting desires. This was a departure from earlier Sanskrit literature, which tended to present characters in more stereotypical terms. In addition, Śrīharṣa was known for his use of dialogue, which he used to convey the complexities of human relationships and emotions.<br>Śrīharṣa's plays also made important contributions to the development of the Indian dramatic tradition. His use of musical interludes, dance sequences, and other performative elements helped to establish the conventions of Indian theater, which continue to influence performance traditions today.<br>Finally, Śrīharṣa's works helped to elevate Sanskrit literature to new heights of sophistication and complexity. His poetry is marked by its use of intricate meter and alliteration, as well as its rich and evocative imagery. His writing also reflects a deep engagement with Indian philosophical and religious traditions, making his works not only entertaining but also intellectually stimulating.
+  </div>
+  <div class="tab-pane fade" id="nav-sriharsa-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/naisadhacarita.html">Naiṣadhacarita</a></li>
+  <li class="list-group-item px-0"><a href="../works/ratnavali.html">Ratnāvalī</a></li>
+  </ul>
+  </div>
+</div>

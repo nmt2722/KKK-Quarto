@@ -1,0 +1,27 @@
+---
+title: Rudrabhaṭṭa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-rudrabhatta-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-rudrabhatta-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-rudrabhatta-life-tab" data-bs-toggle="tab" data-bs-target="#nav-rudrabhatta-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-rudrabhatta-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-rudrabhatta-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-rudrabhatta-works-tab" data-bs-toggle="tab" data-bs-target="#nav-rudrabhatta-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-rudrabhatta-overview" role="tabpanel">
+  <p class="lead">9th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-rudrabhatta-life" role="tabpanel">
+  Very little is known about the life of Rudrabhaṭṭa, the author of Śṛṅgāratilaka. Based on his works, it is believed that he lived in India during the 9th century CE. He was a renowned poet and scholar, known for his expertise in grammar and linguistics in addition to his literary contributions.<br><br>Rudrabhaṭṭa's most famous work, the Śṛṅgāratilaka, is a treatise on the theory and practice of romantic love. It is written in an intricate and complex style, with a focus on exploring the many different facets of love and relationships. Although not much is known about his personal life, Rudrabhaṭṭa's literary legacy continues to inspire and influence scholars and poets to this day.
+  </div>
+  <div class="tab-pane fade" id="nav-rudrabhatta-contribution" role="tabpanel">
+  Rudrabhaṭṭa was a renowned Sanskrit poet, scholar, and literary critic who made significant contributions to Classical Sanskrit literature. His most notable work, the Śṛṅgāratilaka, is a masterpiece of poetry and is considered one of the greatest works of Indian literature. He also wrote influential commentaries on the works of other Sanskrit poets, including Bhāravi and Kāḷidāsa. In addition to his creative output, Rudrabhaṭṭa was a skilled linguist and contributed to the development of Sanskrit grammar and lexicography. His impact on Sanskrit literature continues to be felt today, and he is widely regarded as one of the greatest Sanskrit poets of all time.
+  </div>
+  <div class="tab-pane fade" id="nav-rudrabhatta-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/srngaratilaka.html">Śṛṅgāratilaka</a></li>
+  </ul>
+  </div>
+</div>

@@ -1,0 +1,27 @@
+---
+title: Amaruka
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-amaruka-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-amaruka-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-amaruka-life-tab" data-bs-toggle="tab" data-bs-target="#nav-amaruka-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-amaruka-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-amaruka-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-amaruka-works-tab" data-bs-toggle="tab" data-bs-target="#nav-amaruka-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-amaruka-overview" role="tabpanel">
+  <p class="lead">700-750 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-amaruka-life" role="tabpanel">
+  Very little information is available about the life of the ancient Sanskrit poet Amaru, also known as Amaruka. We do not have reliable historical or biographical records of his life, and the details of his personal life and background remain a mystery. Based on the style and language of his poetry, scholars believe that Amaru lived in India during the period of classical Sanskrit literature, which spanned from around 500 BCE to 1100 CE. Some scholars have suggested that he may have lived around the 7th or 8th century CE. Despite the lack of information about his life, Amaru's poetic legacy has significantly impacted Sanskrit literature and Indian culture. His Amarukaśataka, a collection of 100 love poems, is still widely read and admired for its poetic beauty, vivid imagery, and intricate wordplay.
+  </div>
+  <div class="tab-pane fade" id="nav-amaruka-contribution" role="tabpanel">
+  Amaruka's writing displays a remarkable mastery of language and form. His use of meter, rhyme, and alliteration is precise and sophisticated, and his ability to blend different literary traditions (including Sanskrit, Prākrit, and Apabhramśa) creates a unique and distinctive style.
+  </div>
+  <div class="tab-pane fade" id="nav-amaruka-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/amarukasataka.html">Amarukaśataka</a></li>
+  </ul>
+  </div>
+</div>

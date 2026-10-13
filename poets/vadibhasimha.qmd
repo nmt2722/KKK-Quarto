@@ -1,0 +1,28 @@
+---
+title: Vādībhasiṁha
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-vadibhasimha-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-vadibhasimha-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vadibhasimha-life-tab" data-bs-toggle="tab" data-bs-target="#nav-vadibhasimha-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vadibhasimha-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-vadibhasimha-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vadibhasimha-works-tab" data-bs-toggle="tab" data-bs-target="#nav-vadibhasimha-works" type="button" role="tab">Works (2)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-vadibhasimha-overview" role="tabpanel">
+  <p class="lead">12th or 13th century CE.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-vadibhasimha-life" role="tabpanel">
+  <p class="text-muted">No information available.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-vadibhasimha-contribution" role="tabpanel">
+  Vādībhasiṁha made significant contributions to Classical Sanskrit literature, particularly in the areas of prose writing and literary criticism. His work, the Gadyacintāmaṇi, is considered a seminal treatise on Sanskrit prose writing and played a crucial role in the development of the language and literature.<br><br>In addition to his contributions to prose writing, Vādībhasiṁha was also an accomplished literary critic. He wrote commentaries on several classical Sanskrit texts, including the Nāṭyaśāstra and the Kāvyaprakāśa. His commentaries were known for their insightful analysis and deep understanding of the literary techniques used in the texts.<br><br>Overall, Vādībhasiṁha's contributions helped to shape the development of Classical Sanskrit literature and provided important guidance for future generations of writers and critics.<br>Vādībhasiṁha's contribution to Sanskrit literature through Vaiyākaraṇabhuśaṇa is significant because of its impact on the development of Sanskrit grammar and linguistics. The commentary is characterized by its meticulous attention to detail and its innovative approach to the study of language. It has been widely studied and cited by scholars in India and abroad and has had a profound influence on the field of linguistics.<br><br>In addition to his work on Sanskrit grammar, Vādībhasiṁha also made contributions to the field of literary criticism. He wrote a commentary on the poet Kālidāsa's work &quot;Meghadūta,&quot; which provides a detailed analysis of the poem's themes, imagery, and language. The commentary is highly regarded for its insightful observations and its sensitive appreciation of Kālidāsa's artistry.<br><br>In conclusion, Vādībhasiṁha's contribution to Sanskrit literature through his work on grammar and literary criticism is significant and enduring. His meticulous attention to detail, innovative approach, and insightful analysis have had a profound impact on the development of Sanskrit language and literature. Vādībhasiṁha's legacy as a scholar and writer is a testament to the richness and diversity of Indian intellectual traditions.
+  </div>
+  <div class="tab-pane fade" id="nav-vadibhasimha-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/gadyacintamani.html">Gadyacintāmaṇi</a></li>
+  <li class="list-group-item px-0"><a href="../works/ksatracudamani.html">Kṣatracūḍāmaṇi</a></li>
+  </ul>
+  </div>
+</div>

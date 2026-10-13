@@ -1,0 +1,29 @@
+---
+title: Bhavabhūti
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-bhavabhuti-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-bhavabhuti-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhavabhuti-life-tab" data-bs-toggle="tab" data-bs-target="#nav-bhavabhuti-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhavabhuti-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-bhavabhuti-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhavabhuti-works-tab" data-bs-toggle="tab" data-bs-target="#nav-bhavabhuti-works" type="button" role="tab">Works (3)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-bhavabhuti-overview" role="tabpanel">
+  <p class="lead">700 CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bhavabhuti-life" role="tabpanel">
+  Bhavabhūti was a renowned Sanskrit poet and playwright who lived around 700 CE. He was born in Padmapuram, a city located in the southern trade route of India, in a family of Brāhmaṇa belonging to the Taittirīya-śākha of the Yajurvēda. They were known for their strict observance of Vedic rituals and were considered pure and sacred. Bhavabhūti's grandfather, Bhattagōpāla, was a famous scholar who earned great fame. Bhavabhūti's father was Nīlakaṇṭha, who had a pure and sacred reputation. Bhavabhūti himself was known by two names: Śrīkaṇṭha, due to his clear voice, and Bhavabhūti, which he may have acquired because of his description of Gauri and Śiva. He was also known as a scholar of grammar and Mīmāmsā, the system of knowledge that explains the meaning of the Vedic sentences.<br><br>Bhavabhūti wrote three famous plays, Mahāvīrācārita, Mālatīmādhava, and Uttararāmacarita. His works were highly respected by both critics and patrons. He was considered one of the greatest dramatists of his time, and his plays were widely performed throughout India. He was particularly famous for his use of language and the depth of his characters.<br><br>Bhavabhūti's life is not well documented, and many details about him remain unknown. However, his works have survived the test of time and continue to be studied and performed today. He is remembered as a great poet, playwright, and scholar of ancient India.
+  </div>
+  <div class="tab-pane fade" id="nav-bhavabhuti-contribution" role="tabpanel">
+  Bhavabhūti is considered one of the greatest playwrights in Classical Sanskrit literature. He wrote three major plays - Mahāvīrācārita, Mahāvīrācārita, and Uttararāmacharita, which are still highly regarded for their literary excellence, intricate plot construction, and vivid characterization. Bhavabhūti's plays are known for their exploration of the human psyche, moral dilemmas, and ethical complexities, making them timeless works of art that continue to be relevant even today. His contribution to Sanskrit literature lies not only in his plays but also in his poetic works, including the Uttararāmacharita, which is a significant contribution to Sanskrit epic poetry. Additionally, Bhavabhūti's use of sophisticated language and poetic devices has had a lasting impact on the development of Sanskrit literature and has inspired generations of writers and poets.
+  </div>
+  <div class="tab-pane fade" id="nav-bhavabhuti-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/mahaviracarita.html">Mahāvīrācārita</a></li>
+  <li class="list-group-item px-0"><a href="../works/malatimadhava.html">Mālatīmādhava</a></li>
+  <li class="list-group-item px-0"><a href="../works/uttararamacarita.html">Uttararāmacarita</a></li>
+  </ul>
+  </div>
+</div>

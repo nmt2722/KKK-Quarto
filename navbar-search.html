@@ -1,0 +1,32 @@
+<script>
+(function () {
+  function init() {
+    var nav = document.querySelector('.navbar .navbar-collapse');
+    if (!nav || document.getElementById('navbar-search-form')) return;
+    if (document.getElementById('global-search')) return;
+    var prefix = '';
+    var brand = document.querySelector('.navbar-brand');
+    if (brand) {
+      var href = brand.getAttribute('href') || '';
+      prefix = href.replace(/index\.html.*$/, '');
+    }
+    var form = document.createElement('form');
+    form.id = 'navbar-search-form';
+    form.setAttribute('role', 'search');
+    form.className = 'navbar-search ms-auto my-2 my-lg-0';
+    form.innerHTML = '<input class="form-control form-control-sm" type="search" placeholder="Search site..." aria-label="Search" autocomplete="off">';
+    nav.appendChild(form);
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var q = form.querySelector('input').value.trim();
+      if (!q) return;
+      window.location.href = prefix + 'search.html?q=' + encodeURIComponent(q);
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>

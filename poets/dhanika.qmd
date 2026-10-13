@@ -1,0 +1,28 @@
+---
+title: Dhanika
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-dhanika-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-dhanika-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-dhanika-life-tab" data-bs-toggle="tab" data-bs-target="#nav-dhanika-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-dhanika-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-dhanika-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-dhanika-works-tab" data-bs-toggle="tab" data-bs-target="#nav-dhanika-works" type="button" role="tab">Works (2)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-dhanika-overview" role="tabpanel">
+  <p class="lead">9th or 19th century CE<br>There is some debate among scholars regarding the exact time period in which Dhanika lived and worked, and his dates are not entirely clear. Some sources suggest that he may have lived between 974 and 995 AD, but this is not universally accepted. The most commonly cited time period for Dhanika is the 9th or 10th century CE, which would place him around the same time as Dhanañjaya, the author of the Daśarūpaka.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-dhanika-life" role="tabpanel">
+  Dhanika was a Sanskrit scholar and commentator who lived in India, most likely during the 9th or 10th century CE. He is believed to have been a contemporary of Dhanañjaya, the author of the Daśarūpaka, and he is known for his extensive commentary on that work.<br>The Avaloka Ṭīkā, Dhanika's commentary on the Daśarūpaka, is considered one of the most important works on Indian dramatic theory. In it, he provides a detailed analysis of the concepts and principles of Indian theatre, including the structure of a play, the roles of different characters, the use of music and dance, and the creation of emotional experiences for the audience.<br>Despite the lack of information about his personal life, Dhanika's contributions to Indian theatre and his influence on subsequent generations of scholars and practitioners have secured his place as an important figure in the history of Indian literature and dramatic theory.
+  </div>
+  <div class="tab-pane fade" id="nav-dhanika-contribution" role="tabpanel">
+  Dhanika's contribution to Classical Sanskrit literature goes beyond his Avaloka Ṭīkā on the Daśarūpaka. He was a prolific writer and commentator, and his works have had a significant impact on the development of Indian literary and cultural traditions.<br>One of Dhanika's most important contributions to Sanskrit literature is his commentary on the Kāvyādarśa, a treatise on poetics by the Indian scholar Dandin. Dhanika's commentary, known as the Sabdālaṅkārarasānandavyākhyā, provides a detailed analysis of Dandin's text and expands on his ideas, offering new insights into the principles of Sanskrit poetics.<br>Dhanika also wrote several works on grammar and linguistics, including the Padamañjari and the Prakriyā-kaumudī. These works are highly regarded for their clarity and precision, and have had a significant impact on the development of Sanskrit grammar and linguistic theory.<br>In addition to his literary and scholarly works, Dhanika was also a practitioner of Indian music and dance, and wrote extensively on these subjects. His commentary on the Saṅgītaratnākara, a treatise on Indian music by the scholar Śārṅgadeva, is considered one of the most important works on Indian musicology.<br>Overall, Dhanika's contributions to Classical Sanskrit literature are wide-ranging and influential. His works have had a lasting impact on the development of Indian literary and cultural traditions, and continue to be studied and referenced today.
+  </div>
+  <div class="tab-pane fade" id="nav-dhanika-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/avaloka-tika-on-dasrupaka.html">Avaloka Ṭīkā on Daśrūpaka</a></li>
+  <li class="list-group-item px-0"><a href="../works/kavyanirnaya.html">Kāvyanirṇaya</a></li>
+  </ul>
+  </div>
+</div>

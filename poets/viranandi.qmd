@@ -1,0 +1,27 @@
+---
+title: Vīranandi
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-viranandi-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-viranandi-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-viranandi-life-tab" data-bs-toggle="tab" data-bs-target="#nav-viranandi-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-viranandi-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-viranandi-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-viranandi-works-tab" data-bs-toggle="tab" data-bs-target="#nav-viranandi-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-viranandi-overview" role="tabpanel">
+  <p class="lead">11th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-viranandi-life" role="tabpanel">
+  Vīranandi was a Jain monk and scholar who lived in India during the 11th century CE. He is best known as the author of the Candraprabhacarita. This Sanskrit epic poem tells the story of the life of Candraprabha, the eighth Tīrthaṅkara  or enlightened being of Jainism. According to Jain tradition, Candraprabha was born in Ayōdhyā  as the son of King Mahāsena and Queen Lakṣmaṇa. He renounced his royal status and became a Jain monk at a young age, dedicating his life to pursuing spiritual knowledge and enlightenment. Vīranandi's Candraprabhacarita follows the life of Candraprabha from his birth to his attainment of mokṣa or liberation from the cycle of birth and death. The epic poem is written in a lyrical and highly literary style and is notable for its vivid descriptions of the natural world and its nuanced exploration of Jain philosophy.<br>In addition to his work as an author, Vīranandi was also a respected teacher and scholar within the Jain community. He is credited with writing several other works on Jainism, including commentaries on Jain texts and treatises on Jain philosophy.
+  </div>
+  <div class="tab-pane fade" id="nav-viranandi-contribution" role="tabpanel">
+  Vīranandi was a Jain monk and scholar who made a significant contribution to Sanskrit literature. He is best known as the author of the Candraprabhacarita, an epic poem that tells the story of the life of Candraprabha, the eighth Tīrthaṅkara  of Jainism. The Candraprabhacarita is considered a masterpiece of Sanskrit literature, admired for its literary style, vivid descriptions, and philosophical depth. In addition to his epic poem, Vīranandi wrote several other works on Jainism, including commentaries on Jain texts and treatises on Jain philosophy. He was also a respected teacher and scholar within the Jain community, known for his expertise in Jain doctrine and his ability to explain complex concepts in clear and accessible language. Today, Vīranandi is remembered as one of the most important figures in Jain literature and scholarship, and his contributions to Sanskrit literature continue to be studied and appreciated by scholars of Indian philosophy and religion.
+  </div>
+  <div class="tab-pane fade" id="nav-viranandi-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/candraprabhacarita.html">Candraprabhacarita</a></li>
+  </ul>
+  </div>
+</div>

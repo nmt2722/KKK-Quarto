@@ -1,0 +1,27 @@
+---
+title: Bhaṭṭanārāyaṇa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-bhattanarayana-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattanarayana-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhattanarayana-life-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattanarayana-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhattanarayana-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattanarayana-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhattanarayana-works-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattanarayana-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-bhattanarayana-overview" role="tabpanel">
+  <p class="lead">According to 9th-century poet Vāmana, Bhaṭṭanārāyaṇa belongs to the second half of the seventh century or the first half of the eighth century</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bhattanarayana-life" role="tabpanel">
+  Bhaṭṭanārāyaṇa has not given any information about himself in his work other than the fact that he calls himself “Margārājalakṣmaṇ”, a lion among poets. There was a king called Adhisūra in Bengal and he invited some Brāhmaṇa from Kanyakubja (Kaṇṇauj) to his place. Around six families went to Bengal from Kaṇṇauj and among those families, one was Bhaṭṭanārāyaṇa’s family. He stayed in Bengal under the patronage of the king. After migrating to Bengal, they were called Gauḍa Sārasvata Brāhmaṇas<br>Ānandhavardhana, an author of Dhvanyāloka and Dhanañjaya writer of Daśarūpakaṁ have quoted from Bhaṭṭanārāyaṇa’s work. Thus it can be inferred that he preceded them.
+  </div>
+  <div class="tab-pane fade" id="nav-bhattanarayana-contribution" role="tabpanel">
+  <p class="text-muted">No information available.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bhattanarayana-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/the-only-known-work-of-this-poet-is-venisamhara-binding-of-hair.html">The only known work of this Poet is Veṇīsaṃhāra (Binding of hair)</a></li>
+  </ul>
+  </div>
+</div>

@@ -1,0 +1,27 @@
+---
+title: Mahendravikramavarmā
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-mahendravikramavarma-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-mahendravikramavarma-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-mahendravikramavarma-life-tab" data-bs-toggle="tab" data-bs-target="#nav-mahendravikramavarma-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-mahendravikramavarma-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-mahendravikramavarma-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-mahendravikramavarma-works-tab" data-bs-toggle="tab" data-bs-target="#nav-mahendravikramavarma-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-mahendravikramavarma-overview" role="tabpanel">
+  <p class="lead">12th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-mahendravikramavarma-life" role="tabpanel">
+  Mahendravikramavarmā who is known as the author of Mattavilāsa was a King of the Chālukya dynasty who ruled from the city of Kalyāṇa in present-day Karnataka during the late 12th century CE. Not much is known about his life, but he is believed to have been a patron of literature and the arts, and is credited with several other literary works besides Mattavilāsa.
+  </div>
+  <div class="tab-pane fade" id="nav-mahendravikramavarma-contribution" role="tabpanel">
+  Mahendravikramavarmā is considered an important figure in the development of Sanskrit literature, particularly in the area of drama. His play Mattavilāsa is widely regarded as a masterpiece of Sanskrit drama, praised for its literary merit, social commentary, and influence on later works. In addition to his contribution to drama, Mahendravikramavarmā was also a prolific poet, and is believed to have authored several other works in addition to Mattavilāsa. He is known to have been a patron of the arts, and his court was a center of literary and cultural activity during his reign. Mahendravikramavarmā's contribution to Sanskrit literature can be seen in his sophisticated use of language, his experimentation with literary form and structure, and his ability to address complex social and cultural issues through his writing. His works have had a lasting impact on the development of Sanskrit literature, inspiring later writers and contributing to the preservation and evolution of this rich tradition of literature.
+  </div>
+  <div class="tab-pane fade" id="nav-mahendravikramavarma-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/mattavilasa.html">Mattavilāsa</a></li>
+  </ul>
+  </div>
+</div>

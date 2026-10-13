@@ -1,0 +1,27 @@
+---
+title: Ghaṭakarpara
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-ghatakarpara-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-ghatakarpara-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-ghatakarpara-life-tab" data-bs-toggle="tab" data-bs-target="#nav-ghatakarpara-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-ghatakarpara-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-ghatakarpara-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-ghatakarpara-works-tab" data-bs-toggle="tab" data-bs-target="#nav-ghatakarpara-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-ghatakarpara-overview" role="tabpanel">
+  <p class="lead">2nd century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-ghatakarpara-life" role="tabpanel">
+  It is believed that he lived in India during the 2nd century CE, and that he composed the Ghaṭakarparakāvya during this time. There are no surviving biographical accounts or historical records that provide information about Ghaṭakarpara's personal life or his literary career. As a result, much of what is known about him comes from the text of the Ghaṭakarparakāvya itself, which offers some insights into his poetic style and worldview, but provides little information about his life outside of his work. Despite the lack of information about his personal life, Ghaṭakarpara remains an important figure in the history of Sanskrit literature and is widely regarded as one of the most accomplished poets of his time.
+  </div>
+  <div class="tab-pane fade" id="nav-ghatakarpara-contribution" role="tabpanel">
+  Ghaṭakarpara was a master of the Sanskrit language and the kāvya genre, as evidenced by the rich and complex language and intricate poetic form of the Ghaṭakarparakāvya. His command of language and form set a standard for Sanskrit poetry that influenced later writers in the tradition. Ghaṭakarpara's depiction of the psychological complexities of his characters in the Ghaṭakarparakāvya was pioneering for its time and set a precedent for the exploration of human psychology in Sanskrit literature. His insights into the motivations and emotions of his characters have influenced the development of character psychology in Sanskrit poetry and drama.
+  </div>
+  <div class="tab-pane fade" id="nav-ghatakarpara-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/ghatakarparakavya.html">Ghaṭakarparakāvya</a></li>
+  </ul>
+  </div>
+</div>

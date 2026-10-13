@@ -1,0 +1,28 @@
+---
+title: Dhanañjaya
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-dhananjaya-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-dhananjaya-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-dhananjaya-life-tab" data-bs-toggle="tab" data-bs-target="#nav-dhananjaya-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-dhananjaya-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-dhananjaya-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-dhananjaya-works-tab" data-bs-toggle="tab" data-bs-target="#nav-dhananjaya-works" type="button" role="tab">Works (2)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-dhananjaya-overview" role="tabpanel">
+  <p class="lead">974-995 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-dhananjaya-life" role="tabpanel">
+  Dhanañjaya has a minimal mention of himself in Daśarūpaka. He was the son of Viṣṇu. He patronised Mālava king Muñja or Vākpatirāja II, who reigned in the last quarter of the 11th century AD. It was during this period that Dhanañjaya composed the Daśarūpaka. The most accepted commentary on Daśarūpaka is &quot;Daśarūpāvaloka&quot; by Dhanika. In that commentary, he stated that he is the son of Viṣṇu and an officer of king Utpalarāja, also called Muñja, the patron king of Dhanañjaya. Hence, it is seen that many scholars have pointed out that Dhanika was probably the brother of Dhanañjaya.
+  </div>
+  <div class="tab-pane fade" id="nav-dhananjaya-contribution" role="tabpanel">
+  Dhanañjaya's strength lies mainly in his methodical description of dance categories and his clear, albeit brief, explanation. Before his work, much of the available information, including that found on Abhinavagupta, was fragmented and existed as quotations from lost works or general literature. Sometimes information comes as a passing remark or insight that is not clearly expressed. In Dhanañjaya, the terms and categories are fixed and defined with sufficient clarity to assume that their meanings have become universally accepted. In addition, the text also provides quite essential information that leads to our understanding of the use of sign language in drama.
+  </div>
+  <div class="tab-pane fade" id="nav-dhananjaya-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/dasarupaka.html">Daśarūpaka</a></li>
+  <li class="list-group-item px-0"><a href="../works/raghavapandaviya.html">Rāghavapāṇḍavīya</a></li>
+  </ul>
+  </div>
+</div>

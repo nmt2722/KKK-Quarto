@@ -1,0 +1,32 @@
+---
+title: Vasudeva
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-vasudeva-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-vasudeva-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vasudeva-life-tab" data-bs-toggle="tab" data-bs-target="#nav-vasudeva-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vasudeva-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-vasudeva-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-vasudeva-works-tab" data-bs-toggle="tab" data-bs-target="#nav-vasudeva-works" type="button" role="tab">Works (6)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-vasudeva-overview" role="tabpanel">
+  <p class="lead">14th-century Sanskrit poet</p>
+  </div>
+  <div class="tab-pane fade" id="nav-vasudeva-life" role="tabpanel">
+  His work &quot;Vāsudevavijaya Mahākāvya&quot; is considered to be one of the finest examples of Sanskrit epic poetry and has been studied and admired by generations of scholars and poets.<br>Despite the lack of information about his life, Vasudeva's contribution to Sanskrit literature and poetry has left a lasting impact, and his work continues to be celebrated and studied to this day.
+  </div>
+  <div class="tab-pane fade" id="nav-vasudeva-contribution" role="tabpanel">
+  Vasudeva was an important figure in classical Sanskrit literature, and his works made a significant contribution to the development of the language and literature. Some of his contributions include:<br><br>Development of the Mahākāvya genre: Vasudeva's &quot;Vāsudevavijaya Mahākāvya&quot; is one of the finest examples of the Mahākāvya genre, which developed during the medieval period of Sanskrit literature. His work helped to establish the Mahākāvya as a distinct genre in classical Sanskrit literature.<br>Use of colloquial language: While Sanskrit was traditionally a language of the elite, Vasudeva used colloquial language in his works to make them accessible to a wider audience. This helped to democratize Sanskrit literature and make it more inclusive.<br>Use of metaphors and symbolism: Vasudeva was skilled in the use of metaphors and symbolism, which added depth and complexity to his works. His use of these literary devices helped to elevate Sanskrit literature and make it more nuanced.<br>Promotion of Vaiṣṇavaism: Vasudeva was a devotee of Lord Vishnu and his works often reflected his devotion to the deity. Through his poetry, Vasudeva helped to promote Vaishnavism, which had a profound impact on Indian culture and society.<br>Overall, Vasudeva's contributions to classical Sanskrit literature helped to shape the language and elevate it to new heights. His works remain an important part of the Sanskrit literary canon and continue to inspire scholars and writers today.
+  </div>
+  <div class="tab-pane fade" id="nav-vasudeva-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/vasudevavijaya-mahakavya.html">&quot;Vāsudevavijaya Mahākāvya,&quot;</a></li>
+  <li class="list-group-item px-0"><a href="../works/yudhisthiravijaya.html">Yudhiṣṭhiravijaya</a></li>
+  <li class="list-group-item px-0"><a href="../works/raksasakavya-is-a-mahakavya-written-by-vasudeva-in-sanskrit-language.html">Rākṣasakāvya is a Mahākāvya written by Vasudeva in Sanskrit language.</a></li>
+  <li class="list-group-item px-0"><a href="../works/tripuradahanakavya.html">Tripuradahanakāvya</a></li>
+  <li class="list-group-item px-0"><a href="../works/saurikathodaya.html">Śaurikathodaya</a></li>
+  <li class="list-group-item px-0"><a href="../works/nalodaya.html">&quot;Nalodaya&quot;</a></li>
+  </ul>
+  </div>
+</div>

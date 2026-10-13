@@ -1,0 +1,70 @@
+[
+  {
+    "genre":"Commentary",
+    "count":1
+  },
+  {
+    "genre":"Engineering",
+    "count":1
+  },
+  {
+    "genre":"Law",
+    "count":1
+  },
+  {
+    "genre":"Historical",
+    "count":1
+  },
+  {
+    "genre":"Devotional",
+    "count":2
+  },
+  {
+    "genre":"Satires",
+    "count":3
+  },
+  {
+    "genre":"Digest",
+    "count":4
+  },
+  {
+    "genre":"Moralistic works",
+    "count":7
+  },
+  {
+    "genre":"Social Drama",
+    "count":18
+  },
+  {
+    "genre":"Scripture (Hindu, Buddhist and Jain)",
+    "count":19
+  },
+  {
+    "genre":"Court poetry (kavya)",
+    "count":20
+  },
+  {
+    "genre":"Poems",
+    "count":22
+  },
+  {
+    "genre":"Humor",
+    "count":22
+  },
+  {
+    "genre":"Biography",
+    "count":25
+  },
+  {
+    "genre":"Epic Drama",
+    "count":25
+  },
+  {
+    "genre":"Lyric",
+    "count":28
+  },
+  {
+    "genre":"Epic",
+    "count":28
+  }
+]

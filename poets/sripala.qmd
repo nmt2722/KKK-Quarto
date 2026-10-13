@@ -1,0 +1,27 @@
+---
+title: Śrīpāla
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-sripala-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-sripala-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sripala-life-tab" data-bs-toggle="tab" data-bs-target="#nav-sripala-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sripala-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-sripala-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sripala-works-tab" data-bs-toggle="tab" data-bs-target="#nav-sripala-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-sripala-overview" role="tabpanel">
+  <p class="lead">12th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-sripala-life" role="tabpanel">
+  Śrīpāla was a Sanskrit poet who lived in the 12th century CE. He was born in a Brahmin family of the Prāgvaṭavamśa and was the son of Lakṣmaṇa. Śrīpāla was blind from birth, but his disability did not hinder his passion for learning and writing poetry.<br><br>Śrīpāla was a court poet in the court of Siddharāja Jayasimhan of the Chālukya dynasty, who ruled over Gujarat from 1093 to 1143 CE. He composed his most famous work, Vairōcanaparājayaḥ, during this time. The Vairōcanaparājayaḥ is an epic poem that tells the story of the demon king Vairocana and his battles with various Hindu deities.<br><br>Despite being blind, Śrīpāla was known for his mastery of Sanskrit grammar, poetics, and rhetoric. He was also well-versed in the Vedas, Purāṇas, and other Hindu scriptures. In addition to the Vairōcanaparājayaḥ, Śrīpāla also composed other works, including the Subhāṣitaratnakośa and the Sahasānandataraṅgiṇī.<br><br>Śrīpāla's poetry is known for its intricate wordplay, vivid imagery, and use of metaphors. His works also reflect his deep knowledge and understanding of Hindu mythology and philosophy. Despite his blindness and the challenges he faced as a poet in a royal court, Śrīpāla was highly respected and admired for his poetic talents and intellectual prowess.
+  </div>
+  <div class="tab-pane fade" id="nav-sripala-contribution" role="tabpanel">
+  Śrīpāla's contribution to Classical Sanskrit literature lies in his development of the kāvya genre, particularly in the depiction of Jain philosophy and teachings. His works, including Vairōcanaparājayaḥ, showcase a high level of poetic skill and mastery of Sanskrit language, contributing to the overall richness of Sanskrit literature. Additionally, his works provide insight into the religious and cultural practices of medieval India, particularly in the Jain tradition. Overall, Śrīpāla's works serve as an important example of the diversity and richness of Sanskrit literature.
+  </div>
+  <div class="tab-pane fade" id="nav-sripala-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/vairocanaparajayah.html">Vairōcanaparājayaḥ</a></li>
+  </ul>
+  </div>
+</div>

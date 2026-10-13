@@ -1,0 +1,27 @@
+---
+title: Viśākhadatta
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-visakhadatta-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-visakhadatta-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-visakhadatta-life-tab" data-bs-toggle="tab" data-bs-target="#nav-visakhadatta-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-visakhadatta-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-visakhadatta-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-visakhadatta-works-tab" data-bs-toggle="tab" data-bs-target="#nav-visakhadatta-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-visakhadatta-overview" role="tabpanel">
+  <p class="lead">4th or 5th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-visakhadatta-life" role="tabpanel">
+  Not much is known about Viśākhadatta's life. However, based on the available information, it is believed that he was a poet and playwright who lived in ancient India, possibly during the 4th or 5th century CE. He was a member of the Kṣatriya community and was the son of King Pṛthu. Viśākhadatta's most famous work is the play &quot;Mudrārākṣasa,&quot; which tells the story of the political intrigue that led to the rise of the Mauryan Empire in ancient India. The play is widely regarded as a masterpiece of Sanskrit literature and is studied in universities and drama schools around the world.<br><br>Apart from &quot;Mudrārākṣasa,&quot; Viśākhadatta is also believed to have written several other plays, including &quot;Devicandraguptam.&quot; However, these plays are not as well-known as &quot;Mudrārākṣasa.&quot;<br><br>Unfortunately, there is no conclusive information available regarding the personal life of Viśākhadatta, such as his place of birth, upbringing, or family background. However, his literary contributions have left a lasting impact on Indian literature and culture, and he is widely regarded as one of the greatest playwrights in the history of Sanskrit literature.
+  </div>
+  <div class="tab-pane fade" id="nav-visakhadatta-contribution" role="tabpanel">
+  Viśākhadatta was an important figure in Classical Sanskrit literature, particularly in the field of drama. His most significant contribution was the play &quot;Mudrārākṣasa&quot;, which is widely regarded as a masterpiece of Sanskrit literature. This play revolutionized the genre of Sanskrit drama by introducing a new style of political drama based on the ancient Indian narrative tradition. Viśākhadatta was also known for his skillful use of language and imagery, which was influential in shaping the literary style of his era. He contributed to the development of Sanskrit poetics by writing commentaries on several works, and his works were also an important source of inspiration for later writers in the genre of Sanskrit drama. Overall, Viśākhadatta's contributions to Classical Sanskrit literature have had a lasting impact on the field and continue to be studied and admired by scholars and readers today.
+  </div>
+  <div class="tab-pane fade" id="nav-visakhadatta-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/mudraraksasa.html">Mudrārākṣasa</a></li>
+  </ul>
+  </div>
+</div>

@@ -1,0 +1,30 @@
+---
+title: Rājānaka Ruyyaka
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-rajanaka-ruyyaka-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-rajanaka-ruyyaka-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-rajanaka-ruyyaka-life-tab" data-bs-toggle="tab" data-bs-target="#nav-rajanaka-ruyyaka-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-rajanaka-ruyyaka-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-rajanaka-ruyyaka-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-rajanaka-ruyyaka-works-tab" data-bs-toggle="tab" data-bs-target="#nav-rajanaka-ruyyaka-works" type="button" role="tab">Works (4)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-rajanaka-ruyyaka-overview" role="tabpanel">
+  <p class="lead">12th century</p>
+  </div>
+  <div class="tab-pane fade" id="nav-rajanaka-ruyyaka-life" role="tabpanel">
+  Rājānaka Ruyyaka was a Sanskrit poet who lived in Kashmir in the 12th century. He was the son of Rājānaka Tilaka, who was also a poet and a scholar. Ruyyaka himself was highly learned in Sanskrit poetics and philosophy, and his works demonstrate a deep understanding of these subjects.<br><br>Ruyyaka was likely a court poet who enjoyed the patronage of local rulers in Kashmir. He is known to have dedicated some of his works to King Jayasinha and Queen Sussāḷa of the Lohara dynasty, who ruled over Kashmir in the 12th century.<br><br>Beyond these few details, we have little information about Ruyyaka's life. Nevertheless, his works continue to be studied and appreciated for their literary and philosophical insights.
+  </div>
+  <div class="tab-pane fade" id="nav-rajanaka-ruyyaka-contribution" role="tabpanel">
+  Rājānaka Ruyyaka was a prominent figure in the field of Sanskrit literature and made significant contributions to classical Sanskrit literature in general. His works, such as the Kāvyaprakāśasaṅkēta, Alaṅkāra-mañjari, and Sāhityamīmāṃsā, are important treatises on Sanskrit poetics and literary criticism, which have greatly influenced subsequent scholars in the field.<br>Ruyyaka's contributions to Sanskrit literature include the development of new concepts and ideas in the area of poetics, such as the theory of Arthapati, or inferential comprehension, and the classification of poetry based on its style and subject matter. He also introduced new terminology to describe the various aspects of poetry, which has been widely used by later writers.<br>Additionally, Ruyyaka was known for his skill as a poet and his mastery of the Sanskrit language. He was a prolific writer and his works exhibit a deep understanding of Sanskrit literature and its various genres. Overall, Ruyyaka's contributions have had a lasting impact on classical Sanskrit literature, and his works continue to be studied and appreciated by scholars and enthusiasts of the language.
+  </div>
+  <div class="tab-pane fade" id="nav-rajanaka-ruyyaka-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/alankarasutra.html">Alaṅkārasūtra</a></li>
+  <li class="list-group-item px-0"><a href="../works/kavyaprakasasanketa.html">Kāvyaprakāśasaṅkēta</a></li>
+  <li class="list-group-item px-0"><a href="../works/alankaramanjari.html">Alaṅkāramañjarī</a></li>
+  <li class="list-group-item px-0"><a href="../works/sahityamimamsa.html">Sāhityamīmāṃsā</a></li>
+  </ul>
+  </div>
+</div>

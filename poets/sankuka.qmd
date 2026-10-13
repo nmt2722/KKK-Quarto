@@ -1,0 +1,27 @@
+---
+title: Śaṅkuka
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-sankuka-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-sankuka-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sankuka-life-tab" data-bs-toggle="tab" data-bs-target="#nav-sankuka-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sankuka-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-sankuka-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sankuka-works-tab" data-bs-toggle="tab" data-bs-target="#nav-sankuka-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-sankuka-overview" role="tabpanel">
+  <p class="lead">9th century (813 AD)</p>
+  </div>
+  <div class="tab-pane fade" id="nav-sankuka-life" role="tabpanel">
+  Śaṅkuka was a Sanskrit poet who lived in the 9th century AD and was patronized by the King Ajitāpīḍa. He is best known for his work Bhuvanābyudaya, which is an epic poem that describes the creation of the universe and the exploits of various gods and heroes.<br>Śaṅkuka was a master of Sanskrit poetics and is known for his skilful use of various literary devices, such as alliteration, metaphor, and simile. His work has had a significant influence on the development of Sanskrit literature and continues to be studied and admired by scholars and enthusiasts today.
+  </div>
+  <div class="tab-pane fade" id="nav-sankuka-contribution" role="tabpanel">
+  Śaṅkuka was a renowned Sanskrit poet and author of the 9th century whose contributions to classical Sanskrit literature are widely recognized. His most famous work, the Bhuvanābyudaya, is a remarkable epic poem that explores the creation of the universe, the geography of the earth, the exploits of various gods and goddesses, and the adventures of King Vikramāditya. Śaṅkuka's writings are known for their rich language, complex poetic structures, and philosophical insights. He was particularly adept at combining the classical Sanskrit poetic tradition with regional Indian cultural elements, making his works accessible and appealing to a wide range of audiences. His writings have had a profound influence on later Sanskrit literature and continue to be celebrated for their literary and cultural value.
+  </div>
+  <div class="tab-pane fade" id="nav-sankuka-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/bhuvanabyudaya.html">Bhuvanābyudaya</a></li>
+  </ul>
+  </div>
+</div>

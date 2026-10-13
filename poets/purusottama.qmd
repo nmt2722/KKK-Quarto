@@ -1,0 +1,30 @@
+---
+title: Puruṣottama
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-purusottama-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-purusottama-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-purusottama-life-tab" data-bs-toggle="tab" data-bs-target="#nav-purusottama-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-purusottama-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-purusottama-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-purusottama-works-tab" data-bs-toggle="tab" data-bs-target="#nav-purusottama-works" type="button" role="tab">Works (4)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-purusottama-overview" role="tabpanel">
+  <p class="lead">Puruṣottama was a medieval Indian poet who wrote in the Kannada language. He lived in the 12th century, during the reign of the Western Chālukya dynasty in present-day Karnataka, India.<br>Puruṣottama is best known for his work called &quot;Kabbigara Kava&quot; or &quot;The Poet's Defender,&quot; which is a collection of poems defending the art of poetry and the life of a poet. The work is divided into four parts: the first part describes the greatness of poetry, the second part defends the life of a poet, the third part praises the patronage of poets, and the fourth part speaks about the various types of poets and their work.<br>Puruṣottama work is considered an important contribution to Kannada literature and has been studied and celebrated by scholars and poets for centuries. He is also known for his other works, such as &quot;Kamathapura&quot; and &quot;Vidyāsundara,&quot; which are love poems.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-purusottama-life" role="tabpanel">
+  Puruṣottama was a prominent poet in Kannada literature and is best known for his work called &quot;Kabbigara Kava&quot; or &quot;The Poet's Defender,&quot; which is a collection of poems defending the art of poetry and the life of a poet. The work is considered a classic in Kannada literature and has been studied and celebrated by scholars and poets for centuries.<br>In addition to &quot;Kabbigara Kava,&quot; Puruṣottama is also known for his other works, such as &quot;Kamathapura&quot; and &quot;Vidyāsundara,&quot; which are love poems. His works are known for their lyrical beauty and intricate wordplay, and have had a significant influence on Kannada literature.<br>Puruṣottama's contributions to Kannada literature have been widely recognized and celebrated. In 1985, the Government of Karnataka established the &quot;Puruṣottama Kavi Saṃśodhana Kendra,&quot; a research centre dedicated to the study of Puruṣottama's life and works. In addition, several literary awards have been named after him, including the &quot;Puruṣottama Kavi Praśasti,&quot; which is awarded annually to outstanding Kannada poets.<br>Despite the lack of information about his life, Puruṣottama's contributions to Kannada literature have been widely recognized and celebrated. His works are known for their lyrical beauty and intricate wordplay, and have had a significant influence on Kannada literature. Today, he is considered one of the greatest poets in Kannada literature, and his works continue to inspire and captivate readers and scholars alike.<br>Puruṣottama's contributions to Kannada literature have helped to shape and define the literary traditions of Karnataka, and his works continue to be studied and celebrated by scholars, poets, and literature enthusiasts.
+  </div>
+  <div class="tab-pane fade" id="nav-purusottama-contribution" role="tabpanel">
+  Puruṣottama was a prolific writer and poet who made significant contributions to classical Sanskrit literature. His works are known for their literary excellence, spiritual insights, and cultural significance.<br>Apart from his most famous works, Viṣṇubhaktikalpalatā and Trikāṇḍaśeṣa, Puruṣottama wrote several other works, including dramas, lyrics, and philosophical treatises. He was a master of Sanskrit language and literature, and his works exhibit a deep understanding of the Sanskrit tradition and its various genres.<br>Puruṣottama's contribution to classical Sanskrit literature lies in his ability to infuse devotional themes with literary and philosophical excellence. His works are not just religious texts, but also great works of art and literature. His use of Sanskrit language and poetic devices is considered exceptional, and his works are often cited as examples of the highest achievement in Sanskrit literature.<br>Puruṣottama's contribution to classical Sanskrit literature is significant and enduring, and his works continue to inspire scholars and readers alike with their literary excellence, spiritual insights, and cultural richness.
+  </div>
+  <div class="tab-pane fade" id="nav-purusottama-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/purusottamas-visnubhaktikalpalata.html">Puruṣottama's Viṣṇubhaktikalpalatā</a></li>
+  <li class="list-group-item px-0"><a href="../works/purusottamas-trikandasesa.html">Puruṣottama's Trikāṇḍaśeṣa</a></li>
+  <li class="list-group-item px-0"><a href="../works/purusottamas-haravali.html">Puruṣottama's Hārāvalī</a></li>
+  <li class="list-group-item px-0"><a href="../works/purusottamas-ekaksarakosa.html">Puruṣottama's Ekākṣarakoṣa</a></li>
+  </ul>
+  </div>
+</div>

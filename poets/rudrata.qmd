@@ -1,0 +1,27 @@
+---
+title: Rudraṭa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-rudrata-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-rudrata-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-rudrata-life-tab" data-bs-toggle="tab" data-bs-target="#nav-rudrata-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-rudrata-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-rudrata-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-rudrata-works-tab" data-bs-toggle="tab" data-bs-target="#nav-rudrata-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-rudrata-overview" role="tabpanel">
+  <p class="lead">9th Century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-rudrata-life" role="tabpanel">
+  Rudraṭa was a Sanskrit poet who lived in Kashmir during the 9th century CE. He was a scholar of Sanskrit literature and is best known for his critical analysis of Sanskrit poetry.<br>Rudraṭa's works are known for their intricate wordplay, clever use of metaphors, and deep philosophical themes. He was a master of the Sanskrit language, and his works profoundly impacted Indian literature and poetry.<br>Unfortunately, beyond his literary works, we only have a little information about Rudraṭa's life, including details about his family, education, and personal beliefs.
+  </div>
+  <div class="tab-pane fade" id="nav-rudrata-contribution" role="tabpanel">
+  Rudraṭa's contribution to Classical Sanskrit literature is significant. His work Kāvyālaṅkāra is considered one of the most important works in Sanskrit poetics and has profoundly impacted the development of Indian literary traditions. Rudraṭa's focus on emotional content, rhetorical devices, and the importance of audience expectation has influenced the works of many later poets and writers. Rudraṭa's works are noted for their elegant use of language, and his contributions to Sanskrit literature have helped shape the language and literary tradition for centuries.<br>Furthermore, Rudraṭa's works have also impacted drama development in India. His focus on the emotions of characters and the importance of audience expectation can be seen in the works of many later dramatists. Overall, Rudraṭa's contributions to Sanskrit literature are significant and have had a lasting impact on Indian literary traditions.
+  </div>
+  <div class="tab-pane fade" id="nav-rudrata-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/kavyalankara-1.html">Kāvyālaṅkāra</a></li>
+  </ul>
+  </div>
+</div>

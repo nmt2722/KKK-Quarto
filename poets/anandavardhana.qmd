@@ -1,0 +1,27 @@
+---
+title: Ānandavardhana
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-anandavardhana-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-anandavardhana-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-anandavardhana-life-tab" data-bs-toggle="tab" data-bs-target="#nav-anandavardhana-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-anandavardhana-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-anandavardhana-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-anandavardhana-works-tab" data-bs-toggle="tab" data-bs-target="#nav-anandavardhana-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-anandavardhana-overview" role="tabpanel">
+  <p class="lead">9th Century AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-anandavardhana-life" role="tabpanel">
+  Ānandavardhana was a distinguished poet, literary critic, devotee and philosopher of Kaśmīra. He achieved the title of ‘Rājānaka’ due to his erudition. There is very little information about Ānandavardhana’s life story. However, he was called the son of Noṇa or Noṇopādhyāya in many places. In addition, his time period is fairly fixed. The reason is that a famous historian and poet from Kaśmīra Kalhaṇa in his book Rājataraṅgiṇī wrote that Ānandavardhana lived in the regime of King Avantivarman.
+  </div>
+  <div class="tab-pane fade" id="nav-anandavardhana-contribution" role="tabpanel">
+  Even though Ānandavardhana was a poet, literary critic and philosopher but he mostly contributed in the field of Sanskrit poetics. He founded the fourth school of Sanskrit poetics i.e. Dhvani school through his text called Dhvanyāloka. He gave the theory of Dhvani which says that the meaning can be manifested in poetry even when not explicitly expressed by the words. In this way, he showed a different path of literary criticism. In addition, he included other elements of poetics such as rasa, guṇa and alaṅkāra and others in his theory of dhvani. This made his theory one of the most popular of theories of Sanskrit poetics. Nowadays, this theory is also popular in the field of linguistics.
+  </div>
+  <div class="tab-pane fade" id="nav-anandavardhana-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/dhvanyaloka.html">Dhvanyāloka</a></li>
+  </ul>
+  </div>
+</div>

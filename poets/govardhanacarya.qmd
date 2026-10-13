@@ -1,0 +1,27 @@
+---
+title: Govardhanācārya
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-govardhanacarya-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-govardhanacarya-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-govardhanacarya-life-tab" data-bs-toggle="tab" data-bs-target="#nav-govardhanacarya-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-govardhanacarya-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-govardhanacarya-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-govardhanacarya-works-tab" data-bs-toggle="tab" data-bs-target="#nav-govardhanacarya-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-govardhanacarya-overview" role="tabpanel">
+  <p class="lead">12th Century AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-govardhanacarya-life" role="tabpanel">
+  Govardhanācārya is a poet and scholar who is believed to have lived during the 12th century AD. Nīlāmbara Sōmayāji is his father and he is believed to be the court poet of Lakṣmaṇadēva. Based on historical records and literary analysis, it is possible to piece together some details about his life and work. He is believed to have been a Brahmin and by virtue of his caste would have good access to education and the opportunity to pursue his scholarly and literary interests.<br>After completing the Āryāsaptaśatī, Govardhanācārya is believed to have continued his scholarly and literary pursuits and may have written commentaries on the works of other Sanskrit poets. However, there is no conclusive evidence to support these claims, and much of Govardhanācārya’s life and work remains inexplicable.
+  </div>
+  <div class="tab-pane fade" id="nav-govardhanacarya-contribution" role="tabpanel">
+  Govardhanācārya made significant contributions to classical Sanskrit literature in poetry and philosophy. As a poet, Govardhanācārya was known for his mastery of Sanskrit poetry and his skill in various poetic styles. His most famous work, the Āryāsaptaśatī, is a Gītikāvya that showcases his lyrical talent and is recognized as a significant piece of Sanskrit literature. The work's vivid descriptions of love and its expressions make it a valuable source for studying love in Sanskrit literature. Govardhanācārya's contributions to poetry and philosophy have had a lasting impact on classical Sanskrit literature and continue to be studied and appreciated by scholars and enthusiasts today.
+  </div>
+  <div class="tab-pane fade" id="nav-govardhanacarya-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/aryasaptasati.html">Āryāsaptaśatī</a></li>
+  </ul>
+  </div>
+</div>

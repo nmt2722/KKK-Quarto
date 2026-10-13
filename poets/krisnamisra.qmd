@@ -1,0 +1,27 @@
+---
+title: Kriṣṇamiśra
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-krisnamisra-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-krisnamisra-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-krisnamisra-life-tab" data-bs-toggle="tab" data-bs-target="#nav-krisnamisra-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-krisnamisra-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-krisnamisra-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-krisnamisra-works-tab" data-bs-toggle="tab" data-bs-target="#nav-krisnamisra-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-krisnamisra-overview" role="tabpanel">
+  <p class="lead">1049-1100 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-krisnamisra-life" role="tabpanel">
+  Kriṣṇamiśra was a prominent Sanskrit poet of the 11th century, who composed works in a variety of genres including poetry, drama, and philosophy. He was born into a Brāhmaṇa family in Mithilā, which is now part of present-day Bihar, India. Kriṣṇamiśra was well-educated in Sanskrit literature, philosophy, and other traditional subjects. He was a highly respected scholar and teacher of Sanskrit at the famous Vikramaśīla University in present-day Bihar.<br><br>Kriṣṇamiśra's literary output was prolific, and his works are known for their complex wordplay, vivid descriptions, and poetic language. One of his most famous works is the play Prabōdhācāndrōdaya, which combines elements of Hindu mythology, philosophy, and romance. The play has ten acts and is known for its intricate plot and literary style. Kriṣṇamiśra was an ascetic belonging to Hansa order of the Advaita School and had many disciplines.
+  </div>
+  <div class="tab-pane fade" id="nav-krisnamisra-contribution" role="tabpanel">
+  Kṛṣṇamiśra was a prolific writer and scholar who made significant contributions to classical Sanskrit literature. In addition to Prabodhacandrodaya, he also wrote several other plays. Kṛṣṇamiśra was also a noted poet, who wrote numerous works in a variety of genres, including kāvya, gadya, and Campū. His poetry is characterized by its intricate language, skilful use of imagery, and exploration of both traditional and contemporary themes. Kṛṣṇamiśra was also a respected scholar and commentator, who wrote extensive commentaries on the works of earlier Sanskrit authors, such as Kāḷidāsa and Bhāsa. Overall, Kriṣṇamiśra’s contributions to classical Sanskrit literature were wide-ranging and influential, and helped to shape the literary and intellectual landscape of medieval India.
+  </div>
+  <div class="tab-pane fade" id="nav-krisnamisra-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/prabodhacandrodaya.html">Prabōdhācāndrōdaya</a></li>
+  </ul>
+  </div>
+</div>

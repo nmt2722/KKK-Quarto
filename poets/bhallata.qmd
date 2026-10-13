@@ -1,0 +1,27 @@
+---
+title: Bhallaṭa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-bhallata-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-bhallata-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhallata-life-tab" data-bs-toggle="tab" data-bs-target="#nav-bhallata-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhallata-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-bhallata-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhallata-works-tab" data-bs-toggle="tab" data-bs-target="#nav-bhallata-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-bhallata-overview" role="tabpanel">
+  <p class="lead">The exact timeline of Bhallaṭa's life is uncertain due to the lack of reliable historical records from the time period in which he lived. However, scholars generally believe that he lived sometime before the 9th century CE. Some have suggested that he may have lived during the period of the Gupta Empire, which lasted from the 3rd to the 6th century CE. Others have placed him in the period of the Pallava or Cālukya dynasties, which ruled in South India from the 6th to the 9th century CE. Despite the uncertainty surrounding Bhallaṭa's life, his poetry remains an important and enduring contribution to the canon of Sanskrit literature.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bhallata-life" role="tabpanel">
+  Bhallaṭa is an early Sanskrit poet who is believed to have lived before the 9th century. He is best known for his work Bhallaṭaśataka, a collection of one hundred poems that explore themes such as love, nature, and the human experience. The Bhallaṭaśataka is notable for its use of vivid imagery, metaphor, and symbolism, as well as its exploration of both the joys and sorrows of human existence. The poems are characterized by their lyrical quality, and their themes are universal and enduring. Despite the relative scarcity of information about Bhallaṭa's life and times, his poetry has had a lasting impact on Sanskrit literature and continues to be celebrated and studied to this day.
+  </div>
+  <div class="tab-pane fade" id="nav-bhallata-contribution" role="tabpanel">
+  Bhallaṭa’s contribution to Classical Sanskrit literature lies in his Bhallaṭaśataka, which is considered one of the finest examples of Indian lyrical poetry. His use of simple and direct language to express complex ideas and emotions was innovative for its time and inspired later poets. The Bhallaṭaśataka also reflects the philosophical and spiritual themes that are central to Sanskrit literature, such as the search for truth, the nature of reality, and the pursuit of liberation from suffering. Bhallaṭa’s work had a significant impact on the development of Sanskrit poetry, and his influence can be seen in the works of later poets such as Jayadeva and Kālidāsa.
+  </div>
+  <div class="tab-pane fade" id="nav-bhallata-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/bhallatasataka.html">Bhallaṭaśataka</a></li>
+  </ul>
+  </div>
+</div>

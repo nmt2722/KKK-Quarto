@@ -1,0 +1,27 @@
+---
+title: Māgha
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-magha-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-magha-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-magha-life-tab" data-bs-toggle="tab" data-bs-target="#nav-magha-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-magha-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-magha-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-magha-works-tab" data-bs-toggle="tab" data-bs-target="#nav-magha-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-magha-overview" role="tabpanel">
+  <p class="lead">As per available sources, the time of the poet can be predicted as the 7th or the 8th century.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-magha-life" role="tabpanel">
+  The life history of Māgha is available from the concluding verses of his work “Praśasti”. Such autobiographical details can be rarely seen in the works of poets.   In one of the verses, he says<br>sarvādhikārī sukṛtādhikāri śrīdharmalambasya babhūva rājñaḥ <br>As per this verse, Māgha hailed from a place called “Gurjara”--presently it may be in Gujarat. There was a King called Dharmalabhā who was also known as Dharmanābha. This king’s minister Suprabha dēvāwas the grandfather of the Poet Māgha. <br>Suprabhadeva had a son named Dhaṭṭaka. Dhaṭṭaka was a very tolerant and diligent follower of the rules of Dharma. People used to hear Dhaṭṭaka work with great reverence and used to obey his words as they used to follow the words of Vyāsa.<br>Dhaṭṭaka’s son Māgha created the “Mahākāvya”, the epic poem that included the word “Sri '' in every last stanza of every sarga. (Bhāravi, another great poet mentioned the word “Lakṣmī'' in the last stanza of every sarga). Māgha calls this a beautiful epic poem of “Lakṣmīpati” (Husband of/Consort of Lakṣmī). . He calls Kṛṣṇa Lakṣmīpati and it is the story of Kṛṣṇa slaying Śiśupāla. Very humbly, Māgha says Sūktikīrti dhurāśeya– He says that he had agreed to be recognized as a great poet. Even though it is good greed, he humbly calls bad greed and thus he acknowledges the lack of qualification to become a good poet. All these details are found at the end of Śiśupālavadha.
+  </div>
+  <div class="tab-pane fade" id="nav-magha-contribution" role="tabpanel">
+  <p class="text-muted">No information available.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-magha-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/sisupalavadha.html">Śiśupālavadha</a></li>
+  </ul>
+  </div>
+</div>

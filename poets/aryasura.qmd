@@ -1,0 +1,27 @@
+---
+title: Āryaśūra
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-aryasura-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-aryasura-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-aryasura-life-tab" data-bs-toggle="tab" data-bs-target="#nav-aryasura-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-aryasura-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-aryasura-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-aryasura-works-tab" data-bs-toggle="tab" data-bs-target="#nav-aryasura-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-aryasura-overview" role="tabpanel">
+  <p class="lead">Āryaśūra was an Indian Buddhist poet who lived in the late 2nd or early 3rd century CE.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-aryasura-life" role="tabpanel">
+  Very little is known about the life of the Buddhist poet Āryaśūra. Based on the few historical records that exist, it is believed that he lived in India during the late 2nd or early 3rd century CE. He is thought to have been a member of the Mahāsanghika school of Buddhism, which was one of the earliest and most influential schools of Buddhism in India. Although little is known about Āryaśūra's life, his work have had a significant impact on the development of Buddhism in India and beyond. His poetry is known for its lyrical and poetic qualities, as well as its vivid and imaginative descriptions of the natural world. His work also reflect his deep understanding of Buddhist philosophy and teachings, and they continue to be studied and appreciated by scholars and practitioners of Buddhism today.
+  </div>
+  <div class="tab-pane fade" id="nav-aryasura-contribution" role="tabpanel">
+  Āryaśūra's contributions to Classical Sanskrit literature are significant and lasting. He was a master storyteller, and his work display a deep understanding of human nature, morality, and ethics. Here are some of his notable contributions: Reviving the art of storytelling: Āryaśūra's work Jātakamālā, played an important role in reviving the art of storytelling in Sanskrit literature. His stories are engaging, entertaining, and also convey important moral lessons.<br><br>Developing a new style of writing: Āryaśūra is credited with developing a new style of writing, known as kathā-samasyā, which blends storytelling with philosophy and morality. This style was later adopted by many other Sanskrit writers.<br><br>Exploring human emotions and relationships: Āryaśūra's work explore a wide range of human emotions and relationships, including love, friendship, greed, jealousy, and compassion. His nuanced portrayal of characters and their interactions has been praised for its depth and complexity.<br><br>Promoting ethical values: Āryaśūra's work emphasize the importance of ethical values such as compassion, generosity, and honesty. He uses his stories to illustrate how living according to these values can lead to a fulfilling life.<br><br>Influencing later Sanskrit literature: Āryaśūra's work have had a significant influence on later Sanskrit literature. Many writers have drawn inspiration from his storytelling style and moral philosophy, and his work continue to be studied and appreciated today.<br><br>Overall, Āryaśūra's contributions to Classical Sanskrit literature have been significant, and his legacy lives on through his work.
+  </div>
+  <div class="tab-pane fade" id="nav-aryasura-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/jatakamala-garland-of-birth-stories.html">Jātakamālā (&quot;Garland of Birth Stories”)</a></li>
+  </ul>
+  </div>
+</div>

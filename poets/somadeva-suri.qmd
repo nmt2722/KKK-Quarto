@@ -1,0 +1,27 @@
+---
+title: Somadeva Sūri
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-somadeva-suri-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-somadeva-suri-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-somadeva-suri-life-tab" data-bs-toggle="tab" data-bs-target="#nav-somadeva-suri-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-somadeva-suri-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-somadeva-suri-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-somadeva-suri-works-tab" data-bs-toggle="tab" data-bs-target="#nav-somadeva-suri-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-somadeva-suri-overview" role="tabpanel">
+  <p class="lead">10th Century</p>
+  </div>
+  <div class="tab-pane fade" id="nav-somadeva-suri-life" role="tabpanel">
+  From what we know of Somadeva Sūri, he was a contemporary of a well known Kannada poet – Ādi Pampa, he lived in Karnataka and Hari Kesari of Rāṣṭrakūṭa Empire was his patron. Somadeva Sūri, a great Jain monk, was himself a great poet and logician. The work he is most accredited for is Yaśastilakacampū. A prose written in Campū style which was discovered and used extensively in Karnataka region at the time. At the end of every chapter of his famous work Yaśastilakacampū, there is a colophon that clearly tells us that his teacher was Nemideva. During those times, there were many schools of philosophy in India and similarly there were Buddhists of various kinds. Some were the followers of the Vedas and others followed the school of Nyāya and Sāṅkhya. In order to defend Jainism, the philosophy of Jains called Siyādavāda was introduced. Its logic was said to have been developed to great heights by scholars like Somadeva Sūri. In his work Yaśastilaka, he compares himself with a cow that eats dry grass but produces sweet milk. He says that though he studied a dry subject such as logic, his intelligence has produced poetry that is much like the sweet milk.
+  </div>
+  <div class="tab-pane fade" id="nav-somadeva-suri-contribution" role="tabpanel">
+  Somadeva Sūri’s contributions to Sanskrit literature are recognized for their literary merit, philosophical insight, and historical importance. Somadeva Sūri’s works have been studied and appreciated by scholars and readers of Sanskrit literature for centuries and continue to influence the literary tradition to this day.
+  </div>
+  <div class="tab-pane fade" id="nav-somadeva-suri-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/yasastilakacampu.html">Yaśastilakacampū</a></li>
+  </ul>
+  </div>
+</div>

@@ -1,0 +1,27 @@
+---
+title: Bhāmaha
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-bhamaha-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-bhamaha-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhamaha-life-tab" data-bs-toggle="tab" data-bs-target="#nav-bhamaha-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhamaha-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-bhamaha-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhamaha-works-tab" data-bs-toggle="tab" data-bs-target="#nav-bhamaha-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-bhamaha-overview" role="tabpanel">
+  <p class="lead">7th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bhamaha-life" role="tabpanel">
+  Bhāmaha was an Indian literary critic and poet who lived in the 7th century CE. He is known for his work Kāvyālaṅkāra, which is a treatise on poetics and rhetoric in Sanskrit. Not much is known about Bhāmaha's life, but it is believed that he was born in Kashmir and lived during the reign of King Lalitāditya muktāpīḍa. He was a Brāhmaṇa and a follower of the Saivism sect of Hinduism. Bhāmaha's Kāvyālaṅkāra is one of the earliest surviving works on poetics in Sanskrit literature. The treatise comprises six chapters and discusses various aspects of poetic composition, including figures of speech, meter, and style. It also provides examples from classical Sanskrit literature to illustrate its points.<br>Kāvyālaṅkāra had a significant impact on the development of Sanskrit poetics and was highly influential in the Indian literary tradition. It was studied and commented upon by many subsequent scholars and poets, including Bhaṭṭi, Daṇḍin, and Vāmana.
+  </div>
+  <div class="tab-pane fade" id="nav-bhamaha-contribution" role="tabpanel">
+  Bhāmaha was a celebrated Sanskrit poet and literary critic who made important contributions to Sanskrit literature. His most significant contribution was his treatise on poetics, known as Kāvyalankāra-vṛtti, which is a commentary on the Kāvyālaṅkāra of Rudraṭa. In Kāvyalankāra-vṛtti, Bhāmaha offers his insights on the art of poetry, providing a detailed analysis of literary devices and techniques used by poets, such as alaṅkāra (figure of speech), dhvani (suggestion), and rasa (aesthetic enjoyment). He also discusses the importance of language, grammar, and meter in creating effective poetry.<br><br>Bhāmaha's contribution to Sanskrit literature goes beyond his commentary on Kāvyālaṅkāra, as he was also a talented poet himself. He is credited with authoring the celebrated Sanskrit work, Vākrokti-jīvita, which is a collection of poems that exemplify the use of vākrokti (twisted language or figurative speech) in poetry.<br><br>In a nutshell, Bhāmaha's contribution to Sanskrit literature is significant, as his works on poetics and poetry have helped shape the way Indian poets and scholars approach the study and composition of literature. His focus on the importance of literary devices and the creative use of language has had a lasting impact on the development of Sanskrit literature.
+  </div>
+  <div class="tab-pane fade" id="nav-bhamaha-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/kavyalankara.html">Kāvyālaṅkāra</a></li>
+  </ul>
+  </div>
+</div>

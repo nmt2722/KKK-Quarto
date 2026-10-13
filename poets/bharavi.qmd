@@ -1,0 +1,27 @@
+---
+title: Bhāravi
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-bharavi-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-bharavi-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bharavi-life-tab" data-bs-toggle="tab" data-bs-target="#nav-bharavi-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bharavi-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-bharavi-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bharavi-works-tab" data-bs-toggle="tab" data-bs-target="#nav-bharavi-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-bharavi-overview" role="tabpanel">
+  <p class="lead">6th century AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bharavi-life" role="tabpanel">
+  Bhāravi was a celebrated Sanskrit poet who is believed to have lived in the 6th century AD or possibly earlier. His real name was Dāmodara, but he became known as Bhāravi due to his immense talent and brilliance, which made him shine like the sun (Bhāravi means &quot;like the sun&quot; in Sanskrit). According to the Avantisundarikathā, a work by the Sanskrit writer Dandin, Bhāravi's ancestors migrated from North India or Northwest India to the South, to Dakṣiṇapatha, where they settled. Bhāravi's father was Nārayanaswāmi, and he had a son named Dāmodara, who later became known as Bhāravi due to his exceptional talents in poetry.<br><br>Bhāravi was highly respected and renowned during his lifetime, and he was honored by various royal dynasties, including the Pallavas, the Chālukyas, and the Gangas. King Durvinīta of the Ganga dynasty even wrote a commentary on at least the 15th sarga (chapter) of Bhāravi's Kirātārjunīyam, which suggests that Bhāravi's poetry was highly regarded by the rulers of his time.<br><br>Bhāravi is known for his work Kirātārjunīyam, a Mahākāvya  (epic poem) that tells the story of Arjuna's encounter with Lord Shiva in the form of a kirāta (hunter). The poem is based on a story from the Mahabharata, and it is considered one of the five Mahākāvya s that every student of Sanskrit is expected to study. The poem is renowned for its vivid descriptions, complex language, and intricate use of metaphors.<br><br>Despite being known for only one work, Bhāravi is regarded as one of the greatest poets in Sanskrit literature, and his contributions to the language and literature of ancient India are highly valued to this day.
+  </div>
+  <div class="tab-pane fade" id="nav-bharavi-contribution" role="tabpanel">
+  Bhāravi's contribution to Classical Sanskrit literature is significant. He is considered one of the greatest poets in Sanskrit literature and is renowned for his use of alaṅkāra or figurative language. Bhāravi's style is characterized by his use of vivid imagery, metaphor, and simile. He is known for his deep understanding of human nature and the human condition, which is reflected in his works. Bhāravi's Kirātārjunīyam is an outstanding example of his poetic ability and continues to be studied and admired by scholars and enthusiasts alike. His works have influenced the development of Sanskrit literature and have inspired many writers and poets throughout the ages.
+  </div>
+  <div class="tab-pane fade" id="nav-bharavi-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/kiratarjuniyam.html">Kirātārjunīyam</a></li>
+  </ul>
+  </div>
+</div>

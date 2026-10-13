@@ -1,0 +1,21 @@
+---
+title: "About This Site"
+format: html
+---
+
+This is a static website built with Quarto and Python, exploring classical Sanskrit poets and their literary works. The data is sourced from CSV files containing information about poets and their contributions to Sanskrit literature.
+
+## Features
+
+- Browse poets and works with search and pagination
+- Explore detailed information through tabbed and accordion layouts
+- View genre distribution of works
+
+## Data Sources
+
+- Poets data: `poetsfeed.csv`
+- Works data: `worksfeed.csv`
+
+## Credits
+
+[Add credits and additional information here.]

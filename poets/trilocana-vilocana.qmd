@@ -1,0 +1,27 @@
+---
+title: Trilōcana / Vilōcana
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-trilocana-vilocana-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-trilocana-vilocana-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-trilocana-vilocana-life-tab" data-bs-toggle="tab" data-bs-target="#nav-trilocana-vilocana-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-trilocana-vilocana-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-trilocana-vilocana-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-trilocana-vilocana-works-tab" data-bs-toggle="tab" data-bs-target="#nav-trilocana-vilocana-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-trilocana-vilocana-overview" role="tabpanel">
+  <p class="lead">There are no decisive statements about the accurate time of Trilōcana. In Śṛngāraprakāśa, only the name of the drama ‘Pārthavijayam’ is mentioned, but not the writer’s name. Poet Rājaśekhara in his ‘Sūktimuktāvali’ has commented on Trilōcana and his Pārthavijayam- kartuṃ vi(tri)locanādanyaḥ kaḥ pārthavijayaṃ kṣamaḥ |<br>tadarthaḥ śakyate draṣṭuṃ locanadvayibhiḥkatham || (’sūktimuktāvali, 5 33) <br>‘Who else but Trilōcana can compose a Pārthavijayam?<br>How can its purport be perceived by the two eyed?’<br>\[i.e., if it took a three eyed \[Trilōcana\] one to compose it, how can a two eyed mortal understand it?<br>With this statement, it seems that Trilōcana was predecessor of Rājaśekhara who lived around 915 AD. Regarding time of Trilōcana, in śārṅgadhara paddhati’ two Ślokas are said to be written by Trilōcana where he praises Mayūra and Bāṇa who lived in around 650 AD. It can be assumed that Trilōcana lived between these two dates.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-trilocana-vilocana-life" role="tabpanel">
+  Of Trilōcana, very little is known. About Trilōcana’s time, life or his place of birth and death, no definite information is available either in his work or in any written work of other scholars. Through the citations of other authors and scholars in their works, only information available is that Trilōcana authored a drama named ‘Pārthavijayam’ which is of high literal value.
+  </div>
+  <div class="tab-pane fade" id="nav-trilocana-vilocana-contribution" role="tabpanel">
+  Various authors who testify to his ability as a poet, and who show that, in the estimation of later generations, he was deemed worthy to be classed with such names as Kālidāsa, Bhavabhūti, Subandhu and the ever-present Bāṇa. hṛdilagno bāṇo yanmaṃdo'pi padakramaḥ |<br>bhavatvikuraṅgāṇāṃ cāpalaṃ tatra kāraṇam || <br>‘When slow is the step of deer-like poets by the reason of the arrow (Bāṇa)<br>Clinging in their hearts, agitation is the cause of it.’<br>This śloka is sample of Trilōcana’s respect for his predecessors through his poetic proficiency.
+  </div>
+  <div class="tab-pane fade" id="nav-trilocana-vilocana-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/parthavijayam.html">Pārthavijayam</a></li>
+  </ul>
+  </div>
+</div>

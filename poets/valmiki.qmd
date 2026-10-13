@@ -1,0 +1,27 @@
+---
+title: Vālmīki
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-valmiki-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-valmiki-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-valmiki-life-tab" data-bs-toggle="tab" data-bs-target="#nav-valmiki-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-valmiki-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-valmiki-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-valmiki-works-tab" data-bs-toggle="tab" data-bs-target="#nav-valmiki-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-valmiki-overview" role="tabpanel">
+  <p class="lead">Vālmīki, the revered sage, is believed to have composed the epic Rāmāyaṇa during the Tretāyuga, an ancient era in Hindu tradition. Modern researchers estimate that this magnificent work was created approximately 2500 years ago, around six or seven centuries before the advent of Christ. An intriguing traditional source supporting this timeline can be found in Patañjali’s Mahābhāṣya. Within this text, a verse (eti jīvantamānando naraṃ varṣaśatādapi) from the Rāmāyaṇa is quoted, indicating its existence at least two centuries prior to Christ. This reference offers valuable insights into the timeline of the sage Vālmīki and further strengthens the historical significance of the epic.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-valmiki-life" role="tabpanel">
+  The life history of Vālmīki is shrouded in fascinating tales, with different versions offering interesting insights. According to the folklore, during his profound penance or Tapas, a remarkable event occurred—an anthill began to grow around him. In Sanskrit, the term for anthill is &quot;Valmīka,&quot; thus bestowing him with the name Vālmīki. Another version suggests that he inherited his name from his father, the sage Valmīka. These varying accounts add to the mystique surrounding Vālmīki's origin and contribute to the rich tapestry of his legendary persona. Regardless of the precise origin of his name, Vālmīki's remarkable contributions to literature, particularly through his magnum opus, the Rāmāyaṇa, continue to resonate through the ages, making him an iconic figure in the realm of Sanskrit poetry.
+  </div>
+  <div class="tab-pane fade" id="nav-valmiki-contribution" role="tabpanel">
+  Vālmīki holds a profound position in Sanskrit literature due to the timeless appeal of the Rāmāyaṇa. This epic poem has been translated into numerous languages globally and has left an indelible mark on literature, art, and popular culture. Its influence is evident in various adaptations, including theatrical productions, television series, and films, captivating and inspiring audiences of all ages. Beyond its literary value, the Rāmāyaṇa serves as a moral compass, offering ethical guidance and teachings. It upholds the principles of dharma, emphasizing the significance of fulfilling one's duties and responsibilities. The characters in the epic serve as role models, presenting lessons on virtuous conduct and providing insights into leading a purposeful and meaningful life. Vālmīki's impact on Indian culture extends beyond the Rāmāyaṇa. He is credited with establishing the Vālmīki Āśrama, a renowned center of learning where scholars studied Sanskrit and various disciplines. The Āśrama became a vibrant hub of intellectual activity, attracting scholars from across India. In essence, Vālmīki's contribution to Sanskrit literature through the Rāmāyaṇa is remarkable and enduring. The epic continues to inspire, entertain, and offer moral guidance to a global audience. Vālmīki's legacy in Indian literature and culture serves as a testament to the profound influence of storytelling, shaping society, and inspiring generations.
+  </div>
+  <div class="tab-pane fade" id="nav-valmiki-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/ramayana.html">Rāmāyaṇa</a></li>
+  </ul>
+  </div>
+</div>

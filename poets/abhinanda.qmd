@@ -1,0 +1,27 @@
+---
+title: Abhinanda
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-abhinanda-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-abhinanda-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-abhinanda-life-tab" data-bs-toggle="tab" data-bs-target="#nav-abhinanda-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-abhinanda-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-abhinanda-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-abhinanda-works-tab" data-bs-toggle="tab" data-bs-target="#nav-abhinanda-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-abhinanda-overview" role="tabpanel">
+  <p class="lead">9th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-abhinanda-life" role="tabpanel">
+  Unfortunately, not much is known about the life of the Sanskrit poet Abhinanda (1). He is believed to have lived in Kashmir during the 9th century CE and was the son of the well-known scholar and writer Jayantabhaṭṭa. Abhinanda is best known for his adaptation of the Kādambarī of Bāṇa into a poem titled Kādambarī Kathāsāra. Beyond this, very little is known about his personal life or other works he may have authored. It is likely that his contributions to Sanskrit literature were overshadowed by other prominent writers of the time, such as Kṣēmendra and Abhinavagupta. Nonetheless, his adaptation of the Kādambarī is still celebrated for its poetic style and unique philosophical themes.
+  </div>
+  <div class="tab-pane fade" id="nav-abhinanda-contribution" role="tabpanel">
+  Abhinanda (1) made a significant contribution to classical Sanskrit literature with his poetic adaptation of the Kādambarī of Bāṇa, titled Kādambarī Kathāsāra. His work is notable for its intricate and ornate language, which showcases his mastery of Sanskrit poetics and his ability to weave together a complex narrative. Moreover, Kādambarī Kathāsāra is unique in its exploration of philosophical themes, including the nature of reality, the human condition, and the illusory nature of the world. Abhinanda's use of mystical and supernatural elements to explore these themes is particularly noteworthy and aligns with broader trends in Indian philosophy.<br>In a nutshell, Abhinanda's contribution to Sanskrit literature lies in his ability to adapt and re-imagine existing works in a new and innovative way. His poetic style and unique treatment of philosophical themes have had a lasting impact on the genre and continue to be celebrated today as important works of Indian literature.
+  </div>
+  <div class="tab-pane fade" id="nav-abhinanda-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/kadambari-kathasara.html">Kādambarī Kathāsāra</a></li>
+  </ul>
+  </div>
+</div>

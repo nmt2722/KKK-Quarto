@@ -1,0 +1,27 @@
+---
+title: Kalhaṇa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-kalhana-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-kalhana-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-kalhana-life-tab" data-bs-toggle="tab" data-bs-target="#nav-kalhana-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-kalhana-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-kalhana-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-kalhana-works-tab" data-bs-toggle="tab" data-bs-target="#nav-kalhana-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-kalhana-overview" role="tabpanel">
+  <p class="lead">Kalhaṇa lived during 1140 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-kalhana-life" role="tabpanel">
+  The life of the poet and historian Kalhaṇa is not very well documented, and much of what is known about him comes from his own writings. Kalhaṇa was born in the Kashmir Valley, which is now part of India, during the 12th century CE. He was born into a family of scholars and learned men, and it is likely that he received a rigorous education in literature, history, and philosophy.<br>Kalhaṇa’s most famous work is the &quot;Rājataraṅgiṇī&quot; (&quot;The River of Kings&quot;), a chronicle of the history of the Kashmir region. The work is divided into eight books and covers the period from the earliest times to the 12th century. Kalhaṇa wrote the &quot;Rājataraṅgiṇī&quot; in Sanskrit, which was the language of learning and culture in ancient India.<br>Aside from his work as a historian and writer, little is known about Kalhaṇa's personal life. It is likely that he lived in relative obscurity, devoting his time to writing and scholarship. However, his work has had a lasting impact on Indian literature and history. The &quot;Rājataraṅgiṇī&quot; is still widely read and studied today, and it remains an important source of information about the history, culture, and society of Kashmir.
+  </div>
+  <div class="tab-pane fade" id="nav-kalhana-contribution" role="tabpanel">
+  Kalhaṇa's use of rock and copperplate inscriptions to record royal land grants has provided insight into the materials that went into the making of the text. He also proposed that the poet's voice should be unwavering when recounting past matters, which modern scholars see as a poetic virtue. This may refer to the state of equipoise that Sanskrit poetic theory (Alaṅkāraśāstra) of the times recommended to poets composing certain kinds of works.
+  </div>
+  <div class="tab-pane fade" id="nav-kalhana-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/rajatarangini.html">Rājataraṅgiṇī</a></li>
+  </ul>
+  </div>
+</div>

@@ -1,0 +1,27 @@
+---
+title: Soḍhala
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-sodhala-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-sodhala-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sodhala-life-tab" data-bs-toggle="tab" data-bs-target="#nav-sodhala-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sodhala-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-sodhala-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-sodhala-works-tab" data-bs-toggle="tab" data-bs-target="#nav-sodhala-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-sodhala-overview" role="tabpanel">
+  <p class="lead">11th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-sodhala-life" role="tabpanel">
+  Soḍhala belongs to the vālabhi sub-group of Kṣatriya clan and hails from the southern part (lāṭadeśa) of Gujarat and lived during the 11th century CE. Soḍhala was a follower of the Śaiva tradition and that he composed several works in Sanskrit, including poetry and drama. He was also known for his skills in music and dance.<br>Udayasundarīkathā is considered to be Soḍhala's most famous work, and it is known for its intricate plot, vivid descriptions, and skillful use of language. The introduction also mentions that the work has been translated into several languages and has been the subject of scholarly research and analysis.<br>The work is based on the earlier text Vāsavadattā, written by Subandhu, and that Soḍhala adapted the story to suit the tastes of his time. The work is considered to be a classic in the genre of romantic fiction and is admired for its imaginative storytelling and its portrayal of the supernatural.
+  </div>
+  <div class="tab-pane fade" id="nav-sodhala-contribution" role="tabpanel">
+  Soḍhala’s Udayasundarīkathā is a significant contribution to Classical Sanskrit literature. The work showcases Soḍhala’s mastery of the language and his ability to use it for creative storytelling. Soḍhala’s unique writing style, which includes the use of vivid imagery, poetic language, and intricate plotlines, is a hallmark of Classical Sanskrit literature, and Udayasundarīkathā is no exception.<br><br>Moreover, Soḍhala’s work adds to the canon of romantic narratives in Sanskrit literature. While love stories were a common theme in Indian literature, Udayasundarīkathā is distinctive due to its intricate plot and imaginative storytelling techniques, which were new to the genre. Soḍhala’s use of supernatural elements in the story, such as flying cars and hidden cities, adds to the work's uniqueness and contributes to the fantastical quality of Classical Sanskrit literature.<br><br>In addition, Soḍhala’s portrayal of women characters in Udayasundarīkathā is notable for its agency and independence. The female characters are not mere objects of desire, but active participants in the story, with their own motivations and desires. This portrayal is relatively rare in Classical Sanskrit literature and adds to Soḍhala’s contribution to the genre.<br><br>Overall, Soḍhala’s Udayasundarīkathā is a significant contribution to Classical Sanskrit literature. It showcases Soḍhala’s mastery of the language and his ability to use it for creative storytelling, while also adding to the canon of romantic narratives and contributing to the portrayal of women in the genre.
+  </div>
+  <div class="tab-pane fade" id="nav-sodhala-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/udayasundarikatha.html">Udayasundarīkathā</a></li>
+  </ul>
+  </div>
+</div>

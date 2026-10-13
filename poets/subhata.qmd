@@ -1,0 +1,27 @@
+---
+title: Subhaṭa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-subhata-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-subhata-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-subhata-life-tab" data-bs-toggle="tab" data-bs-target="#nav-subhata-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-subhata-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-subhata-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-subhata-works-tab" data-bs-toggle="tab" data-bs-target="#nav-subhata-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-subhata-overview" role="tabpanel">
+  <p class="lead">12th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-subhata-life" role="tabpanel">
+  Very little is known about the life of Subhaṭa, the Sanskrit poet who authored the epic poem Dūtāṅgada. Based on the style and language of the poem, scholars believe that Subhaṭa lived in the 12th century CE, in the region of modern-day Karnataka, India. Some sources suggest that Subhaṭa may have been associated with the court of the Hoysala dynasty, which ruled over parts of southern India during the 12th and 13th centuries. However, there is no concrete evidence to support this claim. Apart from his work on Dūtāṅgada, there is no information available about any other literary works or contributions made by Subhaṭa. Nonetheless, his epic poem has endured as a significant contribution to Sanskrit literature and continues to be studied and appreciated by scholars and enthusiasts of the language.
+  </div>
+  <div class="tab-pane fade" id="nav-subhata-contribution" role="tabpanel">
+  Subhaṭa is considered one of the most important poets of Classical Sanskrit literature, and his work Dūtāṅgada is a significant contribution to the genre of romantic poetry. He is known for his skilful use of language and his ability to create vivid imagery in his poetry. Subhaṭa's contribution to Sanskrit literature can be seen in his innovative use of language and his ability to blend different styles and traditions of poetry. His work also reflects the cultural and social context of his time, providing valuable insights into the lives and values of people in ancient India.
+  </div>
+  <div class="tab-pane fade" id="nav-subhata-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/dutangada.html">Dūtāṅgada</a></li>
+  </ul>
+  </div>
+</div>

@@ -1,0 +1,28 @@
+---
+title: Bhaṭṭaśivasvāmi
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-bhattasivasvami-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattasivasvami-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhattasivasvami-life-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattasivasvami-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhattasivasvami-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattasivasvami-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhattasivasvami-works-tab" data-bs-toggle="tab" data-bs-target="#nav-bhattasivasvami-works" type="button" role="tab">Works (2)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-bhattasivasvami-overview" role="tabpanel">
+  <p class="lead">855-884 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bhattasivasvami-life" role="tabpanel">
+  Not much is known about the life of Bhaṭṭaśivasvāmi, the 9th-century AD Sanskrit poet who lived in the Kashmir Valley in northern India. What is known comes primarily from his own writings and from the works of later scholars and commentators. Bhaṭṭaśivasvāmi was a court poet at the court of King Avantivarman of Kashmir, who was known for his patronage of the arts and literature. Bhaṭṭaśivasvāmi's patronage by the king allowed him to focus on his writing and develop his literary skills.<br><br>Bhaṭṭaśivasvāmi is best known for his epic poem Kappaṇṇābhyudaya. In addition to Kappaṇṇābhyudaya, Bhaṭṭaśivasvāmi is also known for his other literary works, including the drama Pradyumnābhyudaya. Bhaṭṭaśivasvāmi was a master of Sanskrit poetry, particularly the kāvya style. His works are characterized by their use of elaborate metaphors, intricate wordplay, and complex grammatical structures.
+  </div>
+  <div class="tab-pane fade" id="nav-bhattasivasvami-contribution" role="tabpanel">
+  Bhaṭṭaśivasvāmi’s was a renowned Sanskrit poet and scholar who made significant contributions to the development of Sanskrit literature. His works, including the Kappaṇṇābhyudaya and Pradyumnābhyudaya, are considered important examples of Kāvya literature and have been praised for their intricate wordplay and sophisticated use of rhetorical devices.<br>In addition to his contributions to literature, Bhaṭṭaśivasvāmi’s was also a prominent commentator on Hindu religious texts, particularly the Vedas and the Purāṇa’s. His commentaries are considered important sources for understanding the philosophical and spiritual traditions of Hinduism.
+  </div>
+  <div class="tab-pane fade" id="nav-bhattasivasvami-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/kappannabhyudaya.html">Kappaṇṇābhyudaya</a></li>
+  <li class="list-group-item px-0"><a href="../works/pradyumnabhyudaya.html">Pradyumnābhyudaya</a></li>
+  </ul>
+  </div>
+</div>

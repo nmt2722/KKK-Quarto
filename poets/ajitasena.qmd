@@ -1,0 +1,27 @@
+---
+title: Ajitasena
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-ajitasena-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-ajitasena-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-ajitasena-life-tab" data-bs-toggle="tab" data-bs-target="#nav-ajitasena-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-ajitasena-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-ajitasena-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-ajitasena-works-tab" data-bs-toggle="tab" data-bs-target="#nav-ajitasena-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-ajitasena-overview" role="tabpanel">
+  <p class="lead">13th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-ajitasena-life" role="tabpanel">
+  The information available about the life of Ajitasena is limited. However, based on the historical and literary evidence available, it is believed that he lived during the 13th century CE in South India. Ajitasena was a Sanskrit poet and literary critic who lived in Karnataka. He was a scholar of poetics, and his most famous work, “śṛṅgāramañjarī,&quot; is a treatise on these topics.<br>While not much is known about Ajitasena's personal life, his work has profoundly impacted the field of Sanskrit poetics and literary criticism. His clear and systematic exposition on the theme of love and desire has made “Śṛṅgāramañjarī&quot; a classic text in the field.
+  </div>
+  <div class="tab-pane fade" id="nav-ajitasena-contribution" role="tabpanel">
+  Ajitasena is considered one of the greatest poets of Sanskrit literature, and his works have made a significant contribution to the development and evolution of the language. His poetry is characterized by its deep emotional and psychological insights, its vivid descriptions of human experiences, and its graceful use of language and imagery. In particular, his &quot;Śṛṅgāramañjarī&quot; is regarded as one of the finest examples of Sanskrit literature on the subject of love and desire.<br>Ajitasena's contributions to Sanskrit literature also include several other poems and plays, many of which deal with themes of love, longing, and the complexities of human relationships. His works are notable for their realism and sensitivity, and for their ability to capture the nuances and subtleties of human emotions. Additionally, his plays are known for their skillful use of dialogue and characterization, and for their exploration of social and political issues of the time.
+  </div>
+  <div class="tab-pane fade" id="nav-ajitasena-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/srngaramanjari.html">Śṛṅgāramañjarī</a></li>
+  </ul>
+  </div>
+</div>

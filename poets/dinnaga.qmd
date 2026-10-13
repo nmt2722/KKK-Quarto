@@ -1,0 +1,27 @@
+---
+title: Dinnāga
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-dinnaga-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-dinnaga-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-dinnaga-life-tab" data-bs-toggle="tab" data-bs-target="#nav-dinnaga-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-dinnaga-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-dinnaga-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-dinnaga-works-tab" data-bs-toggle="tab" data-bs-target="#nav-dinnaga-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-dinnaga-overview" role="tabpanel">
+  <p class="lead">5th century</p>
+  </div>
+  <div class="tab-pane fade" id="nav-dinnaga-life" role="tabpanel">
+  Dinnāga was an Indian Buddhist philosopher and logician, known for his contributions to   the development of Buddhist logic and epistemology. The birthplace of the poet is debatable as there is no place named Aralapura on record. But it has been suggested that these words possibly indicate Anurādhapura in Ceylon as the old Grantha script would easily lend itself to such erroneous deciphering. It is probable that the author was a resident of Southern India. This can be noted from the technique of the Rāma and also as some scholars opine that his birthplace would be in Tamil Nadu. Professor Albrecht Friedrich Weber in his ‘History of Indian Literature’ has opined that he is the contemporary of Kālidāsa. It seems thus that Dinnāga the logician and Dinnāga the Rāma can be referred to almost the same period and this would be a very strong argument to identify them. Whether Dinnāga the author of the Kundamāla , is to be identified with Dinnāga, the great Buddhist logician is unsettling. The internal evidence of the Rāma he has written would lead us to the conclusion that it is later and more developed than the Rāma s of Bhāṣā. Its usage of Prakrit also points to fourth or fifth century as the date of its composition. This is also supported by the reference in Meghadūta, according to which Dinnāga was a contemporary of the great Kālidāsa. Early life of the poet is not known as he is identified only through his literary contribution.
+  </div>
+  <div class="tab-pane fade" id="nav-dinnaga-contribution" role="tabpanel">
+  Dinnāga is a celebrated, name in the history of Indian literature. He was the chief of the early Buddhist logicians and has been called the father of Medieval Indian Logic, His greatest achievement was to reduce the five numbers of syllogism as propounded by Aksapāda and Vātsyāyanas to three, thereby giving it a form very similar to the Aristotelian syllogism of three numbers. He was the first Indian logician to proclaim the invalidity of Authority and Analogy as proofs. According to the Tibetan sources, Dinnāga though was a Brāhmaṇa of south India, he was a disciple of the celebrated Buddhist patriarch Vasubandhu and was famous as a great debater. He is said to have written several works, some of which were translated into Chinese by Paramārtha (557-569).
+  </div>
+  <div class="tab-pane fade" id="nav-dinnaga-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/kundamala.html">Kundamāla</a></li>
+  </ul>
+  </div>
+</div>

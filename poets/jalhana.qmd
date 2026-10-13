@@ -1,0 +1,29 @@
+---
+title: Jalhaṇa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-jalhana-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-jalhana-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-jalhana-life-tab" data-bs-toggle="tab" data-bs-target="#nav-jalhana-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-jalhana-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-jalhana-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-jalhana-works-tab" data-bs-toggle="tab" data-bs-target="#nav-jalhana-works" type="button" role="tab">Works (3)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-jalhana-overview" role="tabpanel">
+  <p class="lead">13th Century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-jalhana-life" role="tabpanel">
+  There is very little information available about the life of the Sanskrit poet Jallhaṇa. Based on the style and language of his works, scholars believe that he lived in the 9th century CE. However many also think that he lived in the 13th century and there might be different poets by the similar name. Some sources suggest that he was from the Kashmir region of northern India, which was a centre of Sanskrit learning during his time.<br>It's unclear whether Jallhaṇa was a court poet or a wandering bard. Some of his works, such as Somapālavilāsa, suggest that he may have had a patron in the court of a local King. Other works, like Mugdhopadeśa, are more playful and satirical, and may have been performed for a more general audience.<br>Despite the lack of biographical information, Jallhaṇa is widely recognized as a master of Sanskrit poetry. His works are noted for their lyrical beauty, vivid imagery, and philosophical depth. He is considered one of the important poets of the &quot;new style&quot; (navīna) of Sanskrit poetry that emerged during the late classical period.
+  </div>
+  <div class="tab-pane fade" id="nav-jalhana-contribution" role="tabpanel">
+  Jallhaṇa is considered to be one of the prominent poets of Classical Sanskrit literature. He made significant contributions to the Sanskrit literary tradition through his works, including Sūktimuktāvali, Somapālavilāsa, and Mugdhopadeśa. One of the major contributions of Jallhaṇa to Sanskrit literature is his use of everyday language in his works, which brought a new freshness to Sanskrit poetry. He incorporated elements of vernacular languages into his writing, which made his works accessible to a wider audience.<br>Jallhaṇa's works also demonstrate his skill in satire and social commentary. Through his use of wit and humour, he was able to criticize various aspects of Indian society, including the social and economic disparities, the hypocrisies of the ruling classes, and the excesses of the wealthy. Furthermore, Jallhaṇa's works are known for their vivid and imaginative metaphors, which helped to create memorable and powerful images. His use of dialogue and multiple voices also added depth and complexity to his works.
+  </div>
+  <div class="tab-pane fade" id="nav-jalhana-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/suktimuktavali.html">Sūktimuktāvali</a></li>
+  <li class="list-group-item px-0"><a href="../works/somapalavilasa.html">Somapālavilāsa</a></li>
+  <li class="list-group-item px-0"><a href="../works/mugdhopadesa.html">Mugdhopadeśa</a></li>
+  </ul>
+  </div>
+</div>

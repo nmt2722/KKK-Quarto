@@ -1,0 +1,27 @@
+---
+title: Śyāmilaka
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-syamilaka-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-syamilaka-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-syamilaka-life-tab" data-bs-toggle="tab" data-bs-target="#nav-syamilaka-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-syamilaka-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-syamilaka-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-syamilaka-works-tab" data-bs-toggle="tab" data-bs-target="#nav-syamilaka-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-syamilaka-overview" role="tabpanel">
+  <p class="lead">9th century.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-syamilaka-life" role="tabpanel">
+  Śyāmilaka is a Sanskrit poet who is believed to have lived during the 9th century CE. He is known for his work Pādatāḍitaka, a collection of 64 verses that serve as examples of different meters and poetic forms used in Sanskrit poetry. While not much is known about Śyāmilaka's life, he is known to be a native of Northern India and the son of Viśveśvaradatta.
+  </div>
+  <div class="tab-pane fade" id="nav-syamilaka-contribution" role="tabpanel">
+  <p class="text-muted">No information available.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-syamilaka-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/padataditaka.html">Pādatāḍitaka</a></li>
+  </ul>
+  </div>
+</div>

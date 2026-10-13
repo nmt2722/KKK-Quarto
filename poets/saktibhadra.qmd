@@ -1,0 +1,28 @@
+---
+title: Śaktibhadra
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-saktibhadra-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-saktibhadra-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-saktibhadra-life-tab" data-bs-toggle="tab" data-bs-target="#nav-saktibhadra-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-saktibhadra-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-saktibhadra-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-saktibhadra-works-tab" data-bs-toggle="tab" data-bs-target="#nav-saktibhadra-works" type="button" role="tab">Works (2)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-saktibhadra-overview" role="tabpanel">
+  <p class="lead">Śaktibhadra lived between the 7th and 8th centuries CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-saktibhadra-life" role="tabpanel">
+  There are no reliable historical records or biographical information available about Śaktibhadra. However, based on the literary style and language used in his works, scholars believe that Śaktibhadra lived between the (788- 820 CE) 7th and 8th centuries CE, in Kerala, India. Some also speculate that he may have been associated with the royal court or a prominent temple, given the detailed descriptions of court life and religious rituals in his plays.
+  </div>
+  <div class="tab-pane fade" id="nav-saktibhadra-contribution" role="tabpanel">
+  Śaktibhadra was a Sanskrit poet who made significant contributions to Sanskrit literature. He was a master of the Abhijñānaśākuntalaṁ style of drama, which emphasizes the portrayal of human emotions and the use of poetic language. His play, Unmādavāsavadatta, successfully adapts this style and sets a new standard for the genre. He is also known for his use of the Upamā-Kāvya style, which relies heavily on metaphors and similes to create vivid imagery in the reader's mind. <br>Śaktibhadra is believed to own skill in composing complex and intricate plots. Both of his major works feature intricate plotlines that require careful attention from the reader. His ability to create compelling and engaging stories is a hallmark of his writing style. <br>Śaktibhadra is a major figure in Sanskrit literature who made significant contributions to the development of the Abhijñānaśākuntalaṁ style of drama, the Upamā-Kāvya style of poetry, and the art of storytelling. His works have had a lasting impact on Indian culture and art, and his influence can still be felt in modern Indian literature and theatre.
+  </div>
+  <div class="tab-pane fade" id="nav-saktibhadra-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/ascaryacudamani.html">Āścaryacūḍāmaṇi</a></li>
+  <li class="list-group-item px-0"><a href="../works/unmadavasavadatta.html">Unmādavāsavadattā</a></li>
+  </ul>
+  </div>
+</div>

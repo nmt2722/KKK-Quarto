@@ -1,0 +1,28 @@
+---
+title: Māyurāja
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-mayuraja-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-mayuraja-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-mayuraja-life-tab" data-bs-toggle="tab" data-bs-target="#nav-mayuraja-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-mayuraja-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-mayuraja-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-mayuraja-works-tab" data-bs-toggle="tab" data-bs-target="#nav-mayuraja-works" type="button" role="tab">Works (2)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-mayuraja-overview" role="tabpanel">
+  <p class="lead">The exact time period of Māyurāja is not clear. Some sources suggest that Māyurāja lived in the 9th century, while others suggest that he lived much later, possibly in the 16th century. However, it is generally agreed that Māyurāja was a Sanskrit poet who was associated with the Bhakti movement.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-mayuraja-life" role="tabpanel">
+  Māyurāja was a Sanskrit poet who lived in India, and the exact time period in which he lived is not clear. He was associated with the Bhakti movement and his works reflected the social and cultural milieu of his time.<br><br>Māyurāja's notable works include Udāttarāghava, a play based on the story of Rāma, Sītā, and Rāvaṇa, and Tāpasavatsarāja, a one-act play that explores themes of detachment, devotion, and the search for spiritual fulfilment. Māyurāja's poetry is known for its lyrical quality and its use of metaphor and imagery. His works express deep devotion to the divine, and his poems often contain messages of morality and ethics.<br><br>Despite the lack of concrete information about his life, Māyurāja's contributions to Sanskrit literature have had a lasting impact on Indian culture and continue to be studied and appreciated by scholars and devotees alike.
+  </div>
+  <div class="tab-pane fade" id="nav-mayuraja-contribution" role="tabpanel">
+  Māyurāja's contribution to Classical Sanskrit literature is significant, as he was a masterful poet and playwright whose works have left a lasting impact on the tradition. His writings exemplify the richness and diversity of Sanskrit literature, reflecting the cultural and intellectual traditions of medieval India.<br><br>Māyurāja's plays, Udāttarāghava and Tāpasavatsarāja, are significant contributions to Sanskrit drama. Both plays use historical and mythological themes to explore complex social and ethical issues, while also demonstrating the author's mastery of the dramatic form. Māyurāja's use of metaphors, imagery, and other poetic techniques in these plays highlight his command over the Sanskrit language and his skill in crafting compelling narratives.<br><br>In addition to his plays, Māyurāja was also a prolific writer of devotional poetry, including hymns and stotras. His works in this genre reflect his deep spiritual and religious convictions, while also adding to the richness of the Bhakti tradition in Sanskrit literature. Māyurāja's poetry is known for its emotional depth, vivid imagery, and musicality, all of which contributed to the development of Sanskrit poetry as an art form.<br><br>Overall, Māyurāja's contributions to Classical Sanskrit literature demonstrate his mastery of language and poetry, his insight into complex human issues, and his dedication to spiritual and religious themes. His works remain an important part of the Sanskrit literary canon and continue to inspire and enlighten readers today.
+  </div>
+  <div class="tab-pane fade" id="nav-mayuraja-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/tapasavatsaraja.html">Tāpasavatsarāja</a></li>
+  <li class="list-group-item px-0"><a href="../works/udattaraghava.html">Udāttarāghava</a></li>
+  </ul>
+  </div>
+</div>

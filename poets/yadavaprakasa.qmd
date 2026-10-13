@@ -1,0 +1,31 @@
+---
+title: Yādavaprākāśa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-yadavaprakasa-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-yadavaprakasa-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-yadavaprakasa-life-tab" data-bs-toggle="tab" data-bs-target="#nav-yadavaprakasa-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-yadavaprakasa-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-yadavaprakasa-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-yadavaprakasa-works-tab" data-bs-toggle="tab" data-bs-target="#nav-yadavaprakasa-works" type="button" role="tab">Works (5)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-yadavaprakasa-overview" role="tabpanel">
+  <p class="lead">1055-1137 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-yadavaprakasa-life" role="tabpanel">
+  Yādavaprākāśa was a Sanskrit scholar and poet who lived during the 11th and 12th centuries CE in India. He was born in a Brāhmaṇa family in a village called Niḍugallu in present-day Karnataka, India.<br><br>According to some sources, Yādavaprākāśa was a disciple of the famous Sanskrit grammarian and philosopher, Rāmānujācārya. He also studied under other scholars of his time, including Śrīnivāsa and Sudhākara Dvivedin. Yādavaprākāśa is best known for his contributions to the field of Sanskrit literature and grammar. He authored several important works, including the Chandaḥsutrabhāṣya, Yādavabhāṣya, Vaijyantīkośa, Yatidharmasamuccaya, Gītābhāṣya and Taittrīyaarvāṇukrmaṇī.<br><br>His commentary on the Chandaḥsūtra of Piṅgaḷa, known as the Chandaḥsutrabhāṣya, is considered one of his most important works. This commentary provided a detailed explanation of the rules and principles of Sanskrit prosody, and it is still widely studied today. Yādavaprākāśa was also a well-respected teacher, and he had many students who went on to become essential scholars and authors themselves. He is considered one of the great intellectuals of his time, and his works continue to be studied and admired by scholars of Sanskrit today.
+  </div>
+  <div class="tab-pane fade" id="nav-yadavaprakasa-contribution" role="tabpanel">
+  Yādavaprākāśa’s works have greatly enriched the field of Sanskrit grammar, prosody, and poetics. Through his commentaries and treatises, he provided a deeper understanding and analysis of these subjects, making them more accessible to scholars and students alike. His works are still studied and referenced today, highlighting the lasting impact of his contributions to Sanskrit literature. Additionally, his emphasis on the practical application of Sanskrit in daily life and the promotion of ethical and moral values through literature have also been important contributions to the cultural and social fabric of India.
+  </div>
+  <div class="tab-pane fade" id="nav-yadavaprakasa-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/chandahsutrabhasya.html">Chandaḥsutrabhāṣya</a></li>
+  <li class="list-group-item px-0"><a href="../works/yadavabhasya.html">Yādavabhāṣya</a></li>
+  <li class="list-group-item px-0"><a href="../works/vaijyantikosa.html">Vaijyantīkośa</a></li>
+  <li class="list-group-item px-0"><a href="../works/yatidharmasamuccaya.html">Yatidharmasamuccaya</a></li>
+  <li class="list-group-item px-0"><a href="../works/gitabhasya.html">Gītābhāṣya</a></li>
+  </ul>
+  </div>
+</div>

@@ -1,0 +1,27 @@
+---
+title: Bāṇa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-bana-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-bana-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bana-life-tab" data-bs-toggle="tab" data-bs-target="#nav-bana-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bana-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-bana-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bana-works-tab" data-bs-toggle="tab" data-bs-target="#nav-bana-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-bana-overview" role="tabpanel">
+  <p class="lead">Bāṇa’s time is well known and is established as he lived in the court of Harṣavardhana, the great emperor who ruled the North India in the first half of the 7th century CE. Harṣavardhana’s time is established to be between 606 - 647 AD. King Harṣavardhana was Bāṇa’s patron and Bāṇa has written a work known as Harṣacharita, describing the various incidents of his own life and also that of the King. For reasons unknown, this book is incomplete and stops in the 8th ucchvāsas. (meaning chapter)</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bana-life" role="tabpanel">
+  Bāṇa belonged to the Vātsyāyana gotra of brāhmaṇas and his father’s name was Citrabhānu and his mother’s name was Rājadevi. In one of his works, Bāṇa talks about his lineage in which the names of his ancestors Kubera, Pāśupata, Arthapati are mentioned. He also mentions about the various Vedic sacrifices that his ancestor Kubera performed. Arthapati’s son was Citrabhānu, who was the father of poet Bāṇa. Bāṇa eulogizes them by mentioning that all of them were great authors, poets, and scholars etc.  However, nothing is known about the work of Bāṇa’s ancestors. Bāṇa had a very affluent background. But misfortune struck early and he lost his mother when he was very young and his father stepped into the role of being both parents and brought him up.  Bāṇa was fourteen years’ old when his father also died and he became an orphan at a very young age. Bāṇa has given lot of details about his friends and relatives in his works. However, nothing is known about his wife though Bāṇa himself mentions that he was a “gṛhastha” (a married man). He also made no mention about his son. Later sources however confirm that he had a son called Bhūṣaṇabhaṭṭa. Some other sources have named his son as Pulinda or Pulindra and true to his father’s reputation he was also a great scholar. <br><br>After his father’s death Bāṇa travelled to various places to gain experience of life, to meet different types of scholars, Gurus, etc. Many of his friends also followed him. He gained a bit of notoriety during this travel and thus became infamous. No offence or any wrong doing was ascribed to this notoriety. Finally, after ending his travel he returned to his village called Prītikūṭa. On the banks of the village was a river called Shona which is called Sona now. Later in his life he became friends with Kṛṣṇa who was a relative of the emperor Harṣavardhana. And with the help of Kṛṣṇa, Bāṇa went to the court of Harṣa or Harṣavardhana. <br>King Harṣavardhana, though aware that Bāṇa was a scholar with impeccable poetic kills, he was also aware of Bāṇa’s infamous reputation and did not have a favorable opinion towards him. And when Bāṇa was introduced to King Harṣavardhana, the King immediately said, so'yaṃ bhujaṅgaḥ – the meaning being “This is that notorious fellow”. (Bhujaṅga is not considered to be a good term to be used on any respectable gentleman).    On hearing this Bāṇa immediately replied – kā me bhujaṅgatā?  Which would mean different things in different contexts. <br>However, later King understood his greatness, his scholarship and his poetic talents and invited him to his court again, gave him a very respectful position and made him Court-poet, Āsthānakavi.  King also allowed him to sit on a high pedestal in the court. <br>And thus, Bāṇa was greatly influenced by Harṣavardhana. Harṣavardhana, was indeed the emperor of a very large kingdom once however, through a treaty with a southern king called Pulikeśi, from Karnataka his Kingdom was restricted to the area to the north of Narmada while Pulikeśi ruled the area of the south of Narmadā.
+  </div>
+  <div class="tab-pane fade" id="nav-bana-contribution" role="tabpanel">
+  Many poets have tried to imitate Bāṇa but were not successful. There is one saying to summarize Bāṇa’s greatness - bāṇocchiṣṭaṃ jagatsarvam । - The whole world is what has already chewed by Bāṇa and left and there is nothing that was unknown to him. That is the greatness of Bāṇa.
+  </div>
+  <div class="tab-pane fade" id="nav-bana-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/the-most-famous-works-of-poet-bana-were-harsacharita-and-kadambari.html">The most famous works of Poet Bāṇa were Harṣacharita and Kādambarī.</a></li>
+  </ul>
+  </div>
+</div>

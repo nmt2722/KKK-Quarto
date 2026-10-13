@@ -1,0 +1,29 @@
+---
+title: Udbhaṭṭa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-udbhatta-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-udbhatta-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-udbhatta-life-tab" data-bs-toggle="tab" data-bs-target="#nav-udbhatta-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-udbhatta-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-udbhatta-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-udbhatta-works-tab" data-bs-toggle="tab" data-bs-target="#nav-udbhatta-works" type="button" role="tab">Works (3)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-udbhatta-overview" role="tabpanel">
+  <p class="lead">779- 813 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-udbhatta-life" role="tabpanel">
+  It is believed that Udbhaṭṭa lived in India during the 8th century CE. He was called as Bhaṭṭōdbatta Udhbhaṭṭācārya by many. Some scholars speculate that he may have been from the northern part of India, while others suggest that he may have been from the Kashmir region. However, there is no consensus on his place of origin.<br><br>Despite the lack of information about his life, Udbhaṭṭa is remembered for his contribution to the field of poetics through his work on the various alaṅkaras or figures of speech used in Sanskrit literature. The Alaṅkārasārasaṁgraha is considered an important work on poetics in Sanskrit literature and has had a significant influence on the development of literary theory and criticism in India.<br><br>Udbhaṭṭa's legacy is mainly through his work, which is still studied and appreciated by scholars of Sanskrit literature and poetics. His insights into the use of various figures of speech have helped to shape the way that Sanskrit poetry is read and understood.
+  </div>
+  <div class="tab-pane fade" id="nav-udbhatta-contribution" role="tabpanel">
+  Udbhaṭṭa was a prolific and influential Sanskrit scholar and writer who made significant contributions to various fields of classical Sanskrit literature. He was a master of alaṅkāra-śāstra or poetics, and his works in this field, including the Kāvyālaṅkāra-sārasaṅgraha, have been highly influential in shaping the theory and practice of Sanskrit poetics.<br>Apart from poetics, Udbhaṭṭa also wrote commentaries and critical works on other important texts such as the Nāṭya śāstra and the Bhāmaha’s Kāvyalakṣaṇa. His commentary on the Nāṭya śāstra, known as the Ṭīkā, is considered to be one of the most authoritative and comprehensive works on this subject.<br>Udbhaṭṭa was also an accomplished writer of poetry and drama, and his works in these fields display a deep understanding of poetics and a mastery of language and style. His contribution to Sanskrit literature in general lies in his innovative and insightful ideas on poetics, his meticulous analysis and interpretation of classical texts, and his artistic genius as a poet and dramatist.
+  </div>
+  <div class="tab-pane fade" id="nav-udbhatta-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/alankarasarasamgraha-kavyalankarasarasamgraha.html">Alaṅkārasārasaṁgraha (Kavyālaṅkārasārasaṁgraha)</a></li>
+  <li class="list-group-item px-0"><a href="../works/bhamahavivarana.html">Bhāmahavivaraṇa</a></li>
+  <li class="list-group-item px-0"><a href="../works/tika-on-natya-sastra.html">Ṭīkā on Nāṭya śāstra</a></li>
+  </ul>
+  </div>
+</div>

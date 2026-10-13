@@ -1,0 +1,27 @@
+---
+title: Aparājita
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-aparajita-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-aparajita-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-aparajita-life-tab" data-bs-toggle="tab" data-bs-target="#nav-aparajita-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-aparajita-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-aparajita-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-aparajita-works-tab" data-bs-toggle="tab" data-bs-target="#nav-aparajita-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-aparajita-overview" role="tabpanel">
+  <p class="lead">10th century</p>
+  </div>
+  <div class="tab-pane fade" id="nav-aparajita-life" role="tabpanel">
+  Aparājita. It is believed that he lived in India during the 10th century, although the exact time and place of his birth and death are unknown. What is known is that Aparājita was a talented writer and poet, and his work &quot;Mṛgāṅkalēkha&quot; or &quot;Mṛgāṅkalēkhakathā&quot; is considered to be a masterpiece of Sanskrit literature. The work consists of a collection of short stories or fables that blend fantasy and reality, and it is highly regarded for its literary and moral value.<br>While we may not know much about Aparājita's personal life, his contributions to Sanskrit literature have left a lasting impact on Indian culture and continue to be studied and celebrated to this day.
+  </div>
+  <div class="tab-pane fade" id="nav-aparajita-contribution" role="tabpanel">
+  Aparājita was a 10th century poet who made significant contributions to Sanskrit literature. He is best known for his work &quot;Mṛgāṅkalēkhakathā,&quot; which is considered a classic of Sanskrit literature. In addition to this work, Aparājita also composed other works, including plays, poetry, and philosophical treatises. His works demonstrate a deep understanding of Indian mythology, philosophy, and culture, and his use of language is known for its beauty and elegance. Aparājita's contributions to Sanskrit literature have had a lasting impact on Indian culture and continue to inspire scholars and writers to this day.
+  </div>
+  <div class="tab-pane fade" id="nav-aparajita-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/mrgankalekhakatha.html">Mṛgāṅkalēkhakathā</a></li>
+  </ul>
+  </div>
+</div>

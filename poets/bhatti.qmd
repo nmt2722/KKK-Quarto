@@ -1,0 +1,27 @@
+---
+title: Bhaṭṭi
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-bhatti-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-bhatti-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhatti-life-tab" data-bs-toggle="tab" data-bs-target="#nav-bhatti-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhatti-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-bhatti-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-bhatti-works-tab" data-bs-toggle="tab" data-bs-target="#nav-bhatti-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-bhatti-overview" role="tabpanel">
+  <p class="lead">It is assumed that Bhaṭṭi probably belonged to the 6th century CE, because at the end of his work Bhaṭṭi Kāvya, there is a benedictory verse that confirms the time of poet Bhaṭṭi. kāvyamidaṃ vihitaṃ mayā valabhyāṃ śrīdharasenanarendrapālitāyām ।<br>kīrtirato bhavatāt nṛpasya tasya premakaraḥ kṣitipo yataḥ prajānām ॥<br><br>The meaning of this verse is – this poem is composed by a poet in the city called Vallabhi that existed 1500 years ago. This place is believed to be a part of today’s Saurāṣṭra in the state of Gujarat. This verse talks about the King called Śrīdharasena (where Sri can be considered an honorary title and Dharasena can be the name of the King) under whose patronage Bhaṭṭi is believed to have lived.<br><br>Bhāmaha, another poet well versed in “Alaṅkāraikas” that lived in 6th century AD appears to have known this work of Poet Bhaṭṭi and there is so much similarity in one sloka of both the poets. The similarity is just not coincidental as same words, same phrases and similar meanings are found in both these slokas. (Bhāmaha’s śloka is quoted further below). Because of this it is concluded that both these poets were contemporaries and that Poet Bhaṭṭi also lived in the 6th century AD.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bhatti-life" role="tabpanel">
+  In history, there are four Dharasenas and the patron of poet Bhaṭṭi is not very clear among them. However, historians are of the opinion that second Dharasena might have been the patron of poet Bhaṭṭi. In praise of his patron Bhaṭṭi says, kīrtirato bhavatāt nṛpasya tasya  – May the King have lot of popularity and fame as - premakaraḥ kṣitipo yataḥ prajānām the King is doing everything to keep people happy. Other than this benedictory verse there is not much information on the life of this poet. Few poets in our history are so famous that their works are known not by their real name but by the name of the poet. Just as Śiśupālavadha is known as Māgha Kāvya (Māgha being the name of the poet), in the same way even though Bhaṭṭi named his work Rāvaṇavadha or Rāmacarita it is known famously as Bhaṭṭi Kāvya.
+  </div>
+  <div class="tab-pane fade" id="nav-bhatti-contribution" role="tabpanel">
+  <p class="text-muted">No information available.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-bhatti-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/ravanavadha-or-ramacarita.html">Rāvaṇavadha or Rāmacarita</a></li>
+  </ul>
+  </div>
+</div>

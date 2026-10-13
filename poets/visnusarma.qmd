@@ -1,0 +1,27 @@
+---
+title: Viṣṇuśarmā
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-visnusarma-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-visnusarma-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-visnusarma-life-tab" data-bs-toggle="tab" data-bs-target="#nav-visnusarma-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-visnusarma-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-visnusarma-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-visnusarma-works-tab" data-bs-toggle="tab" data-bs-target="#nav-visnusarma-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-visnusarma-overview" role="tabpanel">
+  <p class="lead">3rd Century</p>
+  </div>
+  <div class="tab-pane fade" id="nav-visnusarma-life" role="tabpanel">
+  Viṣṇuśarmā is believed to have lived in India during the 3rd century BCE, possibly in the kingdom of Pāṭalīputra (modern-day Patna). He was a Brāhmaṇa scholar and a master of the Sanskrit language. Viṣṇuśarmā is considered a master storyteller and his work has been widely translated into several languages. There are different accounts on which king did Viṣṇuśarmā serve as a court poet, and it is not clear which one is accurate. Some sources suggest that he served as a court poet for the King of Mahilāropya, which is believed to have been a city in ancient India. Others suggest that he served as a court poet for the King of the city of Pāṭalīputra, which was an important center of power during ancient times. It is possible that he served more than one king during his lifetime. It is also clear that Viṣṇuśarmā was a respected scholar and poet who enjoyed the patronage of the royalty of his time, and his works continue to be studied and appreciated by scholars and readers alike. He is said to have been a scholar of political science and a teacher to the sons of a king. He taught the young princes through stories the principles of good governance, and to impart important moral lessons about life and the world. Viṣṇuśarmā is best known for his work &quot;Pañcatantram,&quot; which is a collection of animal fables that teach moral lessons. The fables of the Pañcatantra have had an immense influence over world culture, showcasing India's unique outlook towards life. The exact time and location where the Pañcatantra was written is not known for sure, but some scholars believe that it was composed between 200 BCE and 300 CE in the region of present-day Kashmir, while others suggest it may have originated in the southern Indian state of Andhra Pradesh. Some scholars suggest that few terminologies in Ślokas of Viṣṇuśarmā’s Pañcatantra are similar to Śatakatraya, a collection of poems written by Bhartṛhari - a Sanskrit poet and philosopher who is believed to have lived in the 5th century CE, which was much before the time of Viṣṇuśarmā. His work also held similarities to Jataka stories. However, Pañcatantra is considered India’s most influential contributions to world literature. While the exact details of Viṣṇuśarmā's life may be lost to history, his legacy lives on through the enduring power and wisdom of the Pañcatantra, which continues to inspire and educate readers around the world.
+  </div>
+  <div class="tab-pane fade" id="nav-visnusarma-contribution" role="tabpanel">
+  Viṣṇuśarmā's contribution to Sanskrit literature is significant because of the timeless appeal of the Pañcatantra stories. The fables have been adapted and retold in various languages, and their influence can be seen in literature from around the world. The Pañcatantra has also been used as a source of inspiration for other works of literature, including the famous &quot;Arabian Nights.&quot; The Pañcatantra has had a significant impact on Indian culture as well. The stories have been used to teach moral values and principles to generations of children, and they continue to be an important part of Indian folklore and popular culture. The book has also had a profound impact on Indian art and has been the subject of numerous paintings, sculptures, and other works of art. In conclusion, Viṣṇuśarmā's contribution to Sanskrit literature through the Pañcatantra is significant and enduring. The fables continue to be popular today and have influenced literature, art, and culture around the world. Viṣṇuśarmā's work is a testament to the power of storytelling and its ability to communicate complex moral and ethical concepts in a simple, easily understandable manner.
+  </div>
+  <div class="tab-pane fade" id="nav-visnusarma-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/pancatantra.html">Pañcatantra</a></li>
+  </ul>
+  </div>
+</div>

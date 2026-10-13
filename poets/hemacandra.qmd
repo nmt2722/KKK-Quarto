@@ -1,0 +1,35 @@
+---
+title: Hemacandra
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-hemacandra-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-hemacandra-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-hemacandra-life-tab" data-bs-toggle="tab" data-bs-target="#nav-hemacandra-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-hemacandra-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-hemacandra-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-hemacandra-works-tab" data-bs-toggle="tab" data-bs-target="#nav-hemacandra-works" type="button" role="tab">Works (9)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-hemacandra-overview" role="tabpanel">
+  <p class="lead">1088-1172 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-hemacandra-life" role="tabpanel">
+  Hemacandra was born in Dhandhuka, a town in the present-day state of Gujarat, India, in 1088 CE. His family belonged to the Brahmin caste, and his father was a scholar of Sanskrit and Jain philosophy. From a young age, Hemacandra showed a keen interest in learning, and he received a rigorous education in Sanskrit grammar, literature, and philosophy. He was particularly interested in Jainism, and he became a disciple of the famous Jain monk Ācārya Devacandra. As a young man, Hemacandra gained fame for his poetry and literary skills, and he soon became one of the most renowned poets of his time. His works were characterized by their elegance, beauty, and skilful use of the Sanskrit language.<br><br>In addition to his literary pursuits, Hemacandra was also a renowned scholar and philosopher. He wrote extensively on a wide range of subjects, including grammar, mathematics, astronomy, and philosophy. He was particularly known for his contributions to Jain literature, and he is considered to be one of the most important Jain scholars of his time.<br><br>Hemacandra spent much of his life traveling throughout India, teaching and lecturing on Jainism and other subjects. He was a prolific writer, and he is said to have composed over 100 works during his lifetime. Hemacandra died in 1172 CE, at the age of 84. He is remembered today as one of the greatest poets and scholars of classical Sanskrit literature, and his works continue to be studied and admired by scholars and readers around the world.
+  </div>
+  <div class="tab-pane fade" id="nav-hemacandra-contribution" role="tabpanel">
+  Hemacandra, a Jain scholar and philosopher who was a prolific writer and made significant contributions to classical Sanskrit literature. His work spans a wide range of topics, including grammar, poetics, philosophy, and religion. Hemacandra's most famous work is the Kāvyānuśāsana, a treatise on poetics that is still studied by scholars today. He also wrote a work on grammar, Siddhahemaśabdānuśāsana, which is still studied today, particularly in the Jain tradition. Hemacandra's contributions to yoga philosophy are also notable, as seen in his Yogaśāstra.<br>Hemacandra's writing style and approach in the Pramāṇamīmāṁsā is considered unique. He employs a systematic approach to the examination of knowledge, using clear and concise language, and presenting complex ideas in a way that is accessible to readers. His approach is marked by a balance of logical rigor and poetic elegance, which has made the text widely read and studied. In addition to his scholarly works, Hemacandra was also a gifted storyteller and wrote several works of fiction, including the Navasāhasāṃkacarita, a collection of ten stories that are still studied today for their literary merit. Hemacandra's meticulous attention to detail and comprehensive approach to his subject matter made his works highly influential and still relevant today.
+  </div>
+  <div class="tab-pane fade" id="nav-hemacandra-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/siddhahema.html">Siddhahema</a></li>
+  <li class="list-group-item px-0"><a href="../works/kavyanusasana.html">Kāvyānuśāsana</a></li>
+  <li class="list-group-item px-0"><a href="../works/abhidhanacintamani.html">Abhidhānacintāmaṇi</a></li>
+  <li class="list-group-item px-0"><a href="../works/balabharata.html">Bālabhārata</a></li>
+  <li class="list-group-item px-0"><a href="../works/pramanamimamsa.html">Pramāṇamīmāṁsā</a></li>
+  <li class="list-group-item px-0"><a href="../works/kumarapalita.html">Kumārapālita</a></li>
+  <li class="list-group-item px-0"><a href="../works/mahavirasvamistotra.html">Mahāvīrasvāmīstotra</a></li>
+  <li class="list-group-item px-0"><a href="../works/yogasastra.html">Yogaśāstra</a></li>
+  <li class="list-group-item px-0"><a href="../works/anyayogavyavacchedikadvatrimsika-kavya.html">Anyayogavyavacchedikādvātriṁśikā Kāvya</a></li>
+  </ul>
+  </div>
+</div>

@@ -1,0 +1,28 @@
+---
+title: Maṅkhvaka
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-mankhvaka-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-mankhvaka-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-mankhvaka-life-tab" data-bs-toggle="tab" data-bs-target="#nav-mankhvaka-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-mankhvaka-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-mankhvaka-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-mankhvaka-works-tab" data-bs-toggle="tab" data-bs-target="#nav-mankhvaka-works" type="button" role="tab">Works (2)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-mankhvaka-overview" role="tabpanel">
+  <p class="lead">1129-1150 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-mankhvaka-life" role="tabpanel">
+  Maṅkhvaka, also known as Karṇikāramaṅkha, was a Sanskrit poet and scholar who lived during the 12th century CE in Kashmir. He is the son of Viśvavartha. Apart from this, not much is known about Maṅkhvaka’s life. However, Maṅkhvaka is said to have received rigorous education in Sanskrit literature and philosophy, and he was highly regarded for his scholarship and poetic skills. His two major works, the Śrīkaṇṭhacarita and the Anekārthakakośa, are considered to be among the most important and influential works in Sanskrit literature.
+  </div>
+  <div class="tab-pane fade" id="nav-mankhvaka-contribution" role="tabpanel">
+  Maṅkhvaka is considered to be one of the most important poets and writers of Classical Sanskrit literature. His works, particularly the Śrīkaṇṭhacarita and the Anekārthakakośa, have made significant contributions to the language and literature of ancient India.<br><br>In addition to his literary contributions, Maṅkhvaka was also a notable scholar and intellectual, and his works demonstrate a deep understanding of Sanskrit language and culture. His writing style is marked by a combination of elegance, clarity, and precision, which has had a lasting influence on the development of Sanskrit literature.
+  </div>
+  <div class="tab-pane fade" id="nav-mankhvaka-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/srikanthacarita.html">Śrīkaṇṭhacarita</a></li>
+  <li class="list-group-item px-0"><a href="../works/anekarthakakosa.html">Anekārthakakośa</a></li>
+  </ul>
+  </div>
+</div>

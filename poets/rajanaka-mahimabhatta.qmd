@@ -1,0 +1,27 @@
+---
+title: Rājānaka Mahimabhaṭṭa
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-rajanaka-mahimabhatta-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-rajanaka-mahimabhatta-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-rajanaka-mahimabhatta-life-tab" data-bs-toggle="tab" data-bs-target="#nav-rajanaka-mahimabhatta-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-rajanaka-mahimabhatta-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-rajanaka-mahimabhatta-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-rajanaka-mahimabhatta-works-tab" data-bs-toggle="tab" data-bs-target="#nav-rajanaka-mahimabhatta-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-rajanaka-mahimabhatta-overview" role="tabpanel">
+  <p class="lead">1020 and 1050 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-rajanaka-mahimabhatta-life" role="tabpanel">
+  Rājānaka Mahimabhaṭṭa was a renowned Sanskrit poet and scholar who lived during the 11th century, specifically between 1020 and 1050 AD. He is known for his literary works, particularly for his treatise on grammar and poetics, the Vyaktivivēka.<br>Not much is known about his personal life. It is believed that he was born in the town of Veṅgi, which was located in the present-day state of Andhra Pradesh in India. He was likely a Brāhmaṇa by birth and received traditional education in Sanskrit language, literature, and philosophy.<br>Rājānaka Mahimabhaṭṭa was a prominent figure in the court of the Eastern Cālukya Kings, who ruled the region of Veṅgi during his time. He served as a court poet and scholar and enjoyed the patronage of the ruling dynasty. He was also well-respected in the scholarly circles of his time and was known for his expertise in various fields such as grammar, poetics, and philosophy.
+  </div>
+  <div class="tab-pane fade" id="nav-rajanaka-mahimabhatta-contribution" role="tabpanel">
+  Rājānaka Mahimabhaṭṭa made several significant contributions to Sanskrit literature through his work as a scholar and poet. The most notable of these contributions is his magnum opus, Vyaktivivēka, a comprehensive treatise on Sanskrit grammar and poetics. Vyaktivivēka is a significant contribution to Sanskrit literature in several ways. It is a comprehensive work that covers various aspects of Sanskrit grammar and poetics, providing a detailed and systematic explanation of these topics. This has made it an important resource for scholars and students of Sanskrit, and has helped to preserve and promote the study of Sanskrit language and literature. Mahimabhaṭṭa takes a descriptive approach, analysing the language and literature as it is used by poets and authors, rather than prescribing strict rules. This approach allows for a more nuanced and flexible understanding of Sanskrit language and literature, and has influenced the study of Sanskrit grammar and poetics. The text provides a detailed analysis of literary devices and meters, and offers examples from famous Sanskrit texts. This has helped to shape the way that Sanskrit literature is studied and understood, and has contributed to the development of literary theory in Sanskrit literature.
+  </div>
+  <div class="tab-pane fade" id="nav-rajanaka-mahimabhatta-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/vyaktiviveka.html">Vyaktivivēka</a></li>
+  </ul>
+  </div>
+</div>

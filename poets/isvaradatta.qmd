@@ -1,0 +1,27 @@
+---
+title: Īśvaradatta
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-isvaradatta-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-isvaradatta-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-isvaradatta-life-tab" data-bs-toggle="tab" data-bs-target="#nav-isvaradatta-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-isvaradatta-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-isvaradatta-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-isvaradatta-works-tab" data-bs-toggle="tab" data-bs-target="#nav-isvaradatta-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-isvaradatta-overview" role="tabpanel">
+  <p class="lead">1st century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-isvaradatta-life" role="tabpanel">
+  Īśvaradatta was a Sanskrit poet who lived during the 1st century CE and is known for being the author of Dhūrtaviṭasaṁvāda, a Sanskrit literary work. There is not much literature available to understand his life or background, as no surviving biographical details or historical records shed light on his personal life. Dhūrtaviṭasaṁvāda is a comedic play in which two cunning rogues, Vītabhata and Sattva, compete against each other to see who is the greater swindler. The play is known for its witty dialogue, clever wordplay, and humorous depictions of trickery and deceit.<br>While little is known about Īśvaradatta himself, Dhūrtaviṭasaṁvāda is considered a significant work of Sanskrit literature and is studied today as an example of the genre of Sanskrit plays known as prahasana. This genre is characterized by its use of satire and comedy to critique society, politics, and culture.
+  </div>
+  <div class="tab-pane fade" id="nav-isvaradatta-contribution" role="tabpanel">
+  Īśvaradatta was a poet and playwright whose most famous work, Dhūrtaviṭasaṁvāda is considered a masterpiece of Sanskrit literature and is renowned for its linguistic playfulness, complex characters, and exploration of morality and social order. Īśvaradatta's contribution to Sanskrit literature is significant not only because of the enduring popularity of Dhūrtaviṭasaṁvāda but also because of his innovative use of language and his portrayal of female characters as strong and intelligent. In addition, the play's exploration of the complex factors that shape human behaviour and its nuanced critique of societal norms and expectations demonstrate a sophisticated understanding of human nature and social dynamics. Īśvaradatta's influence on Sanskrit literature can be seen in the works of later playwrights and poets who were inspired by his linguistic and thematic innovations. Overall, Īśvaradatta's contributions to Sanskrit literature have helped shape India's language and culture and continue to inspire readers and scholars to this day.
+  </div>
+  <div class="tab-pane fade" id="nav-isvaradatta-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/dhurtavitasamvada.html">Dhūrtaviṭasaṁvāda</a></li>
+  </ul>
+  </div>
+</div>

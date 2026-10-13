@@ -1,0 +1,27 @@
+---
+title: Varadācārya
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-varadacarya-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-varadacarya-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-varadacarya-life-tab" data-bs-toggle="tab" data-bs-target="#nav-varadacarya-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-varadacarya-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-varadacarya-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-varadacarya-works-tab" data-bs-toggle="tab" data-bs-target="#nav-varadacarya-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-varadacarya-overview" role="tabpanel">
+  <p class="lead">13th century CE</p>
+  </div>
+  <div class="tab-pane fade" id="nav-varadacarya-life" role="tabpanel">
+  Varadācārya was a Sanskrit poet who lived in the 13th century CE in the city of Kān̄cipuraṁ, located in present-day Tamil Nadu, India. He was the son of Ghaṭikāṣaṭasudarśana and belonged to the Vātsyāyana Gotra.<br><br>Varadācārya is best known for his work &quot;Vasantatilaka&quot;, which is a Bāṇa drama written in Sanskrit. The play is believed to have been composed in the early 13th century and is set in the court of a king named Harsha. It revolves around the theme of love, with the main plot focusing on the love affair between the king's son and a courtesan named Vasantasena.<br><br>Despite being a renowned poet, very little is known about Varadācārya's personal life or career. The preface to &quot;Vasantatilaka&quot; is the only surviving source that provides details about his name, lineage, and place of origin. Nevertheless, his work &quot;Vasantatilaka&quot; is still widely read and studied today, and is considered a masterpiece of Sanskrit literature.
+  </div>
+  <div class="tab-pane fade" id="nav-varadacarya-contribution" role="tabpanel">
+  Sanskrit poet Varadācārya made significant contributions to Classical Sanskrit literature through his works, particularly his play &quot;Vasantatilaka.&quot; His mastery of the Bāṇa drama genre, which was emerging during his time, helped shape the development of Indian literature. Through his complex plot, well-developed characters, and vivid imagery, Varadācārya demonstrated the potential of the Bana drama genre to explore themes such as love, loyalty, and the power of friendship.<br><br>Varadācārya's use of poetic language, rich symbolism, and intricate metaphors also contributed to Classical Sanskrit literature by demonstrating the depth of literary talent that was present in medieval India. His works showcase the continued evolution of the Sanskrit language and literary traditions during a time of significant cultural change in India.<br><br>Furthermore, Varadācārya's contribution to Sanskrit literature can be seen in the influence of his works on subsequent generations of Sanskrit poets and playwrights. His ability to blend traditional Sanskrit literary conventions with new forms of expression that emerged during his time helped pave the way for future innovations in Indian literature. Overall, Varadācārya's contributions to Classical Sanskrit literature helped shape the course of Indian literary history and continue to inspire readers and scholars to this day.
+  </div>
+  <div class="tab-pane fade" id="nav-varadacarya-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/vasantatilaka.html">Vasantatilaka</a></li>
+  </ul>
+  </div>
+</div>

@@ -1,0 +1,27 @@
+---
+title: Amarasiṃha
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-amarasimha-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-amarasimha-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-amarasimha-life-tab" data-bs-toggle="tab" data-bs-target="#nav-amarasimha-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-amarasimha-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-amarasimha-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-amarasimha-works-tab" data-bs-toggle="tab" data-bs-target="#nav-amarasimha-works" type="button" role="tab">Works (1)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-amarasimha-overview" role="tabpanel">
+  <p class="lead">1\. According to Professor K.G. Oka’s convincing view, Amarasiṃha was a predecessor of īśvarakṛṣṇa, the author of the Sānkhyakārikā fame, and Amarakośa is a work of the fourth century A.D. He is said to have been one of the nine jewels that adorned the court of Vikramāditya. According to the evidence of xuanzong this is the Candragupta Vikramāditya who flourished about 375 CE. Another clue to his age is found in the fact that though a Buddhist, he follows the Pāṇini’s system of grammar.</p>
+  </div>
+  <div class="tab-pane fade" id="nav-amarasimha-life" role="tabpanel">
+  1\. :  Amarasiṃha was a Sanskrit grammarian and a poet from ancient India. Hardly anything is known about his personal history. Amarasiṃha was a Bauddha, who knew Mahāyāna and was well acquainted with the works of Kāḷidāsa. It may be noted that Amarasiṃha, though a Buddhist, had a strong inclination towards Sānkhya philosophy as it is evident from the use of the words: - kṣtrajña ātmā puruṣaḥ pradhānaṃ prakṛtiḥ striyām (p. 24. Nāmalingānuśāsana)
+  </div>
+  <div class="tab-pane fade" id="nav-amarasimha-contribution" role="tabpanel">
+  Amarasiṃha’s contribution to Sanskrit literature through &quot;Amarakoṣa&quot; is significant because of its impact on the development of Sanskrit language and literature. The lexicon has been used for centuries by scholars, poets, and writers, and has played a vital role in preserving and transmitting the Sanskrit language and its literary traditions. In addition to &quot;Amarakoṣaḥ,&quot; Amarasiṃha also wrote a treatise on grammar called &quot;Siddhāntakaumudī,&quot; which is still widely studied by Sanskrit scholars today. The treatise provides a detailed analysis of the Sanskrit language and its grammatical rules, and is characterized by its clarity, rigor, and precision.<br><br>Amarasiṃha’s contribution to Sanskrit literature through his work on lexicography and grammar is significant and enduring. His meticulous attention to detail, innovative approach, and insightful analysis have had a profound impact on the development of Sanskrit language and literature. Amarasiṃha’s legacy as a scholar and writer is a testament to the richness and diversity of Indian intellectual traditions.
+  </div>
+  <div class="tab-pane fade" id="nav-amarasimha-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/namalinganusasana-popularly-known-as-amarakosa.html">Nāmalingānuśāsana- popularly known as Amarakośa</a></li>
+  </ul>
+  </div>
+</div>

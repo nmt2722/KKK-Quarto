@@ -1,0 +1,28 @@
+---
+title: Dhanapāla
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-dhanapala-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-dhanapala-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-dhanapala-life-tab" data-bs-toggle="tab" data-bs-target="#nav-dhanapala-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-dhanapala-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-dhanapala-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-dhanapala-works-tab" data-bs-toggle="tab" data-bs-target="#nav-dhanapala-works" type="button" role="tab">Works (2)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-dhanapala-overview" role="tabpanel">
+  <p class="lead">1000 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-dhanapala-life" role="tabpanel">
+  Dhanapāla was a renowned Jaina Thinker, intellectual scholar and poet. Following in the steps of his very illustrious predecessors, he made significant contributions the political, economic, social and religious establishments of his time through works in Sanskrit, Prākrit and Apabhramśa. Tilakamanñjarī gives and account of a twice born Brahman, who though a blessed seer among Dānavas (demons), attained an accomplished stature of seerdom among the Gods. He was well versed in scriptures and attained exceptional skills in all arts. He is also said to have attained perfection in creative faculties and interpretations or philosophical dissertations. His self born son, Sarvadeva was considered to be a great soul and a peer to Svayambhu or Bramha. It is said that his son, the illustrious Brahman Dhanapāla is the composer of the unblemished Tilakamanñjarī. Therefore, according to Dhanapāla himself, he was the son of Sarvadeva – a great poet and philosopher. Dhanapāla had a younger brother Sobhana and a younger sister Sundari. He was married to Dhanasrī and had a daughter Bālapaṇḍita.<br>According to his own sayings, Dhanapāla was an inspired poet brought into being through the environment or the circumstances of life. He inherited the vast store of knowledge by waiting at the lotus feet of his progenitor or sire Sarvadeva, who, as mentioned before, was considered to be a peer of Bramha. His style of writing was complete with a variety of syllabic denominations and contains lengthy sentences of complex vocabulary which can be considered to be a natural manner of writing in those times. If anything, his lack of verbosity possibly ranks him as one of the greatest scholars, poets and prose writers of the time, alongside stalwarts like Bāṇa. His constant homage to Amaraguru and Bhārgava, indicates his intellect and wisdom invoking thoughts in his writing.<br>From what we know, Dhanapāla has an inclination to write in manner that is generally complex for readers to understand. His deliberate efforts to evolve something original, unusual and marvel-provoking are very evident throughout what is known of his works. According to Tilakamanñjarī, he was a prominent figure in the court of King Munja who decorated him with the title of Sarasvatī . Later on Dhanapāla spent several years in the court of King Bhoja, where he was held in high esteem. He was instrumental in making king Bhoja realise the futility of Brahmanical sacrifices and finally managed to convert him into Jainism.
+  </div>
+  <div class="tab-pane fade" id="nav-dhanapala-contribution" role="tabpanel">
+  Dhanapāla's contributions to Sanskrit literature are recognized for their literary merit, philosophical insight, and historical importance, and his works have been studied and appreciated by scholars and readers of Sanskrit literature for centuries.
+  </div>
+  <div class="tab-pane fade" id="nav-dhanapala-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/tilakamannjari.html">Tilakamanñjarī</a></li>
+  <li class="list-group-item px-0"><a href="../works/rsabhapancasika.html">Ṛṣabhapañcāśikā</a></li>
+  </ul>
+  </div>
+</div>

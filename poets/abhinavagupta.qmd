@@ -1,0 +1,65 @@
+---
+title: Abhinavagupta
+format: html
+---
+
+<ul class="nav nav-tabs nav-justified" id="poetTabs" role="tablist">
+  <li class="nav-item" role="presentation"><button class="nav-link active" id="nav-abhinavagupta-overview-tab" data-bs-toggle="tab" data-bs-target="#nav-abhinavagupta-overview" type="button" role="tab">Overview</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-abhinavagupta-life-tab" data-bs-toggle="tab" data-bs-target="#nav-abhinavagupta-life" type="button" role="tab">Life</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-abhinavagupta-contribution-tab" data-bs-toggle="tab" data-bs-target="#nav-abhinavagupta-contribution" type="button" role="tab">Contribution</button></li>
+  <li class="nav-item" role="presentation"><button class="nav-link" id="nav-abhinavagupta-works-tab" data-bs-toggle="tab" data-bs-target="#nav-abhinavagupta-works" type="button" role="tab">Works (39)</button></li>
+</ul>
+<div class="tab-content py-3">
+  <div class="tab-pane fade show active" id="nav-abhinavagupta-overview" role="tabpanel">
+  <p class="lead">980-1010 AD</p>
+  </div>
+  <div class="tab-pane fade" id="nav-abhinavagupta-life" role="tabpanel">
+  Abhinavagupta was a Sanskrit scholar who lived during the 10th-11th century AD in Kashmir. He was a polymath and made significant contributions to a wide range of fields such as philosophy, aesthetics, Tantra, and literature. He authored several commentaries and original works that remain highly regarded in the Indian intellectual tradition.<br><br>Abhinavagupta's most well-known works include the Locana Ṭīkā on Dhvanyāloka, which is a commentary on the work by Ānandavardhana that explores the concept of suggested meaning or Dhvani in literature. He also wrote the Abhinavabhāratī Ṭīkā on Nāṭyaśāstra, a commentary on Bharata's treatise on dramaturgy. Another significant work of Abhinavagupta is Vivaraṇa on Kāvyakautuka, which is a commentary on the work by Bhāmaha that discusses the poetics of figurative language.<br><br>Apart from these, Abhinavagupta authored a range of works on Tantra, including the Tantrāloka, Prātriṁśikāvivṛti, Mālinīvijayavārtika, Tantrasāra, Tantravaṭadhānikā, and Tantroccaya. His other works include the Īśvaraprtyabhijñāvivṛtivimarśinī, Bhagvadgītārthasaṁgraha, Paramārṭhasāra, Paramārthadvādaśikā, Anubhavanivedana, Paramārthacarcā, Mahopadeśaviṁśatikā, Anuttaraśatikā, Ghaṭakarparkulakavivṛti, Kāmakeli, Śivadṛṣṭyālocana, Pūrvapañcikāvivaraṇa, Padārthapraveśanirṇayaṭīkā, Prakīrṇavivaraṇa, Kathāmukhaṭīkā, Laghvī Prakriyā, Bhedāvādavidāraṇa, Tattvārthaprakāśikā, Bimbapratibimbavāda, Paramārthasaṁgraha, Anuttaraśataka, Nāṭyalocana, and Anuttaratatvavimarśnī.<br><br>Abhinavagupta's works demonstrate his vast erudition and deep insights into a variety of subjects. His contributions to Indian philosophy, aesthetics, and Tantra are still studied and debated by scholars today. His commentaries on important texts in Sanskrit literature have played a significant role in shaping the Indian intellectual tradition.
+  </div>
+  <div class="tab-pane fade" id="nav-abhinavagupta-contribution" role="tabpanel">
+  Abhinavagupta was a highly influential poet, philosopher, and scholar who made a significant contribution to Classical Sanskrit literature. His literary works encompassed a wide range of subjects, including poetics, aesthetics, philosophy, and Tantra.<br><br>One of his most significant contributions to Sanskrit literature is his commentary on the Nāṭyaśāstra, which is known as Abhinavabhāratī. This commentary is considered to be one of the most important commentaries on the Nāṭyaśāstra and has had a significant influence on the development of Indian performing arts. Abhinavagupta's commentary focused on the concept of rasa or aesthetic experience and provided an in-depth analysis of the various elements that contribute to the creation of rasa.<br><br>Abhinavagupta's commentary on the Dhvanyāloka, known as Locana, is another notable contribution to Sanskrit literature. This commentary provides an interpretation of the concept of dhvani, which refers to the power of suggestion in poetry. His commentary on the Kāvyakautuka, known as Vivaraṇa, is also noteworthy as it provides an in-depth analysis of the nature of poetry and the process of poetic creation.<br><br>Apart from his commentaries, Abhinavagupta also wrote several original works on various topics. His works on Tantra, such as Tantrāloka and Tantrāloka vivṛti, are considered to be highly influential in the development of the Tantric tradition. His work Bhagavadgītārthasaṅgraha, a summary of the teachings of the Bhagavadgītā, is also highly regarded.<br><br>In a nutshell, Abhinavagupta's contribution to Classical Sanskrit literature is immense, and his works continue to be studied and appreciated for their profound insights and contributions to Indian philosophy, aesthetics, and culture.
+  </div>
+  <div class="tab-pane fade" id="nav-abhinavagupta-works" role="tabpanel">
+  <ul class="list-group list-group-flush">
+  <li class="list-group-item px-0"><a href="../works/locana-tika-on-dhvanyaloka.html">Locana Ṭīkā on Dhvanyāloka</a></li>
+  <li class="list-group-item px-0"><a href="../works/abhinavabharati-tika-on-natyasastra.html">Abhinavabhāratī Ṭīkā on Nāṭyaśāstra</a></li>
+  <li class="list-group-item px-0"><a href="../works/vivarana-on-kavyakautuka.html">Vivaraṇa on Kāvyakautuka</a></li>
+  <li class="list-group-item px-0"><a href="../works/kamastotra.html">Kamastotra</a></li>
+  <li class="list-group-item px-0"><a href="../works/dehasthadevatarcakastotra.html">Dehasthadevatārcakastotra</a></li>
+  <li class="list-group-item px-0"><a href="../works/bhairavastotra.html">Bhairavastotra</a></li>
+  <li class="list-group-item px-0"><a href="../works/devistotravivarana.html">Devīstotravivaraṇa</a></li>
+  <li class="list-group-item px-0"><a href="../works/sivasaktyavinabhavastotra.html">Śivaśaktyavinābhāvastotra</a></li>
+  <li class="list-group-item px-0"><a href="../works/prakaranstotra.html">Prakaraṇstotra</a></li>
+  <li class="list-group-item px-0"><a href="../works/bodhapancadasika.html">Bodhapañcadaśikā</a></li>
+  <li class="list-group-item px-0"><a href="../works/tantraloka.html">Tantraloka</a></li>
+  <li class="list-group-item px-0"><a href="../works/pratrimsikavivrti.html">Prātriṁśikāvivṛti</a></li>
+  <li class="list-group-item px-0"><a href="../works/malinivijayavartika.html">Mālinīvijayavārtika</a></li>
+  <li class="list-group-item px-0"><a href="../works/tantrasara.html">Tantrasāra</a></li>
+  <li class="list-group-item px-0"><a href="../works/tantravatadhanika.html">Tantravaṭadhānikā</a></li>
+  <li class="list-group-item px-0"><a href="../works/tantroccaya.html">Tantroccaya</a></li>
+  <li class="list-group-item px-0"><a href="../works/isvaraprtyabhijnavivrtivimarsini.html">Īśvaraprtyabhijñāvivṛtivimarśinī</a></li>
+  <li class="list-group-item px-0"><a href="../works/bhagvadgitarthasamgraha.html">Bhagvadgītārthasaṁgraha</a></li>
+  <li class="list-group-item px-0"><a href="../works/paramarthasara.html">Paramārṭhasāra</a></li>
+  <li class="list-group-item px-0"><a href="../works/paramarthadvadasika.html">Paramārthadvādaśikā</a></li>
+  <li class="list-group-item px-0"><a href="../works/anubhavanivedana.html">Anubhavanivedana</a></li>
+  <li class="list-group-item px-0"><a href="../works/paramarthacarca.html">Paramārthacarcā</a></li>
+  <li class="list-group-item px-0"><a href="../works/mahopadesavimsatika.html">Mahopadeśaviṁśatikā</a></li>
+  <li class="list-group-item px-0"><a href="../works/anuttarasatika.html">Anuttaraśatikā</a></li>
+  <li class="list-group-item px-0"><a href="../works/ghatakarparkulakavivrti.html">Ghaṭakarparkulakavivṛti</a></li>
+  <li class="list-group-item px-0"><a href="../works/kamakeli.html">Kāmakeli</a></li>
+  <li class="list-group-item px-0"><a href="../works/sivadrstyalocana.html">Śivadṛṣṭyālocana</a></li>
+  <li class="list-group-item px-0"><a href="../works/purvapancikavivarana.html">Pūrvapañcikāvivaraṇa</a></li>
+  <li class="list-group-item px-0"><a href="../works/padarthapravesanirnayatika.html">Padārthapraveśanirṇayaṭīkā</a></li>
+  <li class="list-group-item px-0"><a href="../works/prakirnavivarana.html">Prakīrṇavivaraṇa</a></li>
+  <li class="list-group-item px-0"><a href="../works/kathamukhatika.html">Kathāmukhaṭīkā</a></li>
+  <li class="list-group-item px-0"><a href="../works/laghvi-prakriya.html">Laghvī Prakriyā</a></li>
+  <li class="list-group-item px-0"><a href="../works/bhedavadavidarana.html">Bhedāvādavidāraṇa</a></li>
+  <li class="list-group-item px-0"><a href="../works/tattvarthaprakasika.html">Tattvārthaprakāśikā</a></li>
+  <li class="list-group-item px-0"><a href="../works/bimbapratibimbavada.html">Bimbapratibimbavāda</a></li>
+  <li class="list-group-item px-0"><a href="../works/paramarthasamgraha.html">Paramārthasaṁgraha</a></li>
+  <li class="list-group-item px-0"><a href="../works/anuttarasataka.html">Anuttaraśataka</a></li>
+  <li class="list-group-item px-0"><a href="../works/natyalocana.html">Nāṭyalocana</a></li>
+  <li class="list-group-item px-0"><a href="../works/anuttaratatvavimarsni.html">Anuttaratatvavimarśnī</a></li>
+  </ul>
+  </div>
+</div>
