@@ -1,5 +1,5 @@
 ---
-title: Bhāsa
+title: Bhāsa / भास
 format: html
 ---
 
@@ -21,17 +21,17 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-bhasa-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/svapnavasavadattam.html">Svapnavāsavadattam</a></li>
-  <li class="list-group-item px-0"><a href="../works/pratijnayaugandharayanam.html">Pratijñāyaugandharāyaṇam</a></li>
-  <li class="list-group-item px-0"><a href="../works/yajnaphalam.html">Yajñaphalam</a></li>
-  <li class="list-group-item px-0"><a href="../works/pratimanatakam.html">Pratimānāṭakam</a></li>
-  <li class="list-group-item px-0"><a href="../works/abhisekanatakam.html">Abhiṣekanāṭakam</a></li>
-  <li class="list-group-item px-0"><a href="../works/madhyamavyayogah.html">Madhyamavyāyogaḥ</a></li>
-  <li class="list-group-item px-0"><a href="../works/pancaratram.html">Pañcarātram</a></li>
-  <li class="list-group-item px-0"><a href="../works/dutavakyam.html">Dūtavākyam</a></li>
-  <li class="list-group-item px-0"><a href="../works/urubhangam.html">Ūrubhaṅgam</a></li>
-  <li class="list-group-item px-0"><a href="../works/avimarakam.html">Avimārakam</a></li>
-  <li class="list-group-item px-0"><a href="../works/carudattam.html">Cārudattam</a></li>
+  <li class="list-group-item px-0"><a href="../works/svapnavasavadattam.html">Svapnavāsavadattam / स्वप्नवासवदत्तम्</a></li>
+  <li class="list-group-item px-0"><a href="../works/pratijnayaugandharayanam.html">Pratijñāyaugandharāyaṇam / प्रतिज्ञायौगन्धरायणम्</a></li>
+  <li class="list-group-item px-0"><a href="../works/yajnaphalam.html">Yajñaphalam / यज्ञफलम्</a></li>
+  <li class="list-group-item px-0"><a href="../works/pratimanatakam.html">Pratimānāṭakam / प्रतिमानाटकम्</a></li>
+  <li class="list-group-item px-0"><a href="../works/abhisekanatakam.html">Abhiṣekanāṭakam / अभिषेकनाटकम्</a></li>
+  <li class="list-group-item px-0"><a href="../works/madhyamavyayogah.html">Madhyamavyāyogaḥ / मध्यमव्यायोगः</a></li>
+  <li class="list-group-item px-0"><a href="../works/pancaratram.html">Pañcarātram / पञ्चरात्रम्</a></li>
+  <li class="list-group-item px-0"><a href="../works/dutavakyam.html">Dūtavākyam / दूतवाक्यम्</a></li>
+  <li class="list-group-item px-0"><a href="../works/urubhangam.html">Ūrubhaṅgam / ऊरुभङ्गम्</a></li>
+  <li class="list-group-item px-0"><a href="../works/avimarakam.html">Avimārakam / अविमारकम्</a></li>
+  <li class="list-group-item px-0"><a href="../works/carudattam.html">Cārudattam / चारुदत्तम्</a></li>
   </ul>
   </div>
 </div>

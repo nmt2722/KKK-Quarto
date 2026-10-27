@@ -1,5 +1,5 @@
 ---
-title: Ratnākara/ Rājānaka
+title: Ratnākara/ Rājānaka / रत्नाकर / राजानक
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-ratnakara-rajanaka-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/haravijaya.html">Haravijaya’</a></li>
+  <li class="list-group-item px-0"><a href="../works/haravijaya.html">Haravijaya’ / हरविजय</a></li>
   </ul>
   </div>
 </div>

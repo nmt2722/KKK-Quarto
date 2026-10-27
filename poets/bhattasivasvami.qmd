@@ -1,5 +1,5 @@
 ---
-title: Bhaṭṭaśivasvāmi
+title: Bhaṭṭaśivasvāmi / भट्टशिवस्वामि
 format: html
 ---
 
@@ -21,8 +21,8 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-bhattasivasvami-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/kappannabhyudaya.html">Kappaṇṇābhyudaya</a></li>
-  <li class="list-group-item px-0"><a href="../works/pradyumnabhyudaya.html">Pradyumnābhyudaya</a></li>
+  <li class="list-group-item px-0"><a href="../works/kappannabhyudaya.html">Kappaṇṇābhyudaya / कप्पण्णाभ्युदय</a></li>
+  <li class="list-group-item px-0"><a href="../works/pradyumnabhyudaya.html">Pradyumnābhyudaya / प्रद्युम्नाभ्युदय</a></li>
   </ul>
   </div>
 </div>

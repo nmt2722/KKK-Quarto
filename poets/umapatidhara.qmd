@@ -1,5 +1,5 @@
 ---
-title: Umāpatidhara
+title: Umāpatidhara / उमापतिधर
 format: html
 ---
 
@@ -21,8 +21,8 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-umapatidhara-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/parijataharana.html">Pārijātāharaṇa</a></li>
-  <li class="list-group-item px-0"><a href="../works/candracuda.html">Candracūḍa</a></li>
+  <li class="list-group-item px-0"><a href="../works/parijataharana.html">Pārijātāharaṇa / पारिजाताहरण</a></li>
+  <li class="list-group-item px-0"><a href="../works/candracuda.html">Candracūḍa / चन्द्रचूड</a></li>
   </ul>
   </div>
 </div>

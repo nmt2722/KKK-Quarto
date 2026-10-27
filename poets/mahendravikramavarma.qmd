@@ -1,5 +1,5 @@
 ---
-title: Mahendravikramavarmā
+title: Mahendravikramavarmā / महेन्द्रविक्रमवर्मा
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-mahendravikramavarma-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/mattavilasa.html">Mattavilāsa</a></li>
+  <li class="list-group-item px-0"><a href="../works/mattavilasa.html">Mattavilāsa / मत्तविलास</a></li>
   </ul>
   </div>
 </div>

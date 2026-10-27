@@ -1,5 +1,5 @@
 ---
-title: Hemacandra
+title: Hemacandra / हेमचन्द्र
 format: html
 ---
 
@@ -21,15 +21,15 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-hemacandra-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/siddhahema.html">Siddhahema</a></li>
-  <li class="list-group-item px-0"><a href="../works/kavyanusasana.html">Kāvyānuśāsana</a></li>
-  <li class="list-group-item px-0"><a href="../works/abhidhanacintamani.html">Abhidhānacintāmaṇi</a></li>
-  <li class="list-group-item px-0"><a href="../works/balabharata.html">Bālabhārata</a></li>
-  <li class="list-group-item px-0"><a href="../works/pramanamimamsa.html">Pramāṇamīmāṁsā</a></li>
-  <li class="list-group-item px-0"><a href="../works/kumarapalita.html">Kumārapālita</a></li>
-  <li class="list-group-item px-0"><a href="../works/mahavirasvamistotra.html">Mahāvīrasvāmīstotra</a></li>
-  <li class="list-group-item px-0"><a href="../works/yogasastra.html">Yogaśāstra</a></li>
-  <li class="list-group-item px-0"><a href="../works/anyayogavyavacchedikadvatrimsika-kavya.html">Anyayogavyavacchedikādvātriṁśikā Kāvya</a></li>
+  <li class="list-group-item px-0"><a href="../works/siddhahema.html">Siddhahema / सिद्धहेम</a></li>
+  <li class="list-group-item px-0"><a href="../works/kavyanusasana.html">Kāvyānuśāsana / काव्यानुशासन</a></li>
+  <li class="list-group-item px-0"><a href="../works/abhidhanacintamani.html">Abhidhānacintāmaṇi / अभिधानचिन्तामणि</a></li>
+  <li class="list-group-item px-0"><a href="../works/balabharata.html">Bālabhārata / बालभारत</a></li>
+  <li class="list-group-item px-0"><a href="../works/pramanamimamsa.html">Pramāṇamīmāṁsā / प्रमाणमीमांसा</a></li>
+  <li class="list-group-item px-0"><a href="../works/kumarapalita.html">Kumārapālita / कुमारपालित</a></li>
+  <li class="list-group-item px-0"><a href="../works/mahavirasvamistotra.html">Mahāvīrasvāmīstotra / महावीरस्वामीस्तोत्र</a></li>
+  <li class="list-group-item px-0"><a href="../works/yogasastra.html">Yogaśāstra / योगशास्त्र</a></li>
+  <li class="list-group-item px-0"><a href="../works/anyayogavyavacchedikadvatrimsika-kavya.html">Anyayogavyavacchedikādvātriṁśikā Kāvya / अन्ययोगव्यवच्छेदिकाद्वात्रिंशिका काव्य</a></li>
   </ul>
   </div>
 </div>

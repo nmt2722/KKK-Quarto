@@ -1,5 +1,5 @@
 ---
-title: Somadevabhaṭṭa
+title: Somadevabhaṭṭa / सोमदेवभट्ट
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-somadevabhatta-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/kathasaritsagara.html">Kathāsaritsāgara</a></li>
+  <li class="list-group-item px-0"><a href="../works/kathasaritsagara.html">Kathāsaritsāgara / कथासरित्सागर</a></li>
   </ul>
   </div>
 </div>

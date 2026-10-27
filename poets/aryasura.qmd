@@ -1,5 +1,5 @@
 ---
-title: Āryaśūra
+title: Āryaśūra / आर्यशूर
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-aryasura-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/jatakamala-garland-of-birth-stories.html">Jātakamālā (&quot;Garland of Birth Stories”)</a></li>
+  <li class="list-group-item px-0"><a href="../works/jatakamala-garland-of-birth-stories.html">Jātakamālā (&quot;Garland of Birth Stories”) / जातकमाला</a></li>
   </ul>
   </div>
 </div>

@@ -1,10 +1,10 @@
 ---
-title: Bhāratamañjarī
+title: Bhāratamañjarī / भारतमञ्जरी
 format: html
 ---
 
 <div class="accordion" id="workAccordion">
-<div class="accordion-item"><h2 class="accordion-header"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#work-acc-author">Author</button></h2><div id="work-acc-author" class="accordion-collapse collapse show"><div class="accordion-body"><p class="mb-0 work-author"><a href="../poets/ksemendra.html">Kṣemendra</a></p></div></div></div>
+<div class="accordion-item"><h2 class="accordion-header"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#work-acc-author">Author</button></h2><div id="work-acc-author" class="accordion-collapse collapse show"><div class="accordion-body"><p class="mb-0 work-author"><a href="../poets/ksemendra.html">Kṣemendra / क्षेमेन्द्र</a></p></div></div></div>
 <div class="accordion-item"><h2 class="accordion-header"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#work-acc-summary">Summary</button></h2><div id="work-acc-summary" class="accordion-collapse collapse"><div class="accordion-body">Bhāratamañjarī — Verse digest of the Mahābhārata (Sanskrit)</div></div></div>
 <div class="accordion-item"><h2 class="accordion-header"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#work-acc-contents">Contents</button></h2><div id="work-acc-contents" class="accordion-collapse collapse"><div class="accordion-body"><p class="text-muted mb-0">No contents available.</p></div></div></div>
 <div class="accordion-item"><h2 class="accordion-header"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#work-acc-uniqueness">Uniqueness</button></h2><div id="work-acc-uniqueness" class="accordion-collapse collapse"><div class="accordion-body"><p class="text-muted mb-0">No information available.</p></div></div></div>

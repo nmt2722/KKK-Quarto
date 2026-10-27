@@ -1,5 +1,5 @@
 ---
-title: Kalhaṇa
+title: Kalhaṇa / कल्हण
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-kalhana-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/rajatarangini.html">Rājataraṅgiṇī</a></li>
+  <li class="list-group-item px-0"><a href="../works/rajatarangini.html">Rājataraṅgiṇī / राजतरङ्गिणी</a></li>
   </ul>
   </div>
 </div>

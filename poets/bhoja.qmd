@@ -1,5 +1,5 @@
 ---
-title: Bhoja
+title: Bhoja / भोज
 format: html
 ---
 
@@ -21,13 +21,13 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-bhoja-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/sarasvatikanthabharana.html">Sarasvatīkaṇṭhābharaṇa</a></li>
-  <li class="list-group-item px-0"><a href="../works/srngara-prakasa.html">Śṛṅgāra Prakāśa</a></li>
-  <li class="list-group-item px-0"><a href="../works/kavya-mimamsa.html">Kāvya mīmāṃsā</a></li>
-  <li class="list-group-item px-0"><a href="../works/raja-martanda.html">Rāja Mārtāṇḍa</a></li>
-  <li class="list-group-item px-0"><a href="../works/samarangana-sutradhara.html">Samāraṅgaṇa Sūtradhāra</a></li>
-  <li class="list-group-item px-0"><a href="../works/vyavahara-bhasa.html">Vyavahāra- Bhāṣā</a></li>
-  <li class="list-group-item px-0"><a href="../works/jaiminiya-nyayamala.html">Jaiminīya Nyāyamālā</a></li>
+  <li class="list-group-item px-0"><a href="../works/sarasvatikanthabharana.html">Sarasvatīkaṇṭhābharaṇa / सरस्वतीकण्ठाभरण</a></li>
+  <li class="list-group-item px-0"><a href="../works/srngara-prakasa.html">Śṛṅgāra Prakāśa / शृङ्गार प्रकाश</a></li>
+  <li class="list-group-item px-0"><a href="../works/kavya-mimamsa.html">Kāvya mīmāṃsā / काव्य मीमांसा</a></li>
+  <li class="list-group-item px-0"><a href="../works/raja-martanda.html">Rāja Mārtāṇḍa / राज मार्ताण्ड</a></li>
+  <li class="list-group-item px-0"><a href="../works/samarangana-sutradhara.html">Samāraṅgaṇa Sūtradhāra / समराङ्गणसूत्रधार</a></li>
+  <li class="list-group-item px-0"><a href="../works/vyavahara-bhasa.html">Vyavahāra- Bhāṣā / व्यवहार- भाषा</a></li>
+  <li class="list-group-item px-0"><a href="../works/jaiminiya-nyayamala.html">Jaiminīya Nyāyamālā / जैमिनीय न्यायमाला</a></li>
   </ul>
   </div>
 </div>

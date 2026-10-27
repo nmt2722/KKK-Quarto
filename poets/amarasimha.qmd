@@ -1,5 +1,5 @@
 ---
-title: Amarasiṃha
+title: Amarasiṃha / अमरसिंह
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-amarasimha-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/namalinganusasana-popularly-known-as-amarakosa.html">Nāmalingānuśāsana- popularly known as Amarakośa</a></li>
+  <li class="list-group-item px-0"><a href="../works/namalinganusasana-popularly-known-as-amarakosa.html">Nāmalingānuśāsana- popularly known as Amarakośa / नामलिङ्गानुशासन (अमरकोश)</a></li>
   </ul>
   </div>
 </div>

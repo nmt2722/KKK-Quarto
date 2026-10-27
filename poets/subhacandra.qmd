@@ -1,5 +1,5 @@
 ---
-title: Śubhacandra
+title: Śubhacandra / शुभचन्द्र
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-subhacandra-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/jnanarnava.html">Jñānārṇava</a></li>
+  <li class="list-group-item px-0"><a href="../works/jnanarnava.html">Jñānārṇava / ज्ञानार्णव</a></li>
   </ul>
   </div>
 </div>

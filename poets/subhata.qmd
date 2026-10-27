@@ -1,5 +1,5 @@
 ---
-title: Subhaṭa
+title: Subhaṭa / सुभट
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-subhata-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/dutangada.html">Dūtāṅgada</a></li>
+  <li class="list-group-item px-0"><a href="../works/dutangada.html">Dūtāṅgada / दूताङ्गद</a></li>
   </ul>
   </div>
 </div>

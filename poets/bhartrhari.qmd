@@ -1,5 +1,5 @@
 ---
-title: Bhartṛhari
+title: Bhartṛhari / भर्तृहरि
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-bhartrhari-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/the-subhasitatrisati.html">The Subhāṣitatriśatī</a></li>
+  <li class="list-group-item px-0"><a href="../works/the-subhasitatrisati.html">The Subhāṣitatriśatī / सुभाषितत्रिशती</a></li>
   </ul>
   </div>
 </div>

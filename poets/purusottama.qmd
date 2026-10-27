@@ -1,5 +1,5 @@
 ---
-title: Puruṣottama
+title: Puruṣottama / पुरुषोत्तम
 format: html
 ---
 
@@ -21,10 +21,10 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-purusottama-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/purusottamas-visnubhaktikalpalata.html">Puruṣottama's Viṣṇubhaktikalpalatā</a></li>
-  <li class="list-group-item px-0"><a href="../works/purusottamas-trikandasesa.html">Puruṣottama's Trikāṇḍaśeṣa</a></li>
-  <li class="list-group-item px-0"><a href="../works/purusottamas-haravali.html">Puruṣottama's Hārāvalī</a></li>
-  <li class="list-group-item px-0"><a href="../works/purusottamas-ekaksarakosa.html">Puruṣottama's Ekākṣarakoṣa</a></li>
+  <li class="list-group-item px-0"><a href="../works/purusottamas-visnubhaktikalpalata.html">Puruṣottama's Viṣṇubhaktikalpalatā / पुरुषोत्तमस्य विष्णुभक्तिकल्पलता</a></li>
+  <li class="list-group-item px-0"><a href="../works/purusottamas-trikandasesa.html">Puruṣottama's Trikāṇḍaśeṣa / पुरुषोत्तमस्य त्रिकाण्डशेष</a></li>
+  <li class="list-group-item px-0"><a href="../works/purusottamas-haravali.html">Puruṣottama's Hārāvalī / पुरुषोत्तमस्य हारावली</a></li>
+  <li class="list-group-item px-0"><a href="../works/purusottamas-ekaksarakosa.html">Puruṣottama's Ekākṣarakoṣa / पुरुषोत्तमस्य एकाक्षरकोष</a></li>
   </ul>
   </div>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Haricandra
+title: Haricandra / हरिचन्द्र
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-haricandra-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/dharmasarmabhyudhaya.html">Dharmaśarmābhyudhāya</a></li>
+  <li class="list-group-item px-0"><a href="../works/dharmasarmabhyudhaya.html">Dharmaśarmābhyudhāya / धर्मशर्माभ्युदय</a></li>
   </ul>
   </div>
 </div>

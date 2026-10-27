@@ -1,5 +1,5 @@
 ---
-title: Udbhaṭṭa
+title: Udbhaṭṭa / उद्भट्ट
 format: html
 ---
 
@@ -21,9 +21,9 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-udbhatta-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/alankarasarasamgraha-kavyalankarasarasamgraha.html">Alaṅkārasārasaṁgraha (Kavyālaṅkārasārasaṁgraha)</a></li>
-  <li class="list-group-item px-0"><a href="../works/bhamahavivarana.html">Bhāmahavivaraṇa</a></li>
-  <li class="list-group-item px-0"><a href="../works/tika-on-natya-sastra.html">Ṭīkā on Nāṭya śāstra</a></li>
+  <li class="list-group-item px-0"><a href="../works/alankarasarasamgraha-kavyalankarasarasamgraha.html">Alaṅkārasārasaṁgraha (Kavyālaṅkārasārasaṁgraha) / अलङ्कारसारसंग्रह (काव्यालङ्कारसारसंग्रह)</a></li>
+  <li class="list-group-item px-0"><a href="../works/bhamahavivarana.html">Bhāmahavivaraṇa / भामहविवरण</a></li>
+  <li class="list-group-item px-0"><a href="../works/tika-on-natya-sastra.html">Ṭīkā on Nāṭya śāstra / नाट्यशास्त्रटीका</a></li>
   </ul>
   </div>
 </div>

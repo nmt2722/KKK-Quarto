@@ -1,5 +1,5 @@
 ---
-title: Śambhukavi
+title: Śambhukavi / शम्भुकवि
 format: html
 ---
 
@@ -21,8 +21,8 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-sambhukavi-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/rajendrakarnapura.html">Rājendrakarṇapūra</a></li>
-  <li class="list-group-item px-0"><a href="../works/anyoktimuktalata.html">Anyoktimuktalatā</a></li>
+  <li class="list-group-item px-0"><a href="../works/rajendrakarnapura.html">Rājendrakarṇapūra / राजेन्द्रकर्णपूर</a></li>
+  <li class="list-group-item px-0"><a href="../works/anyoktimuktalata.html">Anyoktimuktalatā / अन्योक्तिमुक्तलता</a></li>
   </ul>
   </div>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Āryakṣemīśvara
+title: Āryakṣemīśvara / आर्यक्षेमीश्वर
 format: html
 ---
 
@@ -21,9 +21,9 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-aryaksemisvara-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/jnanasiddhi.html">Jñānasiddhi.</a></li>
-  <li class="list-group-item px-0"><a href="../works/candakausika.html">Caṇḍakauśika.</a></li>
-  <li class="list-group-item px-0"><a href="../works/naisadhananda-kavya.html">Naiṣadhānanda kāvya.</a></li>
+  <li class="list-group-item px-0"><a href="../works/jnanasiddhi.html">Jñānasiddhi. / ज्ञानसिद्धि.</a></li>
+  <li class="list-group-item px-0"><a href="../works/candakausika.html">Caṇḍakauśika. / चण्डकौशिक.</a></li>
+  <li class="list-group-item px-0"><a href="../works/naisadhananda-kavya.html">Naiṣadhānanda kāvya. / नैषधानन्द काव्य.</a></li>
   </ul>
   </div>
 </div>

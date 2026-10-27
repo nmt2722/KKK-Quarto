@@ -1,5 +1,5 @@
 ---
-title: Lolambarāja
+title: Lolambarāja / लोलम्बराज
 format: html
 ---
 
@@ -21,8 +21,8 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-lolambaraja-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/saksi-gopala-viraha-kavya.html">Sākṣi-gopāla-viraha-kāvya</a></li>
-  <li class="list-group-item px-0"><a href="../works/harivilasa.html">Harivilāsa</a></li>
+  <li class="list-group-item px-0"><a href="../works/saksi-gopala-viraha-kavya.html">Sākṣi-gopāla-viraha-kāvya / साक्षि-गोपाल-विरह-काव्य</a></li>
+  <li class="list-group-item px-0"><a href="../works/harivilasa.html">Harivilāsa / हरिविलास</a></li>
   </ul>
   </div>
 </div>

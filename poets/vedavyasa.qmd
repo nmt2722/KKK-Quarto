@@ -1,5 +1,5 @@
 ---
-title: Vedavyāsa
+title: Vedavyāsa / वेदव्यास
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-vedavyasa-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/mahabharata.html">Mahābhārata</a></li>
+  <li class="list-group-item px-0"><a href="../works/mahabharata.html">Mahābhārata / महाभारत</a></li>
   </ul>
   </div>
 </div>

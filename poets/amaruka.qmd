@@ -1,5 +1,5 @@
 ---
-title: Amaruka
+title: Amaruka / अमरुक
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-amaruka-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/amarukasataka.html">Amarukaśataka</a></li>
+  <li class="list-group-item px-0"><a href="../works/amarukasataka.html">Amarukaśataka / अमरुकशतक</a></li>
   </ul>
   </div>
 </div>

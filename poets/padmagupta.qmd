@@ -1,5 +1,5 @@
 ---
-title: Padmagupta
+title: Padmagupta / पद्मगुप्त
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-padmagupta-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/navasahasamkacarita.html">Navasāhasāṃkacarita</a></li>
+  <li class="list-group-item px-0"><a href="../works/navasahasamkacarita.html">Navasāhasāṃkacarita / नवसाहसाङ्कचरित</a></li>
   </ul>
   </div>
 </div>

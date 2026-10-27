@@ -1,5 +1,5 @@
 ---
-title: Subandhu
+title: Subandhu / सुबन्धु
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-subandhu-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/vasavadatta.html">Vāsavadattā</a></li>
+  <li class="list-group-item px-0"><a href="../works/vasavadatta.html">Vāsavadattā / वासवदत्ता</a></li>
   </ul>
   </div>
 </div>

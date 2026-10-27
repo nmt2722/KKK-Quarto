@@ -1,5 +1,5 @@
 ---
-title: Bhaṭṭabhīma / Bhaṭṭabhaumaka.
+title: Bhaṭṭabhīma / Bhaṭṭabhaumaka. / भट्टभीम / भट्टभौमक.
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-bhattabhima-bhattabhaumaka-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/ravanarjuniyam-arjunaravaniyam.html">Rāvaṇārjunīyam / Arjunarāvaṇīyam</a></li>
+  <li class="list-group-item px-0"><a href="../works/ravanarjuniyam-arjunaravaniyam.html">Rāvaṇārjunīyam / Arjunarāvaṇīyam / रावणार्जुनीयम् / अर्जुनरावणीयम्</a></li>
   </ul>
   </div>
 </div>

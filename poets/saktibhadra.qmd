@@ -1,5 +1,5 @@
 ---
-title: Śaktibhadra
+title: Śaktibhadra / शक्तिभद्र
 format: html
 ---
 
@@ -21,8 +21,8 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-saktibhadra-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/ascaryacudamani.html">Āścaryacūḍāmaṇi</a></li>
-  <li class="list-group-item px-0"><a href="../works/unmadavasavadatta.html">Unmādavāsavadattā</a></li>
+  <li class="list-group-item px-0"><a href="../works/ascaryacudamani.html">Āścaryacūḍāmaṇi / आश्चर्यचूडामणि</a></li>
+  <li class="list-group-item px-0"><a href="../works/unmadavasavadatta.html">Unmādavāsavadattā / उन्मादवासवदत्ता</a></li>
   </ul>
   </div>
 </div>

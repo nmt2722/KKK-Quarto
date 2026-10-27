@@ -1,5 +1,5 @@
 ---
-title: Bilhaṇa
+title: Bilhaṇa / बिल्हण
 format: html
 ---
 
@@ -21,9 +21,9 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-bilhana-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/vikramankadevacaritam.html">Vikramāṇkadevacaritam</a></li>
-  <li class="list-group-item px-0"><a href="../works/karnasundari.html">Karṇasundarī</a></li>
-  <li class="list-group-item px-0"><a href="../works/caurapancasika.html">Caurapañcāśikā</a></li>
+  <li class="list-group-item px-0"><a href="../works/vikramankadevacaritam.html">Vikramāṇkadevacaritam / विक्रमाङ्कदेवचरितम्</a></li>
+  <li class="list-group-item px-0"><a href="../works/karnasundari.html">Karṇasundarī / कर्णसुन्दरी</a></li>
+  <li class="list-group-item px-0"><a href="../works/caurapancasika.html">Caurapañcāśikā / चौरपञ्चाशिका</a></li>
   </ul>
   </div>
 </div>

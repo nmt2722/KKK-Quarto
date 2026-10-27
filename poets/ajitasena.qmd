@@ -1,5 +1,5 @@
 ---
-title: Ajitasena
+title: Ajitasena / अजितसेन
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-ajitasena-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/srngaramanjari.html">Śṛṅgāramañjarī</a></li>
+  <li class="list-group-item px-0"><a href="../works/srngaramanjari.html">Śṛṅgāramañjarī / शृङ्गारमञ्जरी</a></li>
   </ul>
   </div>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Śrīharṣa
+title: Śrīharṣa / श्रीहर्ष
 format: html
 ---
 
@@ -21,8 +21,8 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-sriharsa-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/naisadhacarita.html">Naiṣadhacarita</a></li>
-  <li class="list-group-item px-0"><a href="../works/ratnavali.html">Ratnāvalī</a></li>
+  <li class="list-group-item px-0"><a href="../works/naisadhacarita.html">Naiṣadhacarita / नैषधचरित</a></li>
+  <li class="list-group-item px-0"><a href="../works/ratnavali.html">Ratnāvalī / रत्नावली</a></li>
   </ul>
   </div>
 </div>

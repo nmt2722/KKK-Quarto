@@ -1,5 +1,5 @@
 ---
-title: Dhanapāla
+title: Dhanapāla / धनपाल
 format: html
 ---
 
@@ -21,8 +21,8 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-dhanapala-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/tilakamannjari.html">Tilakamanñjarī</a></li>
-  <li class="list-group-item px-0"><a href="../works/rsabhapancasika.html">Ṛṣabhapañcāśikā</a></li>
+  <li class="list-group-item px-0"><a href="../works/tilakamannjari.html">Tilakamanñjarī / तिलकमञ्जरी</a></li>
+  <li class="list-group-item px-0"><a href="../works/rsabhapancasika.html">Ṛṣabhapañcāśikā / ऋषभपञ्चाशिका</a></li>
   </ul>
   </div>
 </div>

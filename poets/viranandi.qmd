@@ -1,5 +1,5 @@
 ---
-title: Vīranandi
+title: Vīranandi / वीरनन्दि
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-viranandi-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/candraprabhacarita.html">Candraprabhacarita</a></li>
+  <li class="list-group-item px-0"><a href="../works/candraprabhacarita.html">Candraprabhacarita / चन्द्रप्रभचरित</a></li>
   </ul>
   </div>
 </div>

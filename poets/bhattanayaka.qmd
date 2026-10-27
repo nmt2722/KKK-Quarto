@@ -1,5 +1,5 @@
 ---
-title: Bhaṭṭanāyaka
+title: Bhaṭṭanāyaka / भट्टनायक
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-bhattanayaka-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/hrdayadarpana.html">Hṛdayadarpaṇa</a></li>
+  <li class="list-group-item px-0"><a href="../works/hrdayadarpana.html">Hṛdayadarpaṇa / हृदयदर्पण</a></li>
   </ul>
   </div>
 </div>

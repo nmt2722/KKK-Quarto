@@ -1,5 +1,5 @@
 ---
-title: Bhavabhūti
+title: Bhavabhūti / भवभूति
 format: html
 ---
 
@@ -21,9 +21,9 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-bhavabhuti-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/mahaviracarita.html">Mahāvīrācārita</a></li>
-  <li class="list-group-item px-0"><a href="../works/malatimadhava.html">Mālatīmādhava</a></li>
-  <li class="list-group-item px-0"><a href="../works/uttararamacarita.html">Uttararāmacarita</a></li>
+  <li class="list-group-item px-0"><a href="../works/mahaviracarita.html">Mahāvīrācārita / महावीरचरित</a></li>
+  <li class="list-group-item px-0"><a href="../works/malatimadhava.html">Mālatīmādhava / मालतीमाधव</a></li>
+  <li class="list-group-item px-0"><a href="../works/uttararamacarita.html">Uttararāmacarita / उत्तररामचरित</a></li>
   </ul>
   </div>
 </div>

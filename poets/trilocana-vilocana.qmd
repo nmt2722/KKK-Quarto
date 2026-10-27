@@ -1,5 +1,5 @@
 ---
-title: Trilōcana / Vilōcana
+title: Trilōcana / Vilōcana / त्रिलोचन / विलोचन
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-trilocana-vilocana-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/parthavijayam.html">Pārthavijayam</a></li>
+  <li class="list-group-item px-0"><a href="../works/parthavijayam.html">Pārthavijayam / पार्थविजयम्</a></li>
   </ul>
   </div>
 </div>

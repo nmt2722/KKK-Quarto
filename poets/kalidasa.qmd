@@ -1,5 +1,5 @@
 ---
-title: Kāḷidāsa
+title: Kāḷidāsa / कालिदास
 format: html
 ---
 
@@ -21,13 +21,13 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-kalidasa-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/rtusamharah.html">Ṛtusaṃhāraḥ,</a></li>
-  <li class="list-group-item px-0"><a href="../works/meghadutam.html">Meghadūtam,</a></li>
-  <li class="list-group-item px-0"><a href="../works/kumarasambhavam.html">Kumārasambhavam</a></li>
-  <li class="list-group-item px-0"><a href="../works/raghuvamsam.html">Raghuvamśaṁ.</a></li>
-  <li class="list-group-item px-0"><a href="../works/malavikagnimitram.html">Mālavikāgnimitram</a></li>
-  <li class="list-group-item px-0"><a href="../works/vikramorvasiyam.html">Vikramōrvaśīyaṁ</a></li>
-  <li class="list-group-item px-0"><a href="../works/abhijnanasakuntalam.html">Abhijñānaśākuntalaṁ</a></li>
+  <li class="list-group-item px-0"><a href="../works/rtusamharah.html">Ṛtusaṃhāraḥ, / ऋतुसंहारः,</a></li>
+  <li class="list-group-item px-0"><a href="../works/meghadutam.html">Meghadūtam, / मेघदूतम्,</a></li>
+  <li class="list-group-item px-0"><a href="../works/kumarasambhavam.html">Kumārasambhavam / कुमारसम्भवम्</a></li>
+  <li class="list-group-item px-0"><a href="../works/raghuvamsam.html">Raghuvamśaṁ. / रघुवंशं.</a></li>
+  <li class="list-group-item px-0"><a href="../works/malavikagnimitram.html">Mālavikāgnimitram / मालविकाग्निमित्रम्</a></li>
+  <li class="list-group-item px-0"><a href="../works/vikramorvasiyam.html">Vikramōrvaśīyaṁ / विक्रमोर्वशीयं</a></li>
+  <li class="list-group-item px-0"><a href="../works/abhijnanasakuntalam.html">Abhijñānaśākuntalaṁ / अभिज्ञानशाकुन्तलं</a></li>
   </ul>
   </div>
 </div>

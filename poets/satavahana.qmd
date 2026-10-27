@@ -1,5 +1,5 @@
 ---
-title: Sātavāhana
+title: Sātavāhana / सातवाहन
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-satavahana-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/gathasaptasati.html">Gāthāsaptaśatī</a></li>
+  <li class="list-group-item px-0"><a href="../works/gathasaptasati.html">Gāthāsaptaśatī / गाथासप्तशती</a></li>
   </ul>
   </div>
 </div>

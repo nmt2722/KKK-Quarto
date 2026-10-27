@@ -1,5 +1,5 @@
 ---
-title: Vāmana
+title: Vāmana / वामन
 format: html
 ---
 
@@ -21,8 +21,8 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-vamana-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/kavyalankarasutrasara.html">Kāvyālaṅkārasūtrasāra</a></li>
-  <li class="list-group-item px-0"><a href="../works/rasavilasa.html">Rasavilāsa</a></li>
+  <li class="list-group-item px-0"><a href="../works/kavyalankarasutrasara.html">Kāvyālaṅkārasūtrasāra / काव्यालङ्कारसूत्रसार</a></li>
+  <li class="list-group-item px-0"><a href="../works/rasavilasa.html">Rasavilāsa / रसविलास</a></li>
   </ul>
   </div>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Bhaṭṭanārāyaṇa
+title: Bhaṭṭanārāyaṇa / भट्टनारायण
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-bhattanarayana-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/the-only-known-work-of-this-poet-is-venisamhara-binding-of-hair.html">The only known work of this Poet is Veṇīsaṃhāra (Binding of hair)</a></li>
+  <li class="list-group-item px-0"><a href="../works/the-only-known-work-of-this-poet-is-venisamhara-binding-of-hair.html">The only known work of this Poet is Veṇīsaṃhāra (Binding of hair) / वेणीसंहार</a></li>
   </ul>
   </div>
 </div>

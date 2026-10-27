@@ -1,5 +1,5 @@
 ---
-title: Māgha
+title: Māgha / माघ
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-magha-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/sisupalavadha.html">Śiśupālavadha</a></li>
+  <li class="list-group-item px-0"><a href="../works/sisupalavadha.html">Śiśupālavadha / शिशुपालवध</a></li>
   </ul>
   </div>
 </div>

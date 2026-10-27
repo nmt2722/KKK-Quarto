@@ -1,5 +1,5 @@
 ---
-title: Buddhaghoṣa
+title: Buddhaghoṣa / बुद्धघोष
 format: html
 ---
 
@@ -21,8 +21,8 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-buddhaghosa-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/visuddhimagga.html">Viśuddhimagga</a></li>
-  <li class="list-group-item px-0"><a href="../works/milindapanha.html">Milindāpanha</a></li>
+  <li class="list-group-item px-0"><a href="../works/visuddhimagga.html">Viśuddhimagga / विशुद्धिमग्ग</a></li>
+  <li class="list-group-item px-0"><a href="../works/milindapanha.html">Milindāpanha / मिलिन्दापन्ह</a></li>
   </ul>
   </div>
 </div>

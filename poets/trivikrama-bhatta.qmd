@@ -1,5 +1,5 @@
 ---
-title: Trivikrama Bhaṭṭa
+title: Trivikrama Bhaṭṭa / त्रिविक्रम भट्ट
 format: html
 ---
 
@@ -21,7 +21,7 @@ format: html
   </div>
   <div class="tab-pane fade" id="nav-trivikrama-bhatta-works" role="tabpanel">
   <ul class="list-group list-group-flush">
-  <li class="list-group-item px-0"><a href="../works/nalacampu.html">Naḷacampū</a></li>
+  <li class="list-group-item px-0"><a href="../works/nalacampu.html">Naḷacampū / नलचम्पू</a></li>
   </ul>
   </div>
 </div>
